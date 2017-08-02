@@ -1,0 +1,85 @@
+_id,_pct_missed,_judgments,_hidden,_contention,_pct_contested,_gold_pool,_label,label_gold,label_gold_reason,word1,word2
+1143390341,0.50,24,false,"",0.0,,"",antonym,Unclear indicates that something is not clear or there is no clarity. Disputable also has a similar meaning to Unclear so that means that Unclear and Indisputable must have opposite meanings/negating meanings in some contexts.,unclear,indisputable
+1143390370,0.19,26,false,"",0.0,,"",antonym,dis is a negating prefix,disproportionately,proportionately
+1143390416,0.44,27,false,"",0.0,,"",unrelated,These words are unrelated and have no relationship (Think about replacing one of the words with the other in a sentence),intention,apply
+1143390438,0.15,33,false,"",0.0,,"",unrelated,These words are unrelated and have no relationship (Think about replacing one of the words with the other in a sentence),long,import
+1143390476,0.30,23,false,"",0.0,,"",antonym,Negating words or can have opposite meanings when used in a sentence,adulthood,immaturity
+1143390686,0.67,24,false,"",0.0,,"",other,Not exactly antonyms but have some other relationship (Readily do something vs. Easy to do something),readily,easy
+1143390819,0.21,24,false,"",0.0,,"",unrelated,These words are unrelated and have no relationship (Think about replacing one of the words with the other in a sentence),even,head
+1143390951,0.31,26,false,"",0.0,,"","antonym
+unrelated
+other",Not exactly antonyms but have some other relationship,center,left
+1143392383,0.47,19,false,"",0.0,,"",antonym,onerous - hard task,onerous,light
+1143392464,0.60,15,false,Usurious -  it is about lending of money. Definitely not antonim...kindly review pls.,0.0667,,"",antonym,"Within the context of lending money, here's 2 possible negating sentences with these 2 words : ""lending money at usurious rates"" vs. ""lending money at reasonable rates"". REMEMBER: They do not have to be exact antonyms but words that when used in sentences that lead to a negating pair of sentences must be marked as 'Antonym'.",usurious,reasonable
+1143392515,0.06,18,false,"",0.0,,"","antonym
+unrelated
+other","",upright,lousy
+1143392561,0.20,15,false,"",0.0,,"",unrelated,Bod is probably body and has no relation with ground,bod,ground
+1143392570,0.00,13,false,"",0.0,,"","antonym
+unrelated
+other",Not exactly antonyms but have some other relationship,incorrect,decently
+1143392575,0.35,17,false,"",0.0,,"",unrelated,"",even,low
+1143392577,0.50,10,false,"",0.0,,"",antonym,"",badly,fair
+1143392594,0.41,22,false,"",0.0,,"",antonym,"",fear,fearlessness
+1143392855,0.44,9,false,"",0.1111,,"","unrelated
+entailment
+other","",tensely,extremely hard
+1143392935,0.36,14,false,It is like : many and badly... how can i decide that this is &quot;antonym&quot;??,0.0714,,"","antonym
+other","",plenty,poorly
+1143392957,0.08,12,false,"",0.0,,"",unrelated,"",even,glib
+1143393033,0.67,12,false,"",0.0,,"",other,"",easy,leisurely
+1143393106,0.00,11,false,"",0.0,,"","unrelated
+other","",compatible,patronise
+1143393167,0.11,9,false,"",0.0,,"","unrelated
+other","",long,hatful
+1143393283,0.29,7,false,"",0.0,,"","antonym
+other",appropriate decision vs. flawed decision,appropriate,flaw
+1143393334,0.17,6,false,"",0.0,,"",unrelated,"",right,ill-timed
+1143393378,0.29,7,false,"",0.0,,"",unrelated,They are unrelated pairs,slowly,terrible
+1143393540,0.33,12,false,"",0.0833,,"","antonym
+unrelated
+other",weak relationship vs. sound relationship,weak,sound
+1143393564,0.80,5,false,"",0.0,,"",antonym,"",sufficiency,limited
+1143393592,0.20,10,false,"",0.0,,"",unrelated,"",no,neutralize
+1143393618,0.27,11,false,"",0.0,,"",other,Similar meaning,difficult,harsh
+1143393636,0.11,9,false,"",0.0,,"",antonym,"",irrelevant,substantial
+1143393689,0.12,8,false,"",0.0,,"",unrelated,"",scarce,huh
+1143393726,0.12,8,false,"",0.125,,"","unrelated
+other","",properly,handsome
+1143393800,0.60,10,false,"",0.0,,"",other,Similar meaning,bad,cunning
+1143393840,0.75,4,false,"",0.0,,"",antonym,pattern <-> usual,unusual,pattern
+1143393867,0.38,8,false,"",0.0,,"",antonym,"",innocuous,noxious
+1143393902,0.58,12,false,"",0.0,,"",other,Similar meaning,turnabout,obverse
+1143393949,0.60,5,false,"",0.0,,"",antonym,"",immorality,good
+1143393970,0.40,5,false,"",0.0,,"",unrelated,"",well,gloomy
+1143394012,0.20,5,false,"",0.2,,"","antonym
+unrelated
+other","",undefined,determine
+1143394053,0.00,1,false,"",0.0,,"",other,Similar meaning,accurate,TRUE
+1143394085,1.00,2,false,"",0.0,,"",other,"",compatible,sustain
+1143394128,0.00,2,false,"",0.0,,"","unrelated
+other",Not exactly antonyms but have some other relationship,mediocre,wrong
+1143394221,0.00,2,false,"",0.0,,"","unrelated
+other",Could be other or unrelated - Tardiness could be impractical,impractical,tardily
+1143394225,0.00,2,false,"",0.0,,"",antonym,"",unserviceable,serviceable
+1143394241,0.00,1,false,"",0.0,,"","unrelated
+other","",pretend,good
+1143394298,0.50,2,false,"",0.0,,"",unrelated,"",level,anymore
+1143394340,0.50,4,false,"",0.0,,"",other,Similar meaning,sufficiency,satisfactory
+1143394359,0.00,2,false,"",0.0,,"","unrelated
+other","",effective,hard
+1143394370,1.00,1,false,"",0.0,,"",antonym,"",tie,untie
+1143394425,0.00,1,false,"",0.0,,"",antonym,"",satisfactory,unbearable
+1143394578,0.00,1,false,"",0.0,,"","unrelated
+other",Could have a relationship like lightly want something vs yearn for something,lightly,yearn
+1143394590,0.00,0,false,"",0,,"",antonym,outcome and consequence mean same thing so outcome and inconsequence are antonyms,outcome,inconsequence
+1143394607,0.00,0,false,"",0,,"",other,"",horrible,correct
+1143394626,0.50,2,false,"",0.0,,"",unrelated,"",generally,long
+1143394676,1.00,2,false,"",0.0,,"",antonym,Coruscate - flashing or sparkling vs still,coruscate,still
+1143394689,0.00,2,false,"",0.0,,"",unrelated,"",dirty,ripe
+1143394698,0.00,1,false,"",0.0,,"",unrelated,"",d,personify
+1143394725,0.00,2,false,"",0.0,,"",unrelated,"",easily,wrongly
+1143607475,0.00,0,false,"",0,,"",unrelated,"",powerful,somewhat
+1143607482,0.00,0,false,"",0,,"",unrelated,"",compatible,patronize
+1143607486,0.00,0,false,"",0,,"",unrelated,"",there,back
+1143607495,0.00,0,false,"",0,,"",unrelated,"",unvoiced,tough

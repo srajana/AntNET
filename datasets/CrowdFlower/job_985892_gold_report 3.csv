@@ -1,0 +1,240 @@
+_id,_pct_missed,_judgments,_hidden,_contention,_pct_contested,_gold_pool,_label,label_gold,label_gold_reason,word1,word2
+1143390341,0.53,36,false,"Unclear could be called an antonym with vague, obscure, doubtful, etc.
+Something might be very clear, and yet you don't agree with it, so it will still be disputable.
+
+Unclear and indisputable don't exactly go as antonyms, please. You can also search &quot;Indisputable meaning&quot; on Google to verify my claim.
+Review this question.",0.0278,,"",antonym,Unclear indicates that something is not clear or there is no clarity. Disputable also has a similar meaning to Unclear so that means that Unclear and Indisputable must have opposite meanings/negating meanings in some contexts.,unclear,indisputable
+1143390370,0.15,33,false,"",0.0,,"",antonym,dis is a negating prefix,disproportionately,proportionately
+1143390416,0.34,35,false,"",0.0,,"",unrelated,These words are unrelated and have no relationship (Think about replacing one of the words with the other in a sentence),intention,apply
+1143390438,0.18,45,false,unfair,0.0222,,"",unrelated,These words are unrelated and have no relationship (Think about replacing one of the words with the other in a sentence),long,import
+1143390476,0.33,39,false,"",0.0,,"",antonym,Negating words or can have opposite meanings when used in a sentence,adulthood,immaturity
+1143390686,0.73,37,false,Synonym  Readily do something or Easy to do something,0.027,,"",other,Not exactly antonyms but have some other relationship (Readily do something vs. Easy to do something),readily,easy
+1143390819,0.18,33,false,"",0.0,,"",unrelated,These words are unrelated and have no relationship (Think about replacing one of the words with the other in a sentence),even,head
+1143390951,0.37,38,false,"",0.0,,"","antonym
+unrelated
+other",Not exactly antonyms but have some other relationship,center,left
+1143392383,0.61,28,false,"",0.0,,"",antonym,onerous - hard task,onerous,light
+1143392464,0.71,24,false,Usurious -  it is about lending of money. Definitely not antonim...kindly review pls.,0.0417,,"",antonym,"Within the context of lending money, here's 2 possible negating sentences with these 2 words : ""lending money at usurious rates"" vs. ""lending money at reasonable rates"". REMEMBER: They do not have to be exact antonyms but words that when used in sentences that lead to a negating pair of sentences must be marked as 'Antonym'.",usurious,reasonable
+1143392515,0.06,33,false,"",0.0,,"","antonym
+unrelated
+other","",upright,lousy
+1143392561,0.12,26,false,"",0.0,,"",unrelated,Bod is probably body and has no relation with ground,bod,ground
+1143392570,0.00,21,false,"",0.0,,"","antonym
+unrelated
+other",Not exactly antonyms but have some other relationship,incorrect,decently
+1143392575,0.28,25,false,"",0.0,,"",unrelated,"",even,low
+1143392577,0.52,23,false,"",0.0,,"",antonym,"",badly,fair
+1143392594,0.34,35,false,"",0.0,,"",antonym,"",fear,fearlessness
+1143392855,0.48,23,false,"This was my error as I know these words are not antonyms but, they can be considered Synonyms. Entailment is very proper.",0.087,,"","unrelated
+entailment
+other","",tensely,extremely hard
+1143392935,0.43,30,false,It is like : many and badly... how can i decide that this is &quot;antonym&quot;??,0.0333,,"","antonym
+other","",plenty,poorly
+1143392957,0.13,23,false,"",0.0,,"",unrelated,"",even,glib
+1143393033,0.74,19,false,"",0.0,,"",other,"",easy,leisurely
+1143393106,0.05,22,false,"",0.0,,"","unrelated
+other","",compatible,patronise
+1143393167,0.19,21,false,"",0.0,,"","unrelated
+other","",long,hatful
+1143393283,0.44,16,false,"",0.0,,"","antonym
+other",appropriate decision vs. flawed decision,appropriate,flaw
+1143393334,0.14,14,false,"",0.0,,"",unrelated,"",right,ill-timed
+1143393378,0.32,25,false,"",0.0,,"",unrelated,They are unrelated pairs,slowly,terrible
+1143393540,0.22,23,false,"",0.0435,,"","antonym
+unrelated
+other",weak relationship vs. sound relationship,weak,sound
+1143393564,0.80,20,false,"",0.0,,"",antonym,"",sufficiency,limited
+1143393592,0.21,19,false,"",0.0,,"",unrelated,"",no,neutralize
+1143393618,0.63,30,false,"It is a synonym, since it has the similar meaning.",0.0333,,"",other,Similar meaning,difficult,harsh
+1143393636,0.18,17,false,"",0.0,,"",antonym,"",irrelevant,substantial
+1143393689,0.20,20,false,"",0.0,,"",unrelated,"",scarce,huh
+1143393726,0.11,18,false,"",0.0556,,"","unrelated
+other","",properly,handsome
+1143393800,0.61,18,false,"",0.0,,"",other,Similar meaning,bad,cunning
+1143393840,0.79,14,false,"",0.0,,"",antonym,pattern <-> usual,unusual,pattern
+1143393867,0.23,22,false,"",0.0,,"",antonym,"",innocuous,noxious
+1143393902,0.65,23,false,"",0.0,,"",other,Similar meaning,turnabout,obverse
+1143393949,0.40,15,false,"",0.0,,"",antonym,"",immorality,good
+1143393970,0.62,16,false,"",0.0,,"",unrelated,"",well,gloomy
+1143394012,0.07,15,false,"",0.0667,,"","antonym
+unrelated
+other","",undefined,determine
+1143394053,0.76,17,false,Synonim,0.0588,,"",other,Similar meaning,accurate,TRUE
+1143394085,0.86,14,false,"",0.0,,"",other,"",compatible,sustain
+1143394128,0.47,17,false,"",0.0,,"","unrelated
+other",Not exactly antonyms but have some other relationship,mediocre,wrong
+1143394221,0.08,12,false,"",0.0,,"","unrelated
+other",Could be other or unrelated - Tardiness could be impractical,impractical,tardily
+1143394225,0.09,11,false,"",0.0,,"",antonym,"",unserviceable,serviceable
+1143394241,0.00,10,false,"",0.0,,"","unrelated
+other","",pretend,good
+1143394298,0.15,20,false,"",0.0,,"",unrelated,"",level,anymore
+1143394340,0.88,16,false,"",0.0,,"",other,Similar meaning,sufficiency,satisfactory
+1143394359,0.00,6,false,"",0.0,,"","unrelated
+other","",effective,hard
+1143394370,0.33,18,false,"",0.0,,"",antonym,"",tie,untie
+1143394425,0.20,15,false,"",0.0,,"",antonym,"",satisfactory,unbearable
+1143394578,0.21,14,false,"",0.0,,"","unrelated
+other",Could have a relationship like lightly want something vs yearn for something,lightly,yearn
+1143394590,0.92,13,false,"",0.0,,"",antonym,outcome and consequence mean same thing so outcome and inconsequence are antonyms,outcome,inconsequence
+1143394607,0.88,8,false,there is no connection between horrible and correct,0.125,,"",other,"",horrible,correct
+1143394626,0.21,19,false,"",0.0,,"",unrelated,"",generally,long
+1143394676,0.93,15,false,"?
+?",0.0667,,"",antonym,Coruscate - flashing or sparkling vs still,coruscate,still
+1143394689,0.25,8,false,"",0.0,,"",unrelated,"",dirty,ripe
+1143394698,0.25,8,false,"",0.0,,"",unrelated,"",d,personify
+1143394725,0.44,18,false,"",0.0,,"",unrelated,"",easily,wrongly
+1143607475,0.36,11,false,"",0.0,,"",unrelated,"",powerful,somewhat
+1143607482,0.47,17,false,"",0.0,,"",unrelated,"",compatible,patronize
+1143607486,0.40,15,false,"&quot;He went there and back&quot; - obviously they're opposite in that sentence, but maybe not strictly opposite in meaning in an &quot;antonym&quot; sense as it's a very specific usage.",0.0667,,"",unrelated,"",there,back
+1143607495,0.00,6,false,"",0.0,,"",unrelated,"",unvoiced,tough
+1146590713,0.22,9,false,"",0.0,,"",unrelated,"",powerful,somewhat
+1146590815,0.29,14,false,"",0.0,,"",unrelated,"",powerful,somewhat
+1146590835,0.38,13,false,"",0.0,,"",unrelated,"",compatible,patronize
+1146590838,0.00,14,false,"",0.0,,"",unrelated,"",there,back
+1146590973,0.78,9,false,"",0.0,,"","antonym
+other","",unvoiced,tough
+1146591016,0.18,11,false,"",0.0,,"",unrelated,"",painful,near
+1146591039,0.44,9,false,"",0.0,,"",unrelated,"",one-time,later
+1146591107,0.10,10,false,"",0.0,,"",antonym,"",disingenuous,TRUE
+1146591115,0.14,7,false,"",0.0,,"",unrelated,"",cold,easily
+1146591485,0.12,17,false,"",0.0,,"",unrelated,"",powerful,somewhat
+1146591512,0.17,12,false,"",0.0,,"",unrelated,"",compatible,patronize
+1146591526,0.22,9,false,"",0.0,,"",unrelated,"",there,back
+1146591541,0.67,12,false,"",0.0,,"","antonym
+other","",unvoiced,tough
+1146591547,0.25,8,false,"",0.0,,"",unrelated,"",painful,near
+1146591572,0.40,15,false,"",0.0,,"",unrelated,"",one-time,later
+1146591581,0.10,10,false,"",0.0,,"",antonym,"",disingenuous,TRUE
+1146591583,0.20,10,false,"",0.0,,"",unrelated,"",cold,easily
+1146591591,0.00,11,false,"",0.0,,"","paraphrase
+other","",accurate,right
+1146591597,0.00,14,false,"",0.0,,"",antonym,"",harmful,healthy
+1146591606,0.25,12,false,"",0.0,,"",unrelated,"",scarce,huh
+1146591633,0.00,4,false,"",0.0,,"",unrelated,"",hanker,shortly
+1146591639,0.00,14,false,"",0.0,,"",unrelated,"",designate,even
+1146591643,0.20,10,false,"",0.0,,"",unrelated,"",allow,rude
+1146591649,0.14,7,false,"",0.0,,"",unrelated,"",merely,want
+1146591677,0.14,7,false,"",0.0,,"",unrelated,"",discourtesy,defence
+1146591692,0.44,16,false,"",0.0,,"",unrelated,"",sole,certainly
+1146591697,0.38,13,false,"Are Entailment, look here: https://www.google.com/search?q=%22less+peer%22&amp;rlz=1C1AVNG_enAR709AR709&amp;oq=%22less+peer%22&amp;aqs=chrome..69i57j0l5.1182j0j7&amp;sourceid=chrome&amp;ie=UTF-8#safe=off&amp;q=%22relevant+debate%22 --&gt; &quot;A relevant debate - Deccan Chronicle&quot; | &quot;A Statistically-Relevant Debate on Climate Change - Gizmodo&quot; | &quot;A Relevant Debate - tribunedigital-chicagotribune&quot; | &quot;A spicy, serious and deeply relevant debate - The Irish Times&quot;----&gt; Review, correct and post your sources, otherwise restore my accuracy.",0.0769,,"",unrelated,"",relevant,debate
+1146591724,0.17,6,false,"",0.0,,"",unrelated,"",relevant,debate
+1146591727,0.00,13,false,"",0.0,,"",antonym,"",irreplaceable,replaceable
+1146591729,0.08,12,false,"",0.0,,"",unrelated,"",total,go
+1146591736,0.14,14,false,"",0.0,,"",unrelated,"",comfortably,down
+1146591737,0.40,10,false,"",0.0,,"",unrelated,"",safe,item
+1146591772,0.17,12,false,"",0.0,,"",unrelated,"",refrain,matchless
+1146591779,0.30,10,false,"",0.0,,"",antonym,"",bad,favourable
+1146591787,0.10,10,false,"",0.0,,"",unrelated,"",bad,occupy
+1146591789,0.57,7,false,It is unfair,0.1429,,"",unrelated,"",adequately,strong
+1146591792,0.36,14,false,"",0.0,,"",unrelated,"",straightaway,over
+1146591794,0.25,8,false,"",0.0,,"",unrelated,"",lonesome,fail
+1146591798,0.11,9,false,"",0.0,,"",unrelated,"",sparse,foresighted
+1146591800,0.00,10,false,"",0.0,,"",unrelated,"",bod,ground
+1146591804,0.00,5,false,"",0.0,,"",unrelated,"",dire,promiscuous
+1146591806,0.23,13,false,"",0.0,,"",unrelated,"",sick,compensate
+1146591812,0.22,9,false,"",0.0,,"",unrelated,"",considerably,gonna
+1146591816,0.43,7,false,"",0.0,,"",antonym,"",correctly,mistaken
+1146591821,0.22,9,false,"",0.0,,"",unrelated,"",no,decease
+1146591824,0.29,7,false,"",0.0,,"",unrelated,"",scummy,as
+1146591842,0.40,5,false,"",0.0,,"","unrelated
+other","",hardworking,loose
+1146591848,0.20,10,false,"",0.0,,"",unrelated,"",manage,today
+1146591893,0.29,7,false,"",0.0,,"","antonym
+unrelated","",estimable,hurt
+1146591906,0.00,11,false,"",0.0,,"",antonym,"",differ,same
+1146591964,0.07,14,false,"",0.0,,"",unrelated,"",overpriced,brassy
+1146591971,0.40,10,false,"",0.0,,"",unrelated,"",solely,best
+1146591973,0.30,10,false,"OK, maybe not exact synonyms, but they seemed as though they could be used to mean similar things &quot;nonetheless he succeeded&quot; and &quot;yes he succeeded&quot; - perhaps not, in retrospect, but it felt like there was a similarity of meaning as I was thinking about them at the time.",0.1,,"",unrelated,"",nonetheless,yes
+1146591986,0.82,11,false,"",0.0,,"",other,"",decently,fair
+1146592022,0.20,15,false,"",0.0,,"","unrelated
+other","",hunt,hither
+1146592026,0.30,10,false,"",0.0,,"",unrelated,"",l,equal
+1146592034,0.36,14,false,"",0.0,,"",unrelated,"",rude,loose
+1146592041,0.60,15,false,"",0.0,,"",unrelated,"",ulterior,ago
+1146592050,0.25,12,false,"",0.0,,"","antonym
+unrelated","",ulterior,ago
+1146592054,0.22,9,false,"",0.0,,"",unrelated,"",l,ingest
+1146592060,0.12,16,false,"",0.0,,"",antonym,"",unsuitable,ideal
+1146592064,0.08,13,false,"",0.0,,"",unrelated,"",evenhandedly,bad
+1146592070,0.09,11,false,"",0.0,,"",antonym,"",finale,start
+1146592079,0.71,14,false,"",0.0,,"",antonym,"",excessively,thinly
+1146592097,0.12,8,false,"",0.0,,"","antonym
+unrelated","",speculative,right
+1146592125,0.00,7,false,"",0.0,,"",unrelated,"",keister,allow
+1146592132,0.14,7,false,"",0.0,,"",unrelated,"",big,correct
+1146592140,0.38,13,false,"",0.0,,"",antonym,"",counterfeit,honest
+1146592146,0.42,12,false,"",0.0,,"",antonym,"",useful,fruitless
+1146592164,0.20,5,false,"",0.2,,"","unrelated
+other","",disconcert,good
+1146592172,0.00,7,false,"",0.0,,"",unrelated,"",less,static
+1146592195,0.33,12,false,"",0.0,,"",unrelated,"",spiteful,skilful
+1146592208,0.14,7,false,"",0.0,,"",antonym,"",wildness,tameness
+1146592236,0.10,10,false,"",0.0,,"","antonym
+unrelated","",incorrect,decently
+1146592277,0.25,12,false,"",0.0,,"","antonym
+unrelated","",problematic,available
+1146594356,0.14,7,false,"",0.0,,"","antonym
+category","",monoecious,dioecious
+1146594370,0.62,8,false,Unrelated,0.125,,"",antonym,"",pervert,conform
+1146594400,0.18,11,false,"",0.0,,"",unrelated,"",well,thin
+1146594414,0.17,6,false,"",0.0,,"",unrelated,"",scarce,fountainhead
+1146594478,0.12,16,false,"",0.0,,"","antonym
+unrelated","",skilful,unfortunate
+1146594526,0.62,8,false,"",0.0,,"",unrelated,"",shameful,right
+1146594556,0.23,13,false,"",0.0,,"",paraphrase,"",symbolise,representation
+1146594603,0.11,9,false,"",0.0,,"",antonym,"",efficient,unable
+1146594686,0.69,13,false,Please review,0.0769,,"","entailment
+other","",everybody,totally
+1146594698,0.17,6,false,"",0.0,,"",unrelated,"",well,ill-timed
+1146594701,0.40,5,false,"",0.0,,"",unrelated,"",decent,indefensible
+1146594705,0.36,11,false,"",0.0,,"",unrelated,"",tight,well-to-do
+1146594710,0.25,12,false,"",0.0,,"",unrelated,"",loose,inconvenient
+1146594714,0.33,6,false,"",0.0,,"","unrelated
+other","",loose,inconvenient
+1146594743,0.40,15,false,"",0.0,,"",antonym,"",extricate,entangle
+1146594772,0.27,15,false,"Please check: https://www.google.com/search?q=%22less+peer%22&amp;rlz=1C1AVNG_enAR709AR709&amp;oq=%22less+peer%22&amp;aqs=chrome..69i57j0l5.1182j0j7&amp;sourceid=chrome&amp;ie=UTF-8#safe=off&amp;q=%22generally+long%22 ---&gt; &quot;a journey that numerous people undertake that is generally long and requires a lot of planning&quot; | &quot;The i is generally long in micrometer&quot; | &quot;Li has them generally long&quot; | &quot;generally long lyric poem on a serious subject&quot;.......... review, correct, post your sources and restore my accuracy.",0.0667,,"",unrelated,"",generally,long
+1146594837,0.33,15,false,"",0.0,,"",antonym,"",nonpartisanship,partiality
+1146594845,0.56,9,false,"",0.0,,"",category,"",flora,fauna
+1146594909,0.22,9,false,"",0.0,,"","unrelated
+other","",qualify,uncertain
+1146594933,0.00,8,false,"",0.0,,"","paraphrase
+other","",unmanageable,hard
+1146594946,0.19,16,false,"",0.0,,"",antonym,"",permissible,intolerable
+1146594968,0.13,15,false,"",0.0,,"","antonym
+unrelated","",find,indeterminate
+1146595016,0.75,8,false,"",0.0,,"",antonym,"",obtuseness,brightness
+1146595060,0.18,11,false,"",0.0,,"","unrelated
+other","",hard-pressed,ripe
+1146595083,0.00,5,false,"",0.0,,"","unrelated
+other","",applicable,vacancy
+1146595095,0.11,9,false,"",0.0,,"","antonym
+unrelated","",rarely,readily
+1146595133,0.47,17,false,"fran·tic
+ˈfran(t)ik/
+adjective
+wild or distraught with fear, anxiety, or other emotion.
+&quot;she was frantic with worry&quot;",0.0588,,"","unrelated
+other","",frantic,happy
+1146595171,0.57,14,false,"",0.0,,"","antonym
+other","",respectable,hurtful
+1146595180,0.78,9,false,"Please check: https://www.merriam-webster.com/thesaurus/sufficiency -&gt; Near Antonyms lack, want; crunch, dearth, deficit, famine, lack, shortage; meagerness, paucity, poorness, poverty, rareness, rarity, scantiness, scantness, scarceness, scarcity, skimpiness; necessity, need, privation - Antonyms inadequacy, inadequateness, insufficiency, unsatisfactoriness. NO UNDEREMPLOYMENT ever mentioned... review or give your sources.",0.1111,,"",antonym,"",sufficiency,underemployment
+1146595196,0.20,10,false,"",0.2,,"","unrelated
+other","",unclear,experience
+1146595230,0.12,8,false,"",0.0,,"","unrelated
+other","",gentle,complex
+1146595256,0.06,16,false,"",0.0,,"","antonym
+unrelated
+other","",gentle,complex
+1146595285,0.00,10,false,"",0.0,,"","entailment
+paraphrase
+other","",easygoing,easily
+1146595320,0.20,10,false,"",0.0,,"","paraphrase
+other","",justly,alright
+1146595346,0.88,8,false,"",0.0,,"",paraphrase,"",fairly,well
+1146595359,0.57,7,false,"",0.0,,"",antonym,"",unusual,pattern
+1146597510,0.67,15,false,sinónimo?,0.0667,,"","entailment
+paraphrase
+other","",unspoiled,nice
+1146597529,1.00,5,false,"",0.0,,"","antonym
+other","",barely,available

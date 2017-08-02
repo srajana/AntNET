@@ -1,0 +1,331 @@
+_unit_id,_golden,_unit_state,_trusted_judgments,_last_judgment_at,label,label:confidence,label_gold,word1,word2
+1143385375,FALSE,finalized,6,1/29/17 6:06,antonym,1,,harmful,healthy
+1143385384,FALSE,finalized,5,1/29/17 6:01,antonym,1,,irreplaceable,replaceable
+1143385396,FALSE,finalized,4,1/29/17 5:56,antonym,0.735,,useful,fruitless
+1143385400,FALSE,finalized,8,1/29/17 6:08,antonym,0.7746,,excessively,thinly
+1143385410,FALSE,finalized,5,1/29/17 6:01,antonym,0.555,,permissible,intolerable
+1143385418,FALSE,finalized,5,1/29/17 6:01,antonym,0.775,,finale,start
+1143385420,FALSE,finalized,3,1/29/17 5:53,antonym,0.6394,,nonpartisanship,partiality
+1143385421,FALSE,finalized,4,1/29/17 6:03,antonym,0.7391,,unsuitable,ideal
+1143385423,FALSE,finalized,3,1/29/17 5:56,antonym,1,,bad,favourable
+1143385424,FALSE,finalized,3,1/29/17 6:03,antonym,0.71,,wildness,tameness
+1143385430,FALSE,finalized,8,1/29/17 6:00,antonym,0.8788,,differ,same
+1143385434,FALSE,finalized,4,1/29/17 6:01,antonym,1,,correctly,mistaken
+1143385444,FALSE,finalized,4,1/29/17 5:56,antonym,0.735,,counterfeit,honest
+1143385456,FALSE,finalized,5,1/29/17 5:56,antonym,0.6229,,pervert,conform
+1143385457,FALSE,finalized,4,1/29/17 5:36,antonym,1,,disingenuous,TRUE
+1143385461,FALSE,finalized,6,1/29/17 6:06,antonym,0.6857,,monoecious,dioecious
+1143385464,FALSE,finalized,4,1/29/17 6:01,antonym,0.5043,,rarely,readily
+1143385466,FALSE,finalized,3,2/1/17 8:16,antonym,0.6953,,good,abominable
+1143385471,FALSE,finalized,3,2/1/17 8:03,antonym,0.6957,,properly,rude
+1143385475,FALSE,finalized,3,2/1/17 9:06,antonym,0.6962,,most,simply
+1143385478,FALSE,finalized,3,2/1/17 8:15,antonym,0.6396,,utilitarian,unhelpful
+1143385481,FALSE,finalized,3,2/1/17 7:59,antonym,1,,actual,unreal
+1143385483,FALSE,finalized,3,2/1/17 8:07,antonym,1,,sincerely,insincerely
+1143385485,FALSE,finalized,3,2/1/17 8:39,antonym,0.6688,,fruit,fruitless
+1143385494,FALSE,finalized,3,2/1/17 7:56,antonym,0.6774,,good,hapless
+1143385499,FALSE,finalized,3,2/1/17 8:00,antonym,0.3771,,adjust,unfair
+1143385505,FALSE,finalized,3,2/1/17 8:14,antonym,0.3624,,sign,industrial design
+1143385507,FALSE,finalized,3,2/1/17 8:25,antonym,1,,available,unreachable
+1143385512,FALSE,finalized,3,2/1/17 8:24,antonym,0.6774,,unfit,decent
+1143385514,FALSE,finalized,3,2/1/17 8:14,antonym,0.6376,,superfluous,appropriate
+1143385515,FALSE,finalized,3,2/1/17 8:14,antonym,1,,respectable,inappropriate
+1143385521,FALSE,finalized,3,2/1/17 8:16,antonym,0.6319,,heterologous,analogous
+1143385523,FALSE,finalized,3,2/1/17 7:59,antonym,0.6777,,deficient,perfect
+1143385524,FALSE,finalized,3,2/1/17 8:25,antonym,0.6229,,ambiguous,decipherable
+1143385526,FALSE,finalized,3,2/1/17 8:19,antonym,0.6816,,inadequacy,plenty
+1143385533,FALSE,finalized,3,2/1/17 8:00,antonym,0.6774,,well,brusque
+1143385534,FALSE,finalized,3,2/1/17 7:56,antonym,1,,postwar,prewar
+1143385545,FALSE,finalized,3,2/1/17 8:09,antonym,0.6353,,adhere,unbind
+1143385555,FALSE,finalized,3,2/1/17 8:00,antonym,1,,unwell,proper
+1143385556,FALSE,finalized,3,2/1/17 9:14,antonym,1,,properly,erroneous
+1143385557,FALSE,finalized,3,2/1/17 7:58,antonym,0.3815,,indebtedness,asset
+1143385559,FALSE,finalized,3,2/1/17 8:03,antonym,0.6957,,unrealistic,tangible
+1143385560,FALSE,finalized,3,2/1/17 8:07,antonym,1,,uncertain,surely
+1143385561,FALSE,finalized,3,2/1/17 8:02,antonym,0.3771,,indefinite,find
+1143385562,FALSE,finalized,3,2/1/17 7:58,antonym,0.3815,,extensor,flexor
+1143390341,TRUE,golden,12,,antonym,0.675,antonym,unclear,indisputable
+1143390370,TRUE,golden,14,,antonym,1,antonym,disproportionately,proportionately
+1143390476,TRUE,golden,12,,antonym,1,antonym,adulthood,immaturity
+1143392383,TRUE,golden,13,,antonym,0.6361,antonym,onerous,light
+1143392464,TRUE,golden,7,,antonym,0.8746,antonym,usurious,reasonable
+1143392570,TRUE,golden,11,,antonym,0.4733,"antonymunrelatedother",incorrect,decently
+1143392577,TRUE,golden,6,,antonym,0.8333,antonym,badly,fair
+1143392594,TRUE,golden,11,,antonym,0.7348,antonym,fear,fearlessness
+1143392935,TRUE,golden,5,,antonym,0.5858,"antonymother",plenty,poorly
+1143393283,TRUE,golden,5,,antonym,0.7937,"antonymother",appropriate,flaw
+1143393636,TRUE,golden,3,,antonym,1,antonym,irrelevant,substantial
+1143393867,TRUE,golden,6,,antonym,0.6589,antonym,innocuous,noxious
+1143393949,TRUE,golden,2,,antonym,0.5814,antonym,immorality,good
+1143394225,TRUE,golden,5,,antonym,1,antonym,unserviceable,serviceable
+1143394370,TRUE,golden,1,,antonym,1,antonym,tie,untie
+1146590815,TRUE,golden,1,,antonym,1,unrelated,powerful,somewhat
+1146591581,TRUE,golden,1,,antonym,1,antonym,disingenuous,TRUE
+1146591597,TRUE,golden,1,,antonym,1,antonym,harmful,healthy
+1146591727,TRUE,golden,1,,antonym,1,antonym,irreplaceable,replaceable
+1146591792,TRUE,golden,1,,antonym,1,unrelated,straightaway,over
+1146591816,TRUE,golden,1,,antonym,1,antonym,correctly,mistaken
+1146592060,TRUE,golden,2,,antonym,1,antonym,unsuitable,ideal
+1146592070,TRUE,golden,1,,antonym,1,antonym,finale,start
+1146592140,TRUE,golden,1,,antonym,1,antonym,counterfeit,honest
+1146592146,TRUE,golden,2,,antonym,0.5479,antonym,useful,fruitless
+1146592195,TRUE,golden,2,,antonym,0.5224,unrelated,spiteful,skilful
+1146592208,TRUE,golden,1,,antonym,1,antonym,wildness,tameness
+1146594356,TRUE,golden,1,,antonym,1,"antonymcategory",monoecious,dioecious
+1146594603,TRUE,golden,1,,antonym,1,antonym,efficient,unable
+1146594701,TRUE,golden,1,,antonym,1,unrelated,decent,indefensible
+1146594743,TRUE,golden,1,,antonym,1,antonym,extricate,entangle
+1146594946,TRUE,golden,3,,antonym,1,antonym,permissible,intolerable
+1143385449,FALSE,finalized,7,1/29/17 6:05,category,0.3039,,unspoiled,nice
+1143385463,FALSE,finalized,5,1/29/17 6:06,category,0.4128,,fairly,well
+1143385509,FALSE,finalized,3,2/1/17 8:19,category,0.3473,,equality,equal access
+1146594845,TRUE,golden,3,,category,0.673,category,flora,fauna
+1143385379,FALSE,finalized,4,1/29/17 5:54,other,0.5304,,flora,fauna
+1143385383,FALSE,finalized,3,1/29/17 6:41,other,0.6518,,everybody,totally
+1143385395,FALSE,finalized,3,1/29/17 5:54,other,0.3597,,barely,available
+1143385411,FALSE,finalized,4,1/29/17 6:03,other,0.5263,,easygoing,easily
+1143385413,FALSE,finalized,5,1/29/17 5:56,other,1,,decently,fair
+1143385426,FALSE,finalized,9,1/29/17 6:04,other,0.5571,,unmanageable,hard
+1143385435,FALSE,finalized,9,1/29/17 6:04,other,0.4137,,justly,alright
+1143385454,FALSE,finalized,5,1/29/17 5:56,other,1,,accurate,right
+1143385455,FALSE,finalized,3,1/29/17 6:07,other,0.3616,,unusual,pattern
+1143385479,FALSE,finalized,3,2/1/17 8:02,other,0.667,,entirely,longer
+1143385517,FALSE,finalized,3,2/1/17 7:58,other,0.3454,,maybe,equitable
+1143385525,FALSE,finalized,3,2/1/17 7:59,other,0.6733,,hard-pressed,rectify
+1143385531,FALSE,finalized,3,2/1/17 7:57,other,0.3454,,TRUE,discipline
+1143385537,FALSE,finalized,3,2/1/17 8:02,other,0.3454,,adjust,invalid
+1143385541,FALSE,finalized,3,2/1/17 7:59,other,0.6733,,long,notwithstanding
+1143385558,FALSE,finalized,3,2/1/17 7:58,other,0.3454,,merely,maybe
+1143390686,TRUE,golden,11,,other,0.5522,other,readily,easy
+1143393033,TRUE,golden,6,,other,0.5087,other,easy,leisurely
+1143393618,TRUE,golden,9,,other,0.7968,other,difficult,harsh
+1143393726,TRUE,golden,6,,other,0.6827,"unrelatedother",properly,handsome
+1143393840,TRUE,golden,2,,other,0.5122,antonym,unusual,pattern
+1143393902,TRUE,golden,4,,other,0.7859,other,turnabout,obverse
+1143394340,TRUE,golden,2,,other,0.5365,other,sufficiency,satisfactory
+1143607475,TRUE,golden,1,,other,1,unrelated,powerful,somewhat
+1146591692,TRUE,golden,2,,other,0.5091,unrelated,sole,certainly
+1146594686,TRUE,golden,1,,other,1,"entailmentother",everybody,totally
+1143385473,FALSE,finalized,3,2/1/17 7:58,paraphrase,0.6546,,badly,evil
+1143385495,FALSE,finalized,3,2/1/17 8:16,paraphrase,1,,problematical,hard
+1143385519,FALSE,finalized,3,2/1/17 7:56,paraphrase,0.3771,,fair,wrong
+1143385530,FALSE,finalized,3,2/1/17 8:10,paraphrase,0.6962,,alright,good
+1143385547,FALSE,finalized,3,2/1/17 7:58,paraphrase,0.667,,cumbersome,slow
+1143393564,TRUE,golden,2,,paraphrase,0.558,antonym,sufficiency,limited
+1146591789,TRUE,golden,1,,paraphrase,1,unrelated,adequately,strong
+1146592132,TRUE,golden,2,,paraphrase,0.5283,unrelated,big,correct
+1146594556,TRUE,golden,1,,paraphrase,1,paraphrase,symbolise,representation
+1146594710,TRUE,golden,1,,paraphrase,1,unrelated,loose,inconvenient
+1146594933,TRUE,golden,1,,paraphrase,1,"paraphraseother",unmanageable,hard
+1146595285,TRUE,golden,2,,paraphrase,1,"entailmentparaphraseother",easygoing,easily
+1146597510,TRUE,golden,1,,paraphrase,1,"entailmentparaphraseother",unspoiled,nice
+1143385366,FALSE,finalized,7,1/29/17 6:05,unrelated,0.8533,,solely,best
+1143385367,FALSE,finalized,3,1/29/17 6:34,unrelated,0.647,,loose,inconvenient
+1143385368,FALSE,finalized,4,1/29/17 5:59,unrelated,0.7337,,less,static
+1143385369,FALSE,finalized,3,1/29/17 5:54,unrelated,1,,speculative,right
+1143385370,FALSE,finalized,8,1/29/17 6:08,unrelated,1,,painful,near
+1143385371,FALSE,finalized,3,1/29/17 5:52,unrelated,1,,one-time,later
+1143385372,FALSE,finalized,5,1/29/17 6:02,unrelated,0.7904,,ulterior,ago
+1143385373,FALSE,finalized,4,1/29/17 6:01,unrelated,1,,cold,easily
+1143385374,FALSE,finalized,8,1/29/17 6:00,unrelated,0.5283,,applicable,vacancy
+1143385376,FALSE,finalized,3,1/29/17 6:03,unrelated,0.6445,,generally,long
+1143385377,FALSE,finalized,3,1/29/17 5:53,unrelated,1,,hanker,shortly
+1143385378,FALSE,finalized,6,1/29/17 5:58,unrelated,0.6619,,problematic,available
+1143385380,FALSE,finalized,7,1/29/17 6:05,unrelated,0.5493,,find,indeterminate
+1143385381,FALSE,finalized,3,1/29/17 5:54,unrelated,0.6403,,hard-pressed,ripe
+1143385382,FALSE,finalized,5,1/29/17 5:56,unrelated,1,,sole,certainly
+1143385385,FALSE,finalized,4,1/29/17 5:55,unrelated,1,,total,go
+1143385386,FALSE,finalized,3,1/29/17 6:34,unrelated,1,,manage,today
+1143385387,FALSE,finalized,3,1/29/17 6:14,unrelated,1,,safe,item
+1143385388,FALSE,finalized,3,1/29/17 5:56,unrelated,0.6677,,skilful,unfortunate
+1143385389,FALSE,finalized,3,1/29/17 6:38,unrelated,1,,powerful,somewhat
+1143385390,FALSE,finalized,4,1/29/17 5:36,unrelated,1,,bad,occupy
+1143385391,FALSE,finalized,5,1/29/17 6:03,unrelated,0.7919,,rude,loose
+1143385392,FALSE,finalized,6,1/29/17 5:58,unrelated,0.8255,,spiteful,skilful
+1143385393,FALSE,finalized,3,1/29/17 5:54,unrelated,1,,keister,allow
+1143385394,FALSE,finalized,3,1/29/17 5:52,unrelated,1,,sparse,foresighted
+1143385397,FALSE,finalized,3,1/29/17 5:52,unrelated,1,,sick,compensate
+1143385398,FALSE,finalized,6,1/29/17 6:06,unrelated,0.8262,,l,equal
+1143385399,FALSE,finalized,5,1/29/17 6:01,unrelated,0.445,,gentle,complex
+1143385401,FALSE,finalized,4,1/29/17 5:36,unrelated,0.7791,,evenhandedly,bad
+1143385402,FALSE,finalized,3,1/29/17 6:03,unrelated,1,,hardworking,loose
+1143385403,FALSE,finalized,3,1/29/17 6:51,unrelated,1,,comfortably,down
+1143385404,FALSE,finalized,3,1/29/17 5:56,unrelated,1,,scummy,as
+1143385405,FALSE,finalized,3,1/29/17 6:34,unrelated,0.647,,decent,indefensible
+1143385406,FALSE,finalized,3,1/29/17 6:07,unrelated,0.6575,,shameful,right
+1143385407,FALSE,finalized,3,1/29/17 6:34,unrelated,0.647,,tight,well-to-do
+1143385408,FALSE,finalized,3,1/29/17 6:51,unrelated,0.6493,,well,ill-timed
+1143385409,FALSE,finalized,3,1/29/17 5:53,unrelated,0.7073,,incorrect,decently
+1143385412,FALSE,finalized,3,1/29/17 5:56,unrelated,1,,adequately,strong
+1143385414,FALSE,finalized,3,1/29/17 6:14,unrelated,0.6678,,scarce,fountainhead
+1143385415,FALSE,finalized,4,1/29/17 5:59,unrelated,0.7337,,disconcert,good
+1143385416,FALSE,finalized,3,1/29/17 6:38,unrelated,1,,there,back
+1143385417,FALSE,finalized,4,1/29/17 5:56,unrelated,1,,allow,rude
+1143385419,FALSE,finalized,3,1/29/17 5:53,unrelated,0.6533,,efficient,unable
+1143385422,FALSE,finalized,3,1/29/17 6:38,unrelated,0.655,,symbolise,representation
+1143385425,FALSE,finalized,3,1/29/17 6:03,unrelated,0.6455,,extricate,entangle
+1143385427,FALSE,finalized,5,1/29/17 5:56,unrelated,1,,considerably,gonna
+1143385428,FALSE,finalized,3,1/29/17 6:38,unrelated,1,,unvoiced,tough
+1143385429,FALSE,finalized,4,1/29/17 5:36,unrelated,1,,scarce,huh
+1143385431,FALSE,finalized,6,1/29/17 5:57,unrelated,1,,no,decease
+1143385432,FALSE,finalized,8,1/29/17 6:00,unrelated,0.4833,,sufficiency,underemployment
+1143385433,FALSE,finalized,8,1/29/17 6:00,unrelated,0.5035,,respectable,hurtful
+1143385436,FALSE,finalized,5,1/29/17 6:02,unrelated,0.618,,obtuseness,brightness
+1143385437,FALSE,finalized,3,1/29/17 6:51,unrelated,1,,dire,promiscuous
+1143385438,FALSE,finalized,3,1/29/17 6:51,unrelated,1,,bod,ground
+1143385439,FALSE,finalized,4,1/29/17 6:03,unrelated,0.7391,,l,ingest
+1143385440,FALSE,finalized,5,1/29/17 6:02,unrelated,0.7904,,well,thin
+1143385441,FALSE,finalized,9,1/29/17 6:04,unrelated,0.4486,,unclear,experience
+1143385442,FALSE,finalized,5,1/29/17 5:56,unrelated,1,,lonesome,fail
+1143385443,FALSE,finalized,3,1/29/17 6:14,unrelated,1,,straightaway,over
+1143385445,FALSE,finalized,3,1/29/17 6:07,unrelated,1,,refrain,matchless
+1143385446,FALSE,finalized,4,1/29/17 5:56,unrelated,1,,relevant,debate
+1143385447,FALSE,finalized,4,1/29/17 5:59,unrelated,1,,discourtesy,defence
+1143385448,FALSE,finalized,6,1/29/17 5:58,unrelated,1,,merely,want
+1143385450,FALSE,finalized,5,1/29/17 6:03,unrelated,0.7984,,hunt,hither
+1143385451,FALSE,finalized,8,1/29/17 6:08,unrelated,0.5995,,qualify,uncertain
+1143385452,FALSE,finalized,4,1/29/17 6:01,unrelated,1,,designate,even
+1143385453,FALSE,finalized,9,1/29/17 6:04,unrelated,0.8817,,estimable,hurt
+1143385458,FALSE,finalized,8,1/29/17 6:08,unrelated,0.8617,,overpriced,brassy
+1143385459,FALSE,finalized,7,1/29/17 6:05,unrelated,0.851,,nonetheless,yes
+1143385460,FALSE,finalized,3,1/29/17 6:14,unrelated,1,,compatible,patronize
+1143385462,FALSE,finalized,5,1/29/17 6:02,unrelated,0.5779,,frantic,happy
+1143385465,FALSE,finalized,4,1/29/17 5:59,unrelated,0.7356,,big,correct
+1143385467,FALSE,finalized,3,2/1/17 8:28,unrelated,1,,mundane,amphibious
+1143385468,FALSE,finalized,3,2/1/17 8:39,unrelated,0.3604,,soundly,uncomfortable
+1143385469,FALSE,finalized,3,2/1/17 8:02,unrelated,0.6774,,express,well
+1143385470,FALSE,finalized,3,2/1/17 8:02,unrelated,0.667,,picky,light
+1143385472,FALSE,finalized,3,2/1/17 8:11,unrelated,1,,fair,high-risk
+1143385474,FALSE,finalized,3,2/1/17 8:18,unrelated,0.6333,,significant,nipper
+1143385476,FALSE,finalized,3,2/1/17 8:28,unrelated,0.6879,,questionable,mightily
+1143385477,FALSE,finalized,3,2/1/17 8:24,unrelated,0.3771,,little,equally
+1143385480,FALSE,finalized,3,2/1/17 8:10,unrelated,1,,litre,have
+1143385482,FALSE,finalized,3,2/1/17 8:18,unrelated,1,,compensate,flawed
+1143385484,FALSE,finalized,3,2/1/17 8:28,unrelated,0.6768,,no,neutralize
+1143385486,FALSE,finalized,3,2/1/17 8:15,unrelated,0.6688,,poor,practicable
+1143385487,FALSE,finalized,3,2/1/17 8:10,unrelated,1,,amazingly,inexorably
+1143385488,FALSE,finalized,3,2/1/17 9:06,unrelated,0.6185,,preposterous,feasible
+1143385489,FALSE,finalized,3,2/1/17 9:06,unrelated,0.6853,,easy,compressed
+1143385490,FALSE,finalized,3,2/1/17 8:39,unrelated,0.6916,,exactly,barely
+1143385491,FALSE,finalized,3,2/1/17 8:11,unrelated,1,,surprisingly,intelligibly
+1143385492,FALSE,finalized,3,2/1/17 8:18,unrelated,0.7079,,tensely,extremely hard
+1143385493,FALSE,finalized,3,2/1/17 7:59,unrelated,0.649,,denial,take
+1143385496,FALSE,finalized,3,2/1/17 8:09,unrelated,1,,lightly,yearn
+1143385497,FALSE,finalized,3,2/1/17 8:09,unrelated,0.6879,,difficult,well-off
+1143385498,FALSE,finalized,3,2/1/17 8:25,unrelated,0.6774,,right-hand,hurt
+1143385500,FALSE,finalized,3,2/1/17 8:09,unrelated,0.6879,,shitty,beneficial
+1143385501,FALSE,finalized,3,2/1/17 8:11,unrelated,1,,FALSE,castigate
+1143385502,FALSE,finalized,3,2/1/17 9:14,unrelated,1,,clique,unpack
+1143385503,FALSE,finalized,3,2/1/17 9:14,unrelated,1,,salutary,cold
+1143385504,FALSE,finalized,3,2/1/17 8:16,unrelated,0.6319,,furthermore,merely
+1143385506,FALSE,finalized,3,2/1/17 8:18,unrelated,1,,right,outlandish
+1143385508,FALSE,finalized,3,2/1/17 7:58,unrelated,1,,estimable,painful
+1143385510,FALSE,finalized,3,2/1/17 8:02,unrelated,1,,unusual,green
+1143385511,FALSE,finalized,3,2/1/17 7:59,unrelated,0.6774,,consider,appropriate
+1143385513,FALSE,finalized,3,2/1/17 8:07,unrelated,0.6333,,insignificant,bombastic
+1143385516,FALSE,finalized,3,2/1/17 8:39,unrelated,0.6688,,nutcase,possible
+1143385518,FALSE,finalized,3,2/1/17 8:15,unrelated,0.6688,,necessary,unavailing
+1143385520,FALSE,finalized,3,2/1/17 8:19,unrelated,1,,flush,ani
+1143385522,FALSE,finalized,3,2/1/17 8:15,unrelated,0.6688,,frightening,feasible
+1143385527,FALSE,finalized,3,2/1/17 8:28,unrelated,1,,intention,apply
+1143385528,FALSE,finalized,3,2/1/17 8:07,unrelated,1,,fail,simply
+1143385529,FALSE,finalized,3,2/1/17 8:07,unrelated,1,,mirthful,straight
+1143385532,FALSE,finalized,3,2/1/17 8:11,unrelated,1,,inadequately,selfsame
+1143385535,FALSE,finalized,3,2/1/17 7:56,unrelated,0.6774,,aim,no
+1143385536,FALSE,finalized,3,2/1/17 8:07,unrelated,1,,firstly,lonesome
+1143385538,FALSE,finalized,3,2/1/17 8:19,unrelated,1,,sore,rightfield
+1143385539,FALSE,finalized,3,2/1/17 8:03,unrelated,0.6127,,inappropriate,expert
+1143385540,FALSE,finalized,3,2/1/17 8:00,unrelated,0.6774,,mightily,bullshit
+1143385542,FALSE,finalized,3,2/1/17 8:10,unrelated,1,,outnumber,right
+1143385543,FALSE,finalized,3,2/1/17 8:25,unrelated,1,,negatively,intimately
+1143385544,FALSE,finalized,3,2/1/17 8:14,unrelated,1,,coruscate,still
+1143385546,FALSE,finalized,3,2/1/17 9:06,unrelated,0.6853,,important,debatable
+1143385548,FALSE,finalized,3,2/1/17 9:14,unrelated,1,,infrequently,foresighted
+1143385549,FALSE,finalized,3,2/1/17 7:58,unrelated,1,,well,limit
+1143385550,FALSE,finalized,3,2/1/17 8:24,unrelated,0.3771,,nope,directly
+1143385551,FALSE,finalized,3,2/1/17 7:59,unrelated,0.6774,,yearn,small
+1143385552,FALSE,finalized,3,2/1/17 8:07,unrelated,0.6853,,undesirable,secure
+1143385553,FALSE,finalized,3,2/1/17 8:02,unrelated,1,,illegally,easily
+1143385554,FALSE,finalized,3,2/1/17 8:02,unrelated,0.6546,,set,anymore
+1143385563,FALSE,finalized,3,2/1/17 8:24,unrelated,1,,put-upon,unencumbered
+1143385564,FALSE,finalized,3,2/1/17 8:07,unrelated,1,,less,cause
+1143385565,FALSE,finalized,3,2/1/17 8:03,unrelated,0.6957,,refrain,unity
+1143390416,TRUE,golden,9,,unrelated,0.891,unrelated,intention,apply
+1143390438,TRUE,golden,17,,unrelated,1,unrelated,long,import
+1143390819,TRUE,golden,11,,unrelated,1,unrelated,even,head
+1143390951,TRUE,golden,14,,unrelated,0.368,"antonymunrelatedother",center,left
+1143392515,TRUE,golden,12,,unrelated,0.5872,"antonymunrelatedother",upright,lousy
+1143392561,TRUE,golden,13,,unrelated,0.9222,unrelated,bod,ground
+1143392575,TRUE,golden,11,,unrelated,0.8393,unrelated,even,low
+1143392855,TRUE,golden,7,,unrelated,0.443,"unrelatedentailmentother",tensely,extremely hard
+1143392957,TRUE,golden,9,,unrelated,1,unrelated,even,glib
+1143393106,TRUE,golden,7,,unrelated,1,"unrelatedother",compatible,patronise
+1143393167,TRUE,golden,7,,unrelated,0.8573,"unrelatedother",long,hatful
+1143393334,TRUE,golden,4,,unrelated,0.7774,unrelated,right,ill-timed
+1143393378,TRUE,golden,4,,unrelated,1,unrelated,slowly,terrible
+1143393540,TRUE,golden,10,,unrelated,0.6868,"antonymunrelatedother",weak,sound
+1143393592,TRUE,golden,8,,unrelated,1,unrelated,no,neutralize
+1143393689,TRUE,golden,8,,unrelated,0.8779,unrelated,scarce,huh
+1143393800,TRUE,golden,6,,unrelated,0.5016,other,bad,cunning
+1143393970,TRUE,golden,7,,unrelated,0.58,unrelated,well,gloomy
+1143394012,TRUE,golden,2,,unrelated,0.5018,"antonymunrelatedother",undefined,determine
+1143394085,TRUE,golden,1,,unrelated,1,other,compatible,sustain
+1143394128,TRUE,golden,5,,unrelated,0.8245,"unrelatedother",mediocre,wrong
+1143394221,TRUE,golden,2,,unrelated,1,"unrelatedother",impractical,tardily
+1143394241,TRUE,golden,3,,unrelated,1,"unrelatedother",pretend,good
+1143394298,TRUE,golden,1,,unrelated,1,unrelated,level,anymore
+1143394359,TRUE,golden,3,,unrelated,1,"unrelatedother",effective,hard
+1143394578,TRUE,golden,2,,unrelated,1,"unrelatedother",lightly,yearn
+1143394607,TRUE,golden,2,,unrelated,1,other,horrible,correct
+1143394626,TRUE,golden,1,,unrelated,1,unrelated,generally,long
+1143394676,TRUE,golden,2,,unrelated,1,antonym,coruscate,still
+1143394689,TRUE,golden,4,,unrelated,1,unrelated,dirty,ripe
+1143394698,TRUE,golden,3,,unrelated,1,unrelated,d,personify
+1143394725,TRUE,golden,4,,unrelated,0.7632,unrelated,easily,wrongly
+1143607486,TRUE,golden,2,,unrelated,1,unrelated,there,back
+1143607495,TRUE,golden,1,,unrelated,1,unrelated,unvoiced,tough
+1146590713,TRUE,golden,1,,unrelated,1,unrelated,powerful,somewhat
+1146590835,TRUE,golden,1,,unrelated,1,unrelated,compatible,patronize
+1146590838,TRUE,golden,1,,unrelated,1,unrelated,there,back
+1146590973,TRUE,golden,1,,unrelated,1,"antonymother",unvoiced,tough
+1146591039,TRUE,golden,3,,unrelated,0.699,unrelated,one-time,later
+1146591115,TRUE,golden,1,,unrelated,1,unrelated,cold,easily
+1146591485,TRUE,golden,2,,unrelated,1,unrelated,powerful,somewhat
+1146591572,TRUE,golden,1,,unrelated,1,unrelated,one-time,later
+1146591639,TRUE,golden,1,,unrelated,1,unrelated,designate,even
+1146591643,TRUE,golden,1,,unrelated,1,unrelated,allow,rude
+1146591649,TRUE,golden,1,,unrelated,1,unrelated,merely,want
+1146591677,TRUE,golden,1,,unrelated,1,unrelated,discourtesy,defence
+1146591697,TRUE,golden,1,,unrelated,1,unrelated,relevant,debate
+1146591729,TRUE,golden,3,,unrelated,1,unrelated,total,go
+1146591737,TRUE,golden,2,,unrelated,1,unrelated,safe,item
+1146591772,TRUE,golden,1,,unrelated,1,unrelated,refrain,matchless
+1146591787,TRUE,golden,3,,unrelated,1,unrelated,bad,occupy
+1146591794,TRUE,golden,1,,unrelated,1,unrelated,lonesome,fail
+1146591798,TRUE,golden,2,,unrelated,1,unrelated,sparse,foresighted
+1146591806,TRUE,golden,1,,unrelated,1,unrelated,sick,compensate
+1146591812,TRUE,golden,1,,unrelated,1,unrelated,considerably,gonna
+1146591821,TRUE,golden,1,,unrelated,1,unrelated,no,decease
+1146591848,TRUE,golden,2,,unrelated,1,unrelated,manage,today
+1146591893,TRUE,golden,1,,unrelated,1,"antonymunrelated",estimable,hurt
+1146591964,TRUE,golden,1,,unrelated,1,unrelated,overpriced,brassy
+1146591971,TRUE,golden,1,,unrelated,1,unrelated,solely,best
+1146591973,TRUE,golden,1,,unrelated,1,unrelated,nonetheless,yes
+1146592022,TRUE,golden,1,,unrelated,1,"unrelatedother",hunt,hither
+1146592026,TRUE,golden,1,,unrelated,1,unrelated,l,equal
+1146592034,TRUE,golden,1,,unrelated,1,unrelated,rude,loose
+1146592041,TRUE,golden,2,,unrelated,0.5211,unrelated,ulterior,ago
+1146592050,TRUE,golden,2,,unrelated,1,"antonymunrelated",ulterior,ago
+1146592054,TRUE,golden,1,,unrelated,1,unrelated,l,ingest
+1146592079,TRUE,golden,1,,unrelated,1,antonym,excessively,thinly
+1146592125,TRUE,golden,2,,unrelated,1,unrelated,keister,allow
+1146592172,TRUE,golden,1,,unrelated,1,unrelated,less,static
+1146594370,TRUE,golden,1,,unrelated,1,antonym,pervert,conform
+1146594400,TRUE,golden,2,,unrelated,1,unrelated,well,thin
+1146594414,TRUE,golden,1,,unrelated,1,unrelated,scarce,fountainhead
+1146594478,TRUE,golden,1,,unrelated,1,"antonymunrelated",skilful,unfortunate
+1146594772,TRUE,golden,2,,unrelated,1,unrelated,generally,long
+1146594837,TRUE,golden,1,,unrelated,1,antonym,nonpartisanship,partiality
+1146595083,TRUE,golden,1,,unrelated,1,"unrelatedother",applicable,vacancy
+1146595095,TRUE,golden,1,,unrelated,1,"antonymunrelated",rarely,readily
+1146595180,TRUE,golden,1,,unrelated,1,antonym,sufficiency,underemployment

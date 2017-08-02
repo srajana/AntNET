@@ -1,0 +1,6 @@
+antonym
+category
+entailment
+other
+paraphrase
+unrelated

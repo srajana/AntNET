@@ -1,0 +1,1386 @@
+_unit_id,_created_at,_golden,_id,_missed,_started_at,_tainted,_channel,_trust,_worker_id,_country,_region,_city,_ip,label,label_gold,word1,word2
+1143385366,1/29/2017 05:25:24,false,2361594126,,1/29/2017 05:24:12,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,solely,best
+1143385366,1/29/2017 05:32:15,false,2361595263,,1/29/2017 05:31:19,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,solely,best
+1143385366,1/29/2017 05:34:52,false,2361595730,,1/29/2017 05:33:52,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,other,,solely,best
+1143385366,1/29/2017 05:36:15,false,2361595965,,1/29/2017 05:35:18,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,,solely,best
+1143385366,1/29/2017 05:37:15,false,2361596272,,1/29/2017 05:36:11,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,solely,best
+1143385366,1/29/2017 05:44:11,false,2361597952,,1/29/2017 05:41:34,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,solely,best
+1143385366,1/29/2017 06:05:16,false,2361602777,,1/29/2017 06:04:26,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,solely,best
+1143385367,1/29/2017 05:52:41,false,2361600180,,1/29/2017 05:52:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,loose,inconvenient
+1143385367,1/29/2017 05:53:40,false,2361600452,,1/29/2017 05:52:10,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,other,,loose,inconvenient
+1143385367,1/29/2017 06:34:57,false,2361610812,,1/29/2017 06:27:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,loose,inconvenient
+1143385368,1/29/2017 05:53:26,false,2361600385,,1/29/2017 05:52:19,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,less,static
+1143385368,1/29/2017 05:53:52,false,2361600537,,1/29/2017 05:52:49,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,less,static
+1143385368,1/29/2017 05:53:53,false,2361600542,,1/29/2017 05:52:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,less,static
+1143385368,1/29/2017 05:59:01,false,2361601597,,1/29/2017 05:56:33,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,less,static
+1143385369,1/29/2017 05:41:15,false,2361597205,,1/29/2017 05:40:21,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,speculative,right
+1143385369,1/29/2017 05:47:59,false,2361598966,,1/29/2017 05:47:33,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,speculative,right
+1143385369,1/29/2017 05:54:10,false,2361600622,,1/29/2017 05:51:01,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,speculative,right
+1143385370,1/29/2017 05:14:10,false,2361592619,,1/29/2017 05:12:03,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,,painful,near
+1143385370,1/29/2017 05:18:18,false,2361593172,,1/29/2017 05:17:21,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,painful,near
+1143385370,1/29/2017 05:26:20,false,2361594364,,1/29/2017 05:23:17,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,painful,near
+1143385370,1/29/2017 05:26:30,false,2361594371,,1/29/2017 05:25:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,painful,near
+1143385370,1/29/2017 05:37:16,false,2361596275,,1/29/2017 05:36:23,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,,painful,near
+1143385370,1/29/2017 05:39:29,false,2361596749,,1/29/2017 05:38:18,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,painful,near
+1143385370,1/29/2017 05:48:48,false,2361599159,,1/29/2017 05:46:50,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,painful,near
+1143385370,1/29/2017 06:08:06,false,2361603266,,1/29/2017 05:53:41,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,,painful,near
+1143385371,1/29/2017 05:40:19,false,2361596978,,1/29/2017 05:39:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,one-time,later
+1143385371,1/29/2017 05:48:30,false,2361599001,,1/29/2017 05:46:19,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,one-time,later
+1143385371,1/29/2017 05:52:49,false,2361600195,,1/29/2017 05:52:06,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,one-time,later
+1143385372,1/29/2017 05:35:03,false,2361595756,,1/29/2017 05:34:22,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,ulterior,ago
+1143385372,1/29/2017 05:43:57,false,2361597887,,1/29/2017 05:42:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,ulterior,ago
+1143385372,1/29/2017 05:54:26,false,2361600717,,1/29/2017 05:50:40,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,,ulterior,ago
+1143385372,1/29/2017 05:54:55,false,2361600861,,1/29/2017 05:54:34,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,ulterior,ago
+1143385372,1/29/2017 06:02:36,false,2361602298,,1/29/2017 06:01:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,ulterior,ago
+1143385373,1/29/2017 05:23:58,false,2361593913,,1/29/2017 05:23:22,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,cold,easily
+1143385373,1/29/2017 05:31:18,false,2361595112,,1/29/2017 05:30:26,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,cold,easily
+1143385373,1/29/2017 05:36:10,false,2361595922,,1/29/2017 05:33:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,cold,easily
+1143385373,1/29/2017 06:01:37,false,2361602090,,1/29/2017 06:00:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,cold,easily
+1143385374,1/29/2017 05:20:23,false,2361593404,,1/29/2017 05:19:43,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,,applicable,vacancy
+1143385374,1/29/2017 05:21:08,false,2361593434,,1/29/2017 05:19:21,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,other,,applicable,vacancy
+1143385374,1/29/2017 05:21:09,false,2361593436,,1/29/2017 05:16:20,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,other,,applicable,vacancy
+1143385374,1/29/2017 05:27:26,false,2361594499,,1/29/2017 05:26:31,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,applicable,vacancy
+1143385374,1/29/2017 05:31:56,false,2361595215,,1/29/2017 05:29:52,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,applicable,vacancy
+1143385374,1/29/2017 05:42:45,false,2361597593,,1/29/2017 05:39:18,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,other,,applicable,vacancy
+1143385374,1/29/2017 05:58:19,false,2361601501,,1/29/2017 05:56:43,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,applicable,vacancy
+1143385374,1/29/2017 06:00:20,false,2361601841,,1/29/2017 05:59:13,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,applicable,vacancy
+1143385375,1/29/2017 05:38:58,false,2361596657,,1/29/2017 05:37:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,harmful,healthy
+1143385375,1/29/2017 05:47:32,false,2361598868,,1/29/2017 05:45:48,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,harmful,healthy
+1143385375,1/29/2017 05:48:27,false,2361598991,,1/29/2017 05:45:54,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,,harmful,healthy
+1143385375,1/29/2017 06:03:55,false,2361602557,,1/29/2017 06:03:30,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,,harmful,healthy
+1143385375,1/29/2017 06:04:24,false,2361602589,,1/29/2017 06:03:33,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,antonym,,harmful,healthy
+1143385375,1/29/2017 06:06:37,false,2361603004,,1/29/2017 06:04:10,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,,harmful,healthy
+1143385376,1/29/2017 05:34:20,false,2361595647,,1/29/2017 05:33:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,generally,long
+1143385376,1/29/2017 05:42:24,false,2361597491,,1/29/2017 05:40:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,generally,long
+1143385376,1/29/2017 06:03:30,false,2361602503,,1/29/2017 06:02:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,category,,generally,long
+1143385377,1/29/2017 05:36:52,false,2361596186,,1/29/2017 05:35:59,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,hanker,shortly
+1143385377,1/29/2017 05:46:18,false,2361598457,,1/29/2017 05:44:12,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,hanker,shortly
+1143385377,1/29/2017 05:53:36,false,2361600422,,1/29/2017 05:44:17,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,,hanker,shortly
+1143385378,1/29/2017 05:37:46,false,2361596346,,1/29/2017 05:36:53,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,problematic,available
+1143385378,1/29/2017 05:47:52,false,2361598932,,1/29/2017 05:45:05,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,antonym,,problematic,available
+1143385378,1/29/2017 05:48:50,false,2361599188,,1/29/2017 05:48:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,problematic,available
+1143385378,1/29/2017 05:52:07,false,2361600017,,1/29/2017 05:50:47,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,antonym,,problematic,available
+1143385378,1/29/2017 05:55:40,false,2361601004,,1/29/2017 05:54:05,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,problematic,available
+1143385378,1/29/2017 05:58:16,false,2361601486,,1/29/2017 05:57:46,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,problematic,available
+1143385379,1/29/2017 05:40:19,false,2361596976,,1/29/2017 05:39:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,flora,fauna
+1143385379,1/29/2017 05:48:30,false,2361598999,,1/29/2017 05:46:19,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,flora,fauna
+1143385379,1/29/2017 05:52:07,false,2361600019,,1/29/2017 05:50:47,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,other,,flora,fauna
+1143385379,1/29/2017 05:54:59,false,2361600880,,1/29/2017 05:53:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,flora,fauna
+1143385380,1/29/2017 05:25:24,false,2361594123,,1/29/2017 05:24:12,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,find,indeterminate
+1143385380,1/29/2017 05:32:15,false,2361595266,,1/29/2017 05:31:19,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,find,indeterminate
+1143385380,1/29/2017 05:34:52,false,2361595731,,1/29/2017 05:33:52,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,antonym,,find,indeterminate
+1143385380,1/29/2017 05:36:15,false,2361595962,,1/29/2017 05:35:18,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,,find,indeterminate
+1143385380,1/29/2017 05:37:15,false,2361596270,,1/29/2017 05:36:11,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,find,indeterminate
+1143385380,1/29/2017 05:44:11,false,2361597953,,1/29/2017 05:41:34,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,find,indeterminate
+1143385380,1/29/2017 06:05:16,false,2361602779,,1/29/2017 06:04:26,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,find,indeterminate
+1143385381,1/29/2017 05:41:15,false,2361597206,,1/29/2017 05:40:21,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,hard-pressed,ripe
+1143385381,1/29/2017 05:47:59,false,2361598968,,1/29/2017 05:47:33,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,hard-pressed,ripe
+1143385381,1/29/2017 05:54:10,false,2361600621,,1/29/2017 05:51:01,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,hard-pressed,ripe
+1143385382,1/29/2017 05:42:41,false,2361597587,,1/29/2017 05:42:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,sole,certainly
+1143385382,1/29/2017 05:50:37,false,2361599664,,1/29/2017 05:48:49,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,sole,certainly
+1143385382,1/29/2017 05:52:34,false,2361600130,,1/29/2017 05:50:29,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,sole,certainly
+1143385382,1/29/2017 05:54:59,false,2361600876,,1/29/2017 05:53:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,sole,certainly
+1143385382,1/29/2017 05:56:53,false,2361601186,,1/29/2017 05:56:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,sole,certainly
+1143385383,1/29/2017 05:54:04,false,2361600581,,1/29/2017 05:53:23,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,other,,everybody,totally
+1143385383,1/29/2017 05:55:14,false,2361600917,,1/29/2017 05:54:09,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,entailment,,everybody,totally
+1143385383,1/29/2017 06:41:50,false,2361612139,,1/29/2017 06:32:39,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,other,,everybody,totally
+1143385384,1/29/2017 05:23:21,false,2361593802,,1/29/2017 05:22:06,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,irreplaceable,replaceable
+1143385384,1/29/2017 05:30:25,false,2361594954,,1/29/2017 05:29:40,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,irreplaceable,replaceable
+1143385384,1/29/2017 05:33:03,false,2361595416,,1/29/2017 05:31:23,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,irreplaceable,replaceable
+1143385384,1/29/2017 05:35:16,false,2361595789,,1/29/2017 05:33:30,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,,irreplaceable,replaceable
+1143385384,1/29/2017 06:01:38,false,2361602095,,1/29/2017 05:59:58,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,antonym,,irreplaceable,replaceable
+1143385385,1/29/2017 05:42:41,false,2361597590,,1/29/2017 05:42:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,total,go
+1143385385,1/29/2017 05:50:37,false,2361599662,,1/29/2017 05:48:49,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,total,go
+1143385385,1/29/2017 05:52:49,false,2361600196,,1/29/2017 05:52:06,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,total,go
+1143385385,1/29/2017 05:55:40,false,2361601002,,1/29/2017 05:54:05,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,total,go
+1143385386,1/29/2017 05:52:41,false,2361600183,,1/29/2017 05:52:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,manage,today
+1143385386,1/29/2017 05:53:40,false,2361600448,,1/29/2017 05:52:10,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,manage,today
+1143385386,1/29/2017 06:34:57,false,2361610810,,1/29/2017 06:27:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,manage,today
+1143385387,1/29/2017 05:54:32,false,2361600776,,1/29/2017 05:54:12,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,safe,item
+1143385387,1/29/2017 06:05:48,false,2361602840,,1/29/2017 06:05:18,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,safe,item
+1143385387,1/29/2017 06:14:06,false,2361604243,,1/29/2017 06:11:24,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,safe,item
+1143385388,1/29/2017 05:53:22,false,2361600373,,1/29/2017 05:52:59,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,skilful,unfortunate
+1143385388,1/29/2017 05:54:08,false,2361600592,,1/29/2017 05:53:27,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,skilful,unfortunate
+1143385388,1/29/2017 05:56:32,false,2361601109,,1/29/2017 05:54:21,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,skilful,unfortunate
+1143385389,1/29/2017 05:43:42,false,2361597863,,1/29/2017 05:43:14,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,powerful,somewhat
+1143385389,1/29/2017 05:52:13,false,2361600050,,1/29/2017 05:48:59,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,powerful,somewhat
+1143385389,1/29/2017 06:38:19,false,2361611382,,1/29/2017 06:33:04,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,powerful,somewhat
+1143385390,1/29/2017 05:22:04,false,2361593594,,1/29/2017 05:20:25,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,bad,occupy
+1143385390,1/29/2017 05:28:37,false,2361594615,,1/29/2017 05:27:27,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,bad,occupy
+1143385390,1/29/2017 05:31:22,false,2361595116,,1/29/2017 05:30:27,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,bad,occupy
+1143385390,1/29/2017 05:36:14,false,2361595937,,1/29/2017 05:31:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,bad,occupy
+1143385391,1/29/2017 05:35:03,false,2361595757,,1/29/2017 05:34:22,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,rude,loose
+1143385391,1/29/2017 05:43:57,false,2361597885,,1/29/2017 05:42:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,rude,loose
+1143385391,1/29/2017 05:52:34,false,2361600128,,1/29/2017 05:50:29,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,antonym,,rude,loose
+1143385391,1/29/2017 05:56:53,false,2361601183,,1/29/2017 05:56:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,rude,loose
+1143385391,1/29/2017 06:03:12,false,2361602445,,1/29/2017 06:01:40,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,rude,loose
+1143385392,1/29/2017 05:37:46,false,2361596344,,1/29/2017 05:36:53,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,spiteful,skilful
+1143385392,1/29/2017 05:47:52,false,2361598933,,1/29/2017 05:45:05,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,unrelated,,spiteful,skilful
+1143385392,1/29/2017 05:48:50,false,2361599184,,1/29/2017 05:48:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,spiteful,skilful
+1143385392,1/29/2017 05:52:07,false,2361600022,,1/29/2017 05:50:47,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,spiteful,skilful
+1143385392,1/29/2017 05:55:40,false,2361601001,,1/29/2017 05:54:05,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,antonym,,spiteful,skilful
+1143385392,1/29/2017 05:58:16,false,2361601489,,1/29/2017 05:57:46,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,spiteful,skilful
+1143385393,1/29/2017 05:41:15,false,2361597210,,1/29/2017 05:40:21,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,keister,allow
+1143385393,1/29/2017 05:47:59,false,2361598965,,1/29/2017 05:47:33,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,keister,allow
+1143385393,1/29/2017 05:54:10,false,2361600620,,1/29/2017 05:51:01,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,keister,allow
+1143385394,1/29/2017 05:40:19,false,2361596977,,1/29/2017 05:39:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,sparse,foresighted
+1143385394,1/29/2017 05:48:30,false,2361598996,,1/29/2017 05:46:19,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,sparse,foresighted
+1143385394,1/29/2017 05:52:49,false,2361600194,,1/29/2017 05:52:06,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,sparse,foresighted
+1143385395,1/29/2017 05:41:15,false,2361597214,,1/29/2017 05:40:21,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,barely,available
+1143385395,1/29/2017 05:47:59,false,2361598970,,1/29/2017 05:47:33,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,barely,available
+1143385395,1/29/2017 05:54:10,false,2361600619,,1/29/2017 05:51:01,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,category,,barely,available
+1143385396,1/29/2017 05:41:59,false,2361597369,,1/29/2017 05:41:16,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,useful,fruitless
+1143385396,1/29/2017 05:50:24,false,2361599599,,1/29/2017 05:48:28,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,,useful,fruitless
+1143385396,1/29/2017 05:51:00,false,2361599752,,1/29/2017 05:48:31,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,useful,fruitless
+1143385396,1/29/2017 05:56:07,false,2361601075,,1/29/2017 05:55:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,useful,fruitless
+1143385397,1/29/2017 05:40:19,false,2361596975,,1/29/2017 05:39:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,sick,compensate
+1143385397,1/29/2017 05:48:30,false,2361598998,,1/29/2017 05:46:19,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,sick,compensate
+1143385397,1/29/2017 05:52:49,false,2361600198,,1/29/2017 05:52:06,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,sick,compensate
+1143385398,1/29/2017 05:38:58,false,2361596658,,1/29/2017 05:37:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,l,equal
+1143385398,1/29/2017 05:47:32,false,2361598866,,1/29/2017 05:45:48,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,l,equal
+1143385398,1/29/2017 05:48:27,false,2361598994,,1/29/2017 05:45:54,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,unrelated,,l,equal
+1143385398,1/29/2017 06:03:55,false,2361602555,,1/29/2017 06:03:30,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,l,equal
+1143385398,1/29/2017 06:04:24,false,2361602591,,1/29/2017 06:03:33,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,l,equal
+1143385398,1/29/2017 06:06:37,false,2361603007,,1/29/2017 06:04:10,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,entailment,,l,equal
+1143385399,1/29/2017 05:23:21,false,2361593801,,1/29/2017 05:22:06,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,gentle,complex
+1143385399,1/29/2017 05:30:25,false,2361594953,,1/29/2017 05:29:40,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,gentle,complex
+1143385399,1/29/2017 05:33:03,false,2361595418,,1/29/2017 05:31:23,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,gentle,complex
+1143385399,1/29/2017 05:35:16,false,2361595793,,1/29/2017 05:33:30,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,other,,gentle,complex
+1143385399,1/29/2017 06:01:38,false,2361602094,,1/29/2017 05:59:58,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,gentle,complex
+1143385400,1/29/2017 05:14:10,false,2361592615,,1/29/2017 05:12:03,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,antonym,,excessively,thinly
+1143385400,1/29/2017 05:18:18,false,2361593174,,1/29/2017 05:17:21,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,excessively,thinly
+1143385400,1/29/2017 05:26:20,false,2361594367,,1/29/2017 05:23:17,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,excessively,thinly
+1143385400,1/29/2017 05:26:30,false,2361594369,,1/29/2017 05:25:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,excessively,thinly
+1143385400,1/29/2017 05:37:16,false,2361596276,,1/29/2017 05:36:23,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,,excessively,thinly
+1143385400,1/29/2017 05:39:29,false,2361596753,,1/29/2017 05:38:18,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,excessively,thinly
+1143385400,1/29/2017 05:48:48,false,2361599157,,1/29/2017 05:46:50,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,antonym,,excessively,thinly
+1143385400,1/29/2017 06:08:06,false,2361603263,,1/29/2017 05:53:41,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,,excessively,thinly
+1143385401,1/29/2017 05:22:04,false,2361593596,,1/29/2017 05:20:25,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,evenhandedly,bad
+1143385401,1/29/2017 05:28:37,false,2361594616,,1/29/2017 05:27:27,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,evenhandedly,bad
+1143385401,1/29/2017 05:31:22,false,2361595120,,1/29/2017 05:30:27,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,,evenhandedly,bad
+1143385401,1/29/2017 05:36:14,false,2361595939,,1/29/2017 05:31:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,evenhandedly,bad
+1143385402,1/29/2017 05:34:20,false,2361595646,,1/29/2017 05:33:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,hardworking,loose
+1143385402,1/29/2017 05:42:24,false,2361597486,,1/29/2017 05:40:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,hardworking,loose
+1143385402,1/29/2017 06:03:30,false,2361602502,,1/29/2017 06:02:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,hardworking,loose
+1143385403,1/29/2017 05:33:15,false,2361595451,,1/29/2017 05:32:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,comfortably,down
+1143385403,1/29/2017 05:40:24,false,2361597011,,1/29/2017 05:39:38,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,comfortably,down
+1143385403,1/29/2017 06:51:27,false,2361614331,,1/29/2017 06:48:23,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,comfortably,down
+1143385404,1/29/2017 05:53:22,false,2361600371,,1/29/2017 05:52:59,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,scummy,as
+1143385404,1/29/2017 05:54:08,false,2361600589,,1/29/2017 05:53:27,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,scummy,as
+1143385404,1/29/2017 05:56:32,false,2361601111,,1/29/2017 05:54:21,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,scummy,as
+1143385405,1/29/2017 05:52:41,false,2361600184,,1/29/2017 05:52:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,decent,indefensible
+1143385405,1/29/2017 05:53:40,false,2361600443,,1/29/2017 05:52:10,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,antonym,,decent,indefensible
+1143385405,1/29/2017 06:34:57,false,2361610808,,1/29/2017 06:27:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,decent,indefensible
+1143385406,1/29/2017 05:43:42,false,2361597864,,1/29/2017 05:43:14,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,shameful,right
+1143385406,1/29/2017 05:52:13,false,2361600048,,1/29/2017 05:48:59,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,shameful,right
+1143385406,1/29/2017 06:07:17,false,2361603136,,1/29/2017 06:05:10,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,antonym,,shameful,right
+1143385407,1/29/2017 05:52:41,false,2361600182,,1/29/2017 05:52:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,tight,well-to-do
+1143385407,1/29/2017 05:53:40,false,2361600446,,1/29/2017 05:52:10,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,antonym,,tight,well-to-do
+1143385407,1/29/2017 06:34:57,false,2361610826,,1/29/2017 06:27:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,tight,well-to-do
+1143385408,1/29/2017 05:33:15,false,2361595449,,1/29/2017 05:32:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,well,ill-timed
+1143385408,1/29/2017 05:40:24,false,2361597014,,1/29/2017 05:39:38,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,well,ill-timed
+1143385408,1/29/2017 06:51:27,false,2361614329,,1/29/2017 06:48:23,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,well,ill-timed
+1143385409,1/29/2017 05:36:52,false,2361596183,,1/29/2017 05:35:59,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,incorrect,decently
+1143385409,1/29/2017 05:46:18,false,2361598459,,1/29/2017 05:44:12,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,incorrect,decently
+1143385409,1/29/2017 05:53:36,false,2361600426,,1/29/2017 05:44:17,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,antonym,,incorrect,decently
+1143385410,1/29/2017 05:23:21,false,2361593804,,1/29/2017 05:22:06,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,permissible,intolerable
+1143385410,1/29/2017 05:30:25,false,2361594956,,1/29/2017 05:29:40,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,permissible,intolerable
+1143385410,1/29/2017 05:33:03,false,2361595417,,1/29/2017 05:31:23,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,permissible,intolerable
+1143385410,1/29/2017 05:35:16,false,2361595792,,1/29/2017 05:33:30,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,,permissible,intolerable
+1143385410,1/29/2017 06:01:38,false,2361602097,,1/29/2017 05:59:58,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,permissible,intolerable
+1143385411,1/29/2017 05:35:58,false,2361595875,,1/29/2017 05:35:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,easygoing,easily
+1143385411,1/29/2017 05:45:47,false,2361598380,,1/29/2017 05:44:08,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,easygoing,easily
+1143385411,1/29/2017 05:52:18,false,2361600057,,1/29/2017 05:50:44,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,category,,easygoing,easily
+1143385411,1/29/2017 06:03:12,false,2361602448,,1/29/2017 06:01:40,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,,easygoing,easily
+1143385412,1/29/2017 05:53:22,false,2361600374,,1/29/2017 05:52:59,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,adequately,strong
+1143385412,1/29/2017 05:54:08,false,2361600591,,1/29/2017 05:53:27,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,adequately,strong
+1143385412,1/29/2017 05:56:32,false,2361601112,,1/29/2017 05:54:21,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,adequately,strong
+1143385413,1/29/2017 05:44:28,false,2361597997,,1/29/2017 05:43:44,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,decently,fair
+1143385413,1/29/2017 05:52:09,false,2361600028,,1/29/2017 05:49:35,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,other,,decently,fair
+1143385413,1/29/2017 05:53:26,false,2361600388,,1/29/2017 05:52:09,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,other,,decently,fair
+1143385413,1/29/2017 05:55:06,false,2361600886,,1/29/2017 05:54:06,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,decently,fair
+1143385413,1/29/2017 05:56:33,false,2361601116,,1/29/2017 05:56:09,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,,decently,fair
+1143385414,1/29/2017 05:54:32,false,2361600771,,1/29/2017 05:54:12,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,scarce,fountainhead
+1143385414,1/29/2017 06:07:17,false,2361603132,,1/29/2017 06:05:10,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,other,,scarce,fountainhead
+1143385414,1/29/2017 06:14:06,false,2361604240,,1/29/2017 06:11:24,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,scarce,fountainhead
+1143385415,1/29/2017 05:53:26,false,2361600387,,1/29/2017 05:52:19,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,disconcert,good
+1143385415,1/29/2017 05:53:52,false,2361600538,,1/29/2017 05:52:49,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,disconcert,good
+1143385415,1/29/2017 05:53:53,false,2361600541,,1/29/2017 05:52:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,disconcert,good
+1143385415,1/29/2017 05:59:01,false,2361601599,,1/29/2017 05:56:33,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,disconcert,good
+1143385416,1/29/2017 05:54:04,false,2361600577,,1/29/2017 05:53:23,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,there,back
+1143385416,1/29/2017 05:55:14,false,2361600919,,1/29/2017 05:54:09,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,there,back
+1143385416,1/29/2017 06:38:19,false,2361611380,,1/29/2017 06:33:04,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,there,back
+1143385417,1/29/2017 05:41:59,false,2361597370,,1/29/2017 05:41:16,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,allow,rude
+1143385417,1/29/2017 05:50:24,false,2361599600,,1/29/2017 05:48:28,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,unrelated,,allow,rude
+1143385417,1/29/2017 05:51:00,false,2361599749,,1/29/2017 05:48:31,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,allow,rude
+1143385417,1/29/2017 05:56:07,false,2361601078,,1/29/2017 05:55:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,allow,rude
+1143385418,1/29/2017 05:23:21,false,2361593800,,1/29/2017 05:22:06,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,finale,start
+1143385418,1/29/2017 05:30:25,false,2361594955,,1/29/2017 05:29:40,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,finale,start
+1143385418,1/29/2017 05:33:03,false,2361595415,,1/29/2017 05:31:23,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,finale,start
+1143385418,1/29/2017 05:35:16,false,2361595791,,1/29/2017 05:33:30,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,,finale,start
+1143385418,1/29/2017 06:01:38,false,2361602096,,1/29/2017 05:59:58,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,finale,start
+1143385419,1/29/2017 05:36:52,false,2361596185,,1/29/2017 05:35:59,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,efficient,unable
+1143385419,1/29/2017 05:46:18,false,2361598458,,1/29/2017 05:44:12,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,efficient,unable
+1143385419,1/29/2017 05:53:36,false,2361600424,,1/29/2017 05:44:17,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,,efficient,unable
+1143385420,1/29/2017 05:36:52,false,2361596187,,1/29/2017 05:35:59,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,nonpartisanship,partiality
+1143385420,1/29/2017 05:46:18,false,2361598456,,1/29/2017 05:44:12,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,nonpartisanship,partiality
+1143385420,1/29/2017 05:53:36,false,2361600423,,1/29/2017 05:44:17,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,antonym,,nonpartisanship,partiality
+1143385421,1/29/2017 05:35:58,false,2361595878,,1/29/2017 05:35:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,unsuitable,ideal
+1143385421,1/29/2017 05:45:47,false,2361598383,,1/29/2017 05:44:08,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,unsuitable,ideal
+1143385421,1/29/2017 05:52:18,false,2361600052,,1/29/2017 05:50:44,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,unsuitable,ideal
+1143385421,1/29/2017 06:03:12,false,2361602449,,1/29/2017 06:01:40,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,antonym,,unsuitable,ideal
+1143385422,1/29/2017 05:54:04,false,2361600579,,1/29/2017 05:53:23,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,symbolise,representation
+1143385422,1/29/2017 05:55:14,false,2361600920,,1/29/2017 05:54:09,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,category,,symbolise,representation
+1143385422,1/29/2017 06:38:19,false,2361611381,,1/29/2017 06:33:04,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,symbolise,representation
+1143385423,1/29/2017 05:53:22,false,2361600372,,1/29/2017 05:52:59,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,,bad,favourable
+1143385423,1/29/2017 05:54:08,false,2361600588,,1/29/2017 05:53:27,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,,bad,favourable
+1143385423,1/29/2017 05:56:32,false,2361601113,,1/29/2017 05:54:21,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,bad,favourable
+1143385424,1/29/2017 05:34:20,false,2361595644,,1/29/2017 05:33:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,wildness,tameness
+1143385424,1/29/2017 05:42:24,false,2361597488,,1/29/2017 05:40:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,wildness,tameness
+1143385424,1/29/2017 06:03:30,false,2361602500,,1/29/2017 06:02:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,,wildness,tameness
+1143385425,1/29/2017 05:34:20,false,2361595648,,1/29/2017 05:33:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,extricate,entangle
+1143385425,1/29/2017 05:42:24,false,2361597489,,1/29/2017 05:40:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,extricate,entangle
+1143385425,1/29/2017 06:03:30,false,2361602501,,1/29/2017 06:02:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,extricate,entangle
+1143385426,1/29/2017 05:16:09,false,2361592922,,1/29/2017 05:14:25,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,other,,unmanageable,hard
+1143385426,1/29/2017 05:19:30,false,2361593259,,1/29/2017 05:18:20,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,,unmanageable,hard
+1143385426,1/29/2017 05:25:47,false,2361594225,,1/29/2017 05:25:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,category,,unmanageable,hard
+1143385426,1/29/2017 05:29:40,false,2361594842,,1/29/2017 05:26:21,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,other,,unmanageable,hard
+1143385426,1/29/2017 05:38:07,false,2361596502,,1/29/2017 05:37:17,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,unmanageable,hard
+1143385426,1/29/2017 05:50:27,false,2361599639,,1/29/2017 05:48:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,unmanageable,hard
+1143385426,1/29/2017 05:56:52,false,2361601177,,1/29/2017 05:55:41,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,other,,unmanageable,hard
+1143385426,1/29/2017 05:57:45,false,2361601412,,1/29/2017 05:56:54,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,unmanageable,hard
+1143385426,1/29/2017 06:04:20,false,2361602578,,1/29/2017 05:59:17,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,unmanageable,hard
+1143385427,1/29/2017 05:42:41,false,2361597591,,1/29/2017 05:42:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,considerably,gonna
+1143385427,1/29/2017 05:50:37,false,2361599663,,1/29/2017 05:48:49,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,considerably,gonna
+1143385427,1/29/2017 05:52:34,false,2361600133,,1/29/2017 05:50:29,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,considerably,gonna
+1143385427,1/29/2017 05:54:59,false,2361600877,,1/29/2017 05:53:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,considerably,gonna
+1143385427,1/29/2017 05:56:53,false,2361601182,,1/29/2017 05:56:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,considerably,gonna
+1143385428,1/29/2017 05:54:04,false,2361600578,,1/29/2017 05:53:23,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,unvoiced,tough
+1143385428,1/29/2017 05:55:14,false,2361600918,,1/29/2017 05:54:09,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,unvoiced,tough
+1143385428,1/29/2017 06:38:19,false,2361611384,,1/29/2017 06:33:04,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,unvoiced,tough
+1143385429,1/29/2017 05:22:04,false,2361593592,,1/29/2017 05:20:25,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,scarce,huh
+1143385429,1/29/2017 05:28:37,false,2361594617,,1/29/2017 05:27:27,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,scarce,huh
+1143385429,1/29/2017 05:31:22,false,2361595118,,1/29/2017 05:30:27,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,scarce,huh
+1143385429,1/29/2017 05:36:14,false,2361595938,,1/29/2017 05:31:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,scarce,huh
+1143385430,1/29/2017 05:20:23,false,2361593401,,1/29/2017 05:19:43,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,differ,same
+1143385430,1/29/2017 05:21:09,false,2361593438,,1/29/2017 05:16:20,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,antonym,,differ,same
+1143385430,1/29/2017 05:21:08,false,2361593441,,1/29/2017 05:19:21,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,other,,differ,same
+1143385430,1/29/2017 05:27:26,false,2361594498,,1/29/2017 05:26:31,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,differ,same
+1143385430,1/29/2017 05:31:56,false,2361595214,,1/29/2017 05:29:52,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,differ,same
+1143385430,1/29/2017 05:42:45,false,2361597596,,1/29/2017 05:39:18,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,antonym,,differ,same
+1143385430,1/29/2017 05:58:19,false,2361601503,,1/29/2017 05:56:43,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,differ,same
+1143385430,1/29/2017 06:00:20,false,2361601842,,1/29/2017 05:59:13,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,,differ,same
+1143385431,1/29/2017 05:44:28,false,2361597999,,1/29/2017 05:43:44,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,no,decease
+1143385431,1/29/2017 05:52:09,false,2361600026,,1/29/2017 05:49:35,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,no,decease
+1143385431,1/29/2017 05:53:26,false,2361600379,,1/29/2017 05:52:09,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,no,decease
+1143385431,1/29/2017 05:55:06,false,2361600885,,1/29/2017 05:54:06,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,no,decease
+1143385431,1/29/2017 05:56:33,false,2361601118,,1/29/2017 05:56:09,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,no,decease
+1143385431,1/29/2017 05:57:45,false,2361601411,,1/29/2017 05:56:54,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,no,decease
+1143385432,1/29/2017 05:20:23,false,2361593403,,1/29/2017 05:19:43,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,sufficiency,underemployment
+1143385432,1/29/2017 05:21:08,false,2361593432,,1/29/2017 05:19:21,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,other,,sufficiency,underemployment
+1143385432,1/29/2017 05:21:09,false,2361593433,,1/29/2017 05:16:20,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,,sufficiency,underemployment
+1143385432,1/29/2017 05:27:26,false,2361594500,,1/29/2017 05:26:31,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,sufficiency,underemployment
+1143385432,1/29/2017 05:31:56,false,2361595213,,1/29/2017 05:29:52,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,sufficiency,underemployment
+1143385432,1/29/2017 05:42:45,false,2361597595,,1/29/2017 05:39:18,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,other,,sufficiency,underemployment
+1143385432,1/29/2017 05:58:19,false,2361601505,,1/29/2017 05:56:43,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,sufficiency,underemployment
+1143385432,1/29/2017 06:00:20,false,2361601843,,1/29/2017 05:59:13,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,sufficiency,underemployment
+1143385433,1/29/2017 05:20:23,false,2361593402,,1/29/2017 05:19:43,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,respectable,hurtful
+1143385433,1/29/2017 05:21:09,false,2361593437,,1/29/2017 05:16:20,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,,respectable,hurtful
+1143385433,1/29/2017 05:21:08,false,2361593439,,1/29/2017 05:19:21,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,other,,respectable,hurtful
+1143385433,1/29/2017 05:27:26,false,2361594497,,1/29/2017 05:26:31,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,respectable,hurtful
+1143385433,1/29/2017 05:31:56,false,2361595212,,1/29/2017 05:29:52,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,respectable,hurtful
+1143385433,1/29/2017 05:42:45,false,2361597594,,1/29/2017 05:39:18,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,antonym,,respectable,hurtful
+1143385433,1/29/2017 05:58:19,false,2361601504,,1/29/2017 05:56:43,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,respectable,hurtful
+1143385433,1/29/2017 06:00:20,false,2361601844,,1/29/2017 05:59:13,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,respectable,hurtful
+1143385434,1/29/2017 05:23:58,false,2361593912,,1/29/2017 05:23:22,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,correctly,mistaken
+1143385434,1/29/2017 05:31:18,false,2361595113,,1/29/2017 05:30:26,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,correctly,mistaken
+1143385434,1/29/2017 05:36:10,false,2361595924,,1/29/2017 05:33:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,correctly,mistaken
+1143385434,1/29/2017 06:01:37,false,2361602092,,1/29/2017 06:00:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,,correctly,mistaken
+1143385435,1/29/2017 05:16:09,false,2361592923,,1/29/2017 05:14:25,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,other,,justly,alright
+1143385435,1/29/2017 05:19:30,false,2361593256,,1/29/2017 05:18:20,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,,justly,alright
+1143385435,1/29/2017 05:25:47,false,2361594227,,1/29/2017 05:25:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,entailment,,justly,alright
+1143385435,1/29/2017 05:29:40,false,2361594845,,1/29/2017 05:26:21,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,justly,alright
+1143385435,1/29/2017 05:38:07,false,2361596505,,1/29/2017 05:37:17,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,,justly,alright
+1143385435,1/29/2017 05:50:27,false,2361599640,,1/29/2017 05:48:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,justly,alright
+1143385435,1/29/2017 05:56:52,false,2361601179,,1/29/2017 05:55:41,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,justly,alright
+1143385435,1/29/2017 05:57:45,false,2361601410,,1/29/2017 05:56:54,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,entailment,,justly,alright
+1143385435,1/29/2017 06:04:20,false,2361602580,,1/29/2017 05:59:17,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,justly,alright
+1143385436,1/29/2017 05:35:03,false,2361595754,,1/29/2017 05:34:22,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,obtuseness,brightness
+1143385436,1/29/2017 05:43:57,false,2361597888,,1/29/2017 05:42:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,obtuseness,brightness
+1143385436,1/29/2017 05:54:26,false,2361600719,,1/29/2017 05:50:40,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,,obtuseness,brightness
+1143385436,1/29/2017 05:54:55,false,2361600865,,1/29/2017 05:54:34,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,obtuseness,brightness
+1143385436,1/29/2017 06:02:36,false,2361602295,,1/29/2017 06:01:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,obtuseness,brightness
+1143385437,1/29/2017 05:33:15,false,2361595452,,1/29/2017 05:32:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,dire,promiscuous
+1143385437,1/29/2017 05:40:24,false,2361597012,,1/29/2017 05:39:38,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,dire,promiscuous
+1143385437,1/29/2017 06:51:27,false,2361614328,,1/29/2017 06:48:23,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,dire,promiscuous
+1143385438,1/29/2017 05:33:15,false,2361595448,,1/29/2017 05:32:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,bod,ground
+1143385438,1/29/2017 05:40:24,false,2361597013,,1/29/2017 05:39:38,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,bod,ground
+1143385438,1/29/2017 06:51:27,false,2361614330,,1/29/2017 06:48:23,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,bod,ground
+1143385439,1/29/2017 05:35:58,false,2361595877,,1/29/2017 05:35:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,l,ingest
+1143385439,1/29/2017 05:45:47,false,2361598384,,1/29/2017 05:44:08,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,l,ingest
+1143385439,1/29/2017 05:52:18,false,2361600055,,1/29/2017 05:50:44,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,entailment,,l,ingest
+1143385439,1/29/2017 06:03:12,false,2361602446,,1/29/2017 06:01:40,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,l,ingest
+1143385440,1/29/2017 05:35:58,false,2361595876,,1/29/2017 05:35:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,well,thin
+1143385440,1/29/2017 05:45:47,false,2361598381,,1/29/2017 05:44:08,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,well,thin
+1143385440,1/29/2017 05:54:26,false,2361600721,,1/29/2017 05:50:40,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,other,,well,thin
+1143385440,1/29/2017 05:54:55,false,2361600864,,1/29/2017 05:54:34,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,well,thin
+1143385440,1/29/2017 06:02:36,false,2361602297,,1/29/2017 06:01:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,well,thin
+1143385441,1/29/2017 05:16:09,false,2361592930,,1/29/2017 05:14:25,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,other,,unclear,experience
+1143385441,1/29/2017 05:19:30,false,2361593255,,1/29/2017 05:18:20,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,,unclear,experience
+1143385441,1/29/2017 05:25:47,false,2361594224,,1/29/2017 05:25:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,unclear,experience
+1143385441,1/29/2017 05:29:40,false,2361594846,,1/29/2017 05:26:21,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,unclear,experience
+1143385441,1/29/2017 05:38:07,false,2361596504,,1/29/2017 05:37:17,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,unclear,experience
+1143385441,1/29/2017 05:50:27,false,2361599637,,1/29/2017 05:48:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,unclear,experience
+1143385441,1/29/2017 05:56:52,false,2361601178,,1/29/2017 05:55:41,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,unclear,experience
+1143385441,1/29/2017 05:57:45,false,2361601414,,1/29/2017 05:56:54,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,unclear,experience
+1143385441,1/29/2017 06:04:20,false,2361602576,,1/29/2017 05:59:17,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,unclear,experience
+1143385442,1/29/2017 05:42:41,false,2361597589,,1/29/2017 05:42:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,lonesome,fail
+1143385442,1/29/2017 05:50:37,false,2361599665,,1/29/2017 05:48:49,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,lonesome,fail
+1143385442,1/29/2017 05:52:34,false,2361600132,,1/29/2017 05:50:29,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,lonesome,fail
+1143385442,1/29/2017 05:54:59,false,2361600879,,1/29/2017 05:53:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,lonesome,fail
+1143385442,1/29/2017 05:56:53,false,2361601185,,1/29/2017 05:56:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,lonesome,fail
+1143385443,1/29/2017 05:54:32,false,2361600773,,1/29/2017 05:54:12,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,straightaway,over
+1143385443,1/29/2017 06:05:48,false,2361602842,,1/29/2017 06:05:18,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,straightaway,over
+1143385443,1/29/2017 06:14:06,false,2361604239,,1/29/2017 06:11:24,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,straightaway,over
+1143385444,1/29/2017 05:41:59,false,2361597371,,1/29/2017 05:41:16,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,counterfeit,honest
+1143385444,1/29/2017 05:50:24,false,2361599601,,1/29/2017 05:48:28,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,,counterfeit,honest
+1143385444,1/29/2017 05:51:00,false,2361599751,,1/29/2017 05:48:31,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,,counterfeit,honest
+1143385444,1/29/2017 05:56:07,false,2361601076,,1/29/2017 05:55:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,counterfeit,honest
+1143385445,1/29/2017 05:43:42,false,2361597861,,1/29/2017 05:43:14,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,refrain,matchless
+1143385445,1/29/2017 05:52:13,false,2361600051,,1/29/2017 05:48:59,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,refrain,matchless
+1143385445,1/29/2017 06:07:17,false,2361603135,,1/29/2017 06:05:10,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,unrelated,,refrain,matchless
+1143385446,1/29/2017 05:41:59,false,2361597372,,1/29/2017 05:41:16,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,relevant,debate
+1143385446,1/29/2017 05:50:24,false,2361599597,,1/29/2017 05:48:28,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,unrelated,,relevant,debate
+1143385446,1/29/2017 05:51:00,false,2361599753,,1/29/2017 05:48:31,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,relevant,debate
+1143385446,1/29/2017 05:56:07,false,2361601077,,1/29/2017 05:55:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,relevant,debate
+1143385447,1/29/2017 05:53:26,false,2361600383,,1/29/2017 05:52:19,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,discourtesy,defence
+1143385447,1/29/2017 05:53:52,false,2361600536,,1/29/2017 05:52:49,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,discourtesy,defence
+1143385447,1/29/2017 05:53:53,false,2361600543,,1/29/2017 05:52:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,discourtesy,defence
+1143385447,1/29/2017 05:59:01,false,2361601598,,1/29/2017 05:56:33,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,discourtesy,defence
+1143385448,1/29/2017 05:37:46,false,2361596348,,1/29/2017 05:36:53,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,merely,want
+1143385448,1/29/2017 05:47:52,false,2361598937,,1/29/2017 05:45:05,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,unrelated,,merely,want
+1143385448,1/29/2017 05:48:50,false,2361599185,,1/29/2017 05:48:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,merely,want
+1143385448,1/29/2017 05:52:07,false,2361600021,,1/29/2017 05:50:47,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,merely,want
+1143385448,1/29/2017 05:55:40,false,2361601003,,1/29/2017 05:54:05,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,merely,want
+1143385448,1/29/2017 05:58:16,false,2361601488,,1/29/2017 05:57:46,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,merely,want
+1143385449,1/29/2017 05:25:24,false,2361594124,,1/29/2017 05:24:12,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,unspoiled,nice
+1143385449,1/29/2017 05:32:15,false,2361595267,,1/29/2017 05:31:19,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,category,,unspoiled,nice
+1143385449,1/29/2017 05:34:52,false,2361595733,,1/29/2017 05:33:52,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,antonym,,unspoiled,nice
+1143385449,1/29/2017 05:36:15,false,2361595964,,1/29/2017 05:35:18,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,other,,unspoiled,nice
+1143385449,1/29/2017 05:37:15,false,2361596266,,1/29/2017 05:36:11,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,unspoiled,nice
+1143385449,1/29/2017 05:44:11,false,2361597951,,1/29/2017 05:41:34,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,category,,unspoiled,nice
+1143385449,1/29/2017 06:05:16,false,2361602778,,1/29/2017 06:04:26,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,,unspoiled,nice
+1143385450,1/29/2017 05:37:46,false,2361596345,,1/29/2017 05:36:53,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,hunt,hither
+1143385450,1/29/2017 05:47:52,false,2361598935,,1/29/2017 05:45:05,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,other,,hunt,hither
+1143385450,1/29/2017 05:48:50,false,2361599191,,1/29/2017 05:48:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,hunt,hither
+1143385450,1/29/2017 05:52:18,false,2361600054,,1/29/2017 05:50:44,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,hunt,hither
+1143385450,1/29/2017 06:03:55,false,2361602556,,1/29/2017 06:03:30,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,hunt,hither
+1143385451,1/29/2017 05:14:10,false,2361592618,,1/29/2017 05:12:03,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,,qualify,uncertain
+1143385451,1/29/2017 05:18:18,false,2361593173,,1/29/2017 05:17:21,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,,qualify,uncertain
+1143385451,1/29/2017 05:26:20,false,2361594366,,1/29/2017 05:23:17,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,qualify,uncertain
+1143385451,1/29/2017 05:26:30,false,2361594372,,1/29/2017 05:25:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,qualify,uncertain
+1143385451,1/29/2017 05:37:16,false,2361596277,,1/29/2017 05:36:23,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,,qualify,uncertain
+1143385451,1/29/2017 05:39:29,false,2361596748,,1/29/2017 05:38:18,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,qualify,uncertain
+1143385451,1/29/2017 05:48:48,false,2361599160,,1/29/2017 05:46:50,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,antonym,,qualify,uncertain
+1143385451,1/29/2017 06:08:06,false,2361603264,,1/29/2017 05:53:41,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,,qualify,uncertain
+1143385452,1/29/2017 05:23:58,false,2361593909,,1/29/2017 05:23:22,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,designate,even
+1143385452,1/29/2017 05:31:18,false,2361595114,,1/29/2017 05:30:26,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,designate,even
+1143385452,1/29/2017 05:36:10,false,2361595923,,1/29/2017 05:33:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,designate,even
+1143385452,1/29/2017 06:01:37,false,2361602093,,1/29/2017 06:00:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,designate,even
+1143385453,1/29/2017 05:16:09,false,2361592924,,1/29/2017 05:14:25,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,,estimable,hurt
+1143385453,1/29/2017 05:19:30,false,2361593257,,1/29/2017 05:18:20,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,estimable,hurt
+1143385453,1/29/2017 05:25:47,false,2361594228,,1/29/2017 05:25:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,estimable,hurt
+1143385453,1/29/2017 05:29:40,false,2361594843,,1/29/2017 05:26:21,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,estimable,hurt
+1143385453,1/29/2017 05:38:07,false,2361596503,,1/29/2017 05:37:17,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,estimable,hurt
+1143385453,1/29/2017 05:50:27,false,2361599641,,1/29/2017 05:48:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,antonym,,estimable,hurt
+1143385453,1/29/2017 05:56:52,false,2361601181,,1/29/2017 05:55:41,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,,estimable,hurt
+1143385453,1/29/2017 05:58:16,false,2361601485,,1/29/2017 05:57:46,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,estimable,hurt
+1143385453,1/29/2017 06:04:20,false,2361602577,,1/29/2017 05:59:17,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,estimable,hurt
+1143385454,1/29/2017 05:44:28,false,2361598000,,1/29/2017 05:43:44,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,accurate,right
+1143385454,1/29/2017 05:52:09,false,2361600030,,1/29/2017 05:49:35,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,other,,accurate,right
+1143385454,1/29/2017 05:53:26,false,2361600381,,1/29/2017 05:52:09,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,other,,accurate,right
+1143385454,1/29/2017 05:55:06,false,2361600887,,1/29/2017 05:54:06,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,,accurate,right
+1143385454,1/29/2017 05:56:33,false,2361601117,,1/29/2017 05:56:09,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,,accurate,right
+1143385455,1/29/2017 05:43:42,false,2361597865,,1/29/2017 05:43:14,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,unusual,pattern
+1143385455,1/29/2017 05:52:13,false,2361600047,,1/29/2017 05:48:59,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,unusual,pattern
+1143385455,1/29/2017 06:07:17,false,2361603133,,1/29/2017 06:05:10,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,unrelated,,unusual,pattern
+1143385456,1/29/2017 05:44:28,false,2361597998,,1/29/2017 05:43:44,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,pervert,conform
+1143385456,1/29/2017 05:52:09,false,2361600029,,1/29/2017 05:49:35,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,antonym,,pervert,conform
+1143385456,1/29/2017 05:53:26,false,2361600380,,1/29/2017 05:52:09,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,antonym,,pervert,conform
+1143385456,1/29/2017 05:55:06,false,2361600888,,1/29/2017 05:54:06,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,pervert,conform
+1143385456,1/29/2017 05:56:33,false,2361601115,,1/29/2017 05:56:09,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,pervert,conform
+1143385457,1/29/2017 05:22:04,false,2361593595,,1/29/2017 05:20:25,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,disingenuous,TRUE
+1143385457,1/29/2017 05:28:37,false,2361594619,,1/29/2017 05:27:27,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,disingenuous,TRUE
+1143385457,1/29/2017 05:31:22,false,2361595117,,1/29/2017 05:30:27,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,,disingenuous,TRUE
+1143385457,1/29/2017 05:36:14,false,2361595940,,1/29/2017 05:31:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,,disingenuous,TRUE
+1143385458,1/29/2017 05:14:10,false,2361592617,,1/29/2017 05:12:03,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,,overpriced,brassy
+1143385458,1/29/2017 05:18:18,false,2361593176,,1/29/2017 05:17:21,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,overpriced,brassy
+1143385458,1/29/2017 05:26:20,false,2361594365,,1/29/2017 05:23:17,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,,overpriced,brassy
+1143385458,1/29/2017 05:26:30,false,2361594370,,1/29/2017 05:25:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,entailment,,overpriced,brassy
+1143385458,1/29/2017 05:37:16,false,2361596274,,1/29/2017 05:36:23,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,,overpriced,brassy
+1143385458,1/29/2017 05:39:29,false,2361596755,,1/29/2017 05:38:18,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,overpriced,brassy
+1143385458,1/29/2017 05:48:48,false,2361599161,,1/29/2017 05:46:50,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,,overpriced,brassy
+1143385458,1/29/2017 06:08:06,false,2361603268,,1/29/2017 05:53:41,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,,overpriced,brassy
+1143385459,1/29/2017 05:25:24,false,2361594125,,1/29/2017 05:24:12,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,,nonetheless,yes
+1143385459,1/29/2017 05:32:15,false,2361595262,,1/29/2017 05:31:19,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,nonetheless,yes
+1143385459,1/29/2017 05:34:52,false,2361595732,,1/29/2017 05:33:52,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,unrelated,,nonetheless,yes
+1143385459,1/29/2017 05:36:15,false,2361595963,,1/29/2017 05:35:18,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,,nonetheless,yes
+1143385459,1/29/2017 05:37:15,false,2361596271,,1/29/2017 05:36:11,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,nonetheless,yes
+1143385459,1/29/2017 05:44:11,false,2361597954,,1/29/2017 05:41:34,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,other,,nonetheless,yes
+1143385459,1/29/2017 06:05:16,false,2361602775,,1/29/2017 06:04:26,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,nonetheless,yes
+1143385460,1/29/2017 05:54:32,false,2361600767,,1/29/2017 05:54:12,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,compatible,patronize
+1143385460,1/29/2017 06:05:48,false,2361602843,,1/29/2017 06:05:18,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,,compatible,patronize
+1143385460,1/29/2017 06:14:06,false,2361604241,,1/29/2017 06:11:24,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,,compatible,patronize
+1143385461,1/29/2017 05:38:58,false,2361596654,,1/29/2017 05:37:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,monoecious,dioecious
+1143385461,1/29/2017 05:47:32,false,2361598867,,1/29/2017 05:45:48,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,monoecious,dioecious
+1143385461,1/29/2017 05:48:27,false,2361598993,,1/29/2017 05:45:54,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,other,,monoecious,dioecious
+1143385461,1/29/2017 06:03:55,false,2361602553,,1/29/2017 06:03:30,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,,monoecious,dioecious
+1143385461,1/29/2017 06:04:24,false,2361602588,,1/29/2017 06:03:33,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,antonym,,monoecious,dioecious
+1143385461,1/29/2017 06:06:37,false,2361603003,,1/29/2017 06:04:10,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,,monoecious,dioecious
+1143385462,1/29/2017 05:35:03,false,2361595755,,1/29/2017 05:34:22,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,,frantic,happy
+1143385462,1/29/2017 05:43:57,false,2361597884,,1/29/2017 05:42:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,frantic,happy
+1143385462,1/29/2017 05:54:26,false,2361600718,,1/29/2017 05:50:40,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,unrelated,,frantic,happy
+1143385462,1/29/2017 05:54:55,false,2361600863,,1/29/2017 05:54:34,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,,frantic,happy
+1143385462,1/29/2017 06:02:36,false,2361602296,,1/29/2017 06:01:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,category,,frantic,happy
+1143385463,1/29/2017 05:38:58,false,2361596656,,1/29/2017 05:37:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,,fairly,well
+1143385463,1/29/2017 05:47:32,false,2361598864,,1/29/2017 05:45:48,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,fairly,well
+1143385463,1/29/2017 05:48:27,false,2361598995,,1/29/2017 05:45:54,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,category,,fairly,well
+1143385463,1/29/2017 06:04:24,false,2361602586,,1/29/2017 06:03:33,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,entailment,,fairly,well
+1143385463,1/29/2017 06:06:37,false,2361603005,,1/29/2017 06:04:10,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,category,,fairly,well
+1143385464,1/29/2017 05:23:58,false,2361593910,,1/29/2017 05:23:22,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,,rarely,readily
+1143385464,1/29/2017 05:31:18,false,2361595115,,1/29/2017 05:30:26,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,,rarely,readily
+1143385464,1/29/2017 05:36:10,false,2361595925,,1/29/2017 05:33:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,rarely,readily
+1143385464,1/29/2017 06:01:37,false,2361602089,,1/29/2017 06:00:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,,rarely,readily
+1143385465,1/29/2017 05:53:26,false,2361600384,,1/29/2017 05:52:19,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,entailment,,big,correct
+1143385465,1/29/2017 05:53:52,false,2361600540,,1/29/2017 05:52:49,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,,big,correct
+1143385465,1/29/2017 05:53:53,false,2361600544,,1/29/2017 05:52:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,,big,correct
+1143385465,1/29/2017 05:59:01,false,2361601596,,1/29/2017 05:56:33,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,,big,correct
+1143385466,2/1/2017 07:55:57,false,2364574047,,2/1/2017 07:55:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,other,,good,abominable
+1143385466,2/1/2017 07:57:38,false,2364575388,,2/1/2017 07:56:18,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,good,abominable
+1143385466,2/1/2017 08:16:41,false,2364589723,,2/1/2017 08:14:55,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,antonym,,good,abominable
+1143385467,2/1/2017 07:55:05,false,2364573300,,2/1/2017 07:54:35,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,mundane,amphibious
+1143385467,2/1/2017 07:59:20,false,2364576859,,2/1/2017 07:58:24,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,mundane,amphibious
+1143385467,2/1/2017 08:28:25,false,2364596559,,2/1/2017 08:26:23,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,mundane,amphibious
+1143385468,2/1/2017 07:50:54,false,2364570190,,2/1/2017 07:50:23,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,soundly,uncomfortable
+1143385468,2/1/2017 07:51:54,false,2364570790,,2/1/2017 07:50:30,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,soundly,uncomfortable
+1143385468,2/1/2017 08:39:45,false,2364602978,,2/1/2017 08:28:36,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,soundly,uncomfortable
+1143385469,2/1/2017 07:59:59,false,2364577327,,2/1/2017 07:59:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,express,well
+1143385469,2/1/2017 08:02:09,false,2364578948,,2/1/2017 08:01:10,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,express,well
+1143385469,2/1/2017 08:02:29,false,2364579089,,2/1/2017 08:01:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,express,well
+1143385470,2/1/2017 07:59:27,false,2364576934,,2/1/2017 07:59:00,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,picky,light
+1143385470,2/1/2017 08:00:58,false,2364578040,,2/1/2017 08:00:31,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,picky,light
+1143385470,2/1/2017 08:02:18,false,2364578960,,2/1/2017 08:00:56,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,antonym,,picky,light
+1143385471,2/1/2017 07:58:58,false,2364576600,,2/1/2017 07:58:20,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,properly,rude
+1143385471,2/1/2017 08:01:26,false,2364578392,,2/1/2017 08:00:23,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,properly,rude
+1143385471,2/1/2017 08:03:28,false,2364579859,,2/1/2017 08:00:00,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,,properly,rude
+1143385472,2/1/2017 08:06:08,false,2364581824,,2/1/2017 08:05:26,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,fair,high-risk
+1143385472,2/1/2017 08:09:34,false,2364584438,,2/1/2017 08:08:36,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,fair,high-risk
+1143385472,2/1/2017 08:11:48,false,2364586061,,2/1/2017 08:09:07,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,fair,high-risk
+1143385473,2/1/2017 07:52:51,false,2364571539,,2/1/2017 07:52:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,badly,evil
+1143385473,2/1/2017 07:56:22,false,2364574329,,2/1/2017 07:55:16,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,paraphrase,,badly,evil
+1143385473,2/1/2017 07:58:27,false,2364576133,,2/1/2017 07:57:40,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,badly,evil
+1143385474,2/1/2017 08:01:16,false,2364578258,,2/1/2017 08:00:27,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,significant,nipper
+1143385474,2/1/2017 08:04:50,false,2364580993,,2/1/2017 08:03:27,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,significant,nipper
+1143385474,2/1/2017 08:18:47,false,2364591236,,2/1/2017 08:17:41,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,significant,nipper
+1143385475,2/1/2017 08:00:25,false,2364577626,,2/1/2017 08:00:01,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,most,simply
+1143385475,2/1/2017 08:03:21,false,2364579781,,2/1/2017 08:02:31,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,most,simply
+1143385475,2/1/2017 09:06:22,false,2364613774,,2/1/2017 09:05:11,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,antonym,,most,simply
+1143385476,2/1/2017 07:55:05,false,2364573305,,2/1/2017 07:54:35,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,questionable,mightily
+1143385476,2/1/2017 07:57:57,false,2364575654,,2/1/2017 07:57:07,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,questionable,mightily
+1143385476,2/1/2017 08:28:25,false,2364596558,,2/1/2017 08:26:23,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,questionable,mightily
+1143385477,2/1/2017 07:53:02,false,2364571659,,2/1/2017 07:51:56,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,little,equally
+1143385477,2/1/2017 07:53:44,false,2364572398,,2/1/2017 07:52:54,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,little,equally
+1143385477,2/1/2017 08:24:37,false,2364594405,,2/1/2017 08:23:32,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,little,equally
+1143385478,2/1/2017 07:50:21,false,2364569778,,2/1/2017 07:49:17,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,utilitarian,unhelpful
+1143385478,2/1/2017 07:50:28,false,2364569824,,2/1/2017 07:48:34,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,utilitarian,unhelpful
+1143385478,2/1/2017 08:15:37,false,2364588873,,2/1/2017 08:11:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,utilitarian,unhelpful
+1143385479,2/1/2017 07:59:27,false,2364576933,,2/1/2017 07:59:00,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,other,,entirely,longer
+1143385479,2/1/2017 08:00:58,false,2364578039,,2/1/2017 08:00:31,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,entirely,longer
+1143385479,2/1/2017 08:02:18,false,2364578959,,2/1/2017 08:00:56,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,unrelated,,entirely,longer
+1143385480,2/1/2017 08:03:08,false,2364579608,,2/1/2017 08:02:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,litre,have
+1143385480,2/1/2017 08:07:54,false,2364583248,,2/1/2017 08:07:04,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,litre,have
+1143385480,2/1/2017 08:10:52,false,2364585264,,2/1/2017 08:08:44,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.102,unrelated,,litre,have
+1143385481,2/1/2017 07:51:30,false,2364570530,,2/1/2017 07:50:57,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,actual,unreal
+1143385481,2/1/2017 07:53:53,false,2364572433,,2/1/2017 07:53:04,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,actual,unreal
+1143385481,2/1/2017 07:59:20,false,2364576863,,2/1/2017 07:58:24,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,actual,unreal
+1143385482,2/1/2017 08:01:16,false,2364578256,,2/1/2017 08:00:27,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,compensate,flawed
+1143385482,2/1/2017 08:04:50,false,2364580995,,2/1/2017 08:03:27,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,compensate,flawed
+1143385482,2/1/2017 08:18:47,false,2364591235,,2/1/2017 08:17:41,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,compensate,flawed
+1143385483,2/1/2017 08:02:20,false,2364578994,,2/1/2017 08:01:53,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,sincerely,insincerely
+1143385483,2/1/2017 08:06:17,false,2364581986,,2/1/2017 08:05:37,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,sincerely,insincerely
+1143385483,2/1/2017 08:07:51,false,2364583145,,2/1/2017 08:06:03,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,antonym,,sincerely,insincerely
+1143385484,2/1/2017 07:55:05,false,2364573306,,2/1/2017 07:54:35,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,no,neutralize
+1143385484,2/1/2017 07:57:57,false,2364575652,,2/1/2017 07:57:07,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,entailment,,no,neutralize
+1143385484,2/1/2017 08:28:25,false,2364596560,,2/1/2017 08:26:23,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,no,neutralize
+1143385485,2/1/2017 07:50:54,false,2364570189,,2/1/2017 07:50:23,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,fruit,fruitless
+1143385485,2/1/2017 07:51:54,false,2364570792,,2/1/2017 07:50:30,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,entailment,,fruit,fruitless
+1143385485,2/1/2017 08:39:45,false,2364602975,,2/1/2017 08:28:36,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,antonym,,fruit,fruitless
+1143385486,2/1/2017 07:50:21,false,2364569779,,2/1/2017 07:49:17,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,poor,practicable
+1143385486,2/1/2017 07:50:28,false,2364569827,,2/1/2017 07:48:34,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,poor,practicable
+1143385486,2/1/2017 08:15:37,false,2364588875,,2/1/2017 08:11:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,poor,practicable
+1143385487,2/1/2017 08:03:08,false,2364579611,,2/1/2017 08:02:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,amazingly,inexorably
+1143385487,2/1/2017 08:07:54,false,2364583247,,2/1/2017 08:07:04,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,amazingly,inexorably
+1143385487,2/1/2017 08:10:52,false,2364585266,,2/1/2017 08:08:44,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.102,unrelated,,amazingly,inexorably
+1143385488,2/1/2017 08:00:25,false,2364577624,,2/1/2017 08:00:01,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,preposterous,feasible
+1143385488,2/1/2017 08:03:21,false,2364579782,,2/1/2017 08:02:31,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,preposterous,feasible
+1143385488,2/1/2017 09:06:22,false,2364613776,,2/1/2017 09:05:11,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,unrelated,,preposterous,feasible
+1143385489,2/1/2017 08:00:25,false,2364577625,,2/1/2017 08:00:01,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,easy,compressed
+1143385489,2/1/2017 08:03:21,false,2364579784,,2/1/2017 08:02:31,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,easy,compressed
+1143385489,2/1/2017 09:06:22,false,2364613769,,2/1/2017 09:05:11,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,antonym,,easy,compressed
+1143385490,2/1/2017 07:50:54,false,2364570187,,2/1/2017 07:50:23,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,exactly,barely
+1143385490,2/1/2017 07:51:54,false,2364570794,,2/1/2017 07:50:30,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,exactly,barely
+1143385490,2/1/2017 08:39:45,false,2364602977,,2/1/2017 08:28:36,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,exactly,barely
+1143385491,2/1/2017 08:06:08,false,2364581828,,2/1/2017 08:05:26,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,surprisingly,intelligibly
+1143385491,2/1/2017 08:09:34,false,2364584464,,2/1/2017 08:08:36,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,surprisingly,intelligibly
+1143385491,2/1/2017 08:11:48,false,2364586062,,2/1/2017 08:09:07,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,surprisingly,intelligibly
+1143385492,2/1/2017 08:01:16,false,2364578255,,2/1/2017 08:00:27,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,tensely,extremely hard
+1143385492,2/1/2017 08:04:50,false,2364580996,,2/1/2017 08:03:27,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,tensely,extremely hard
+1143385492,2/1/2017 08:18:47,false,2364591233,,2/1/2017 08:17:41,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,tensely,extremely hard
+1143385493,2/1/2017 07:57:37,false,2364575386,,2/1/2017 07:56:51,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,denial,take
+1143385493,2/1/2017 07:59:15,false,2364576762,,2/1/2017 07:58:29,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,denial,take
+1143385493,2/1/2017 07:59:59,false,2364577320,,2/1/2017 07:58:48,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,,denial,take
+1143385494,2/1/2017 07:54:18,false,2364572627,,2/1/2017 07:53:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,good,hapless
+1143385494,2/1/2017 07:56:17,false,2364574271,,2/1/2017 07:55:24,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,good,hapless
+1143385494,2/1/2017 07:56:38,false,2364574537,,2/1/2017 07:55:20,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,good,hapless
+1143385495,2/1/2017 07:55:57,false,2364574044,,2/1/2017 07:55:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,problematical,hard
+1143385495,2/1/2017 07:57:38,false,2364575387,,2/1/2017 07:56:18,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,paraphrase,,problematical,hard
+1143385495,2/1/2017 08:16:41,false,2364589724,,2/1/2017 08:14:55,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,paraphrase,,problematical,hard
+1143385496,2/1/2017 08:04:20,false,2364580622,,2/1/2017 08:03:47,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,lightly,yearn
+1143385496,2/1/2017 08:08:27,false,2364583669,,2/1/2017 08:07:48,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,,lightly,yearn
+1143385496,2/1/2017 08:09:05,false,2364584043,,2/1/2017 08:07:52,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,lightly,yearn
+1143385497,2/1/2017 08:04:20,false,2364580617,,2/1/2017 08:03:47,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,difficult,well-off
+1143385497,2/1/2017 08:08:27,false,2364583670,,2/1/2017 08:07:48,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,,difficult,well-off
+1143385497,2/1/2017 08:09:05,false,2364584049,,2/1/2017 08:07:52,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,difficult,well-off
+1143385498,2/1/2017 07:52:12,false,2364571050,,2/1/2017 07:51:31,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,right-hand,hurt
+1143385498,2/1/2017 07:55:23,false,2364573559,,2/1/2017 07:53:54,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,right-hand,hurt
+1143385498,2/1/2017 08:25:20,false,2364594757,,2/1/2017 08:24:38,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,right-hand,hurt
+1143385499,2/1/2017 07:58:10,false,2364575823,,2/1/2017 07:57:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,adjust,unfair
+1143385499,2/1/2017 08:00:22,false,2364577600,,2/1/2017 07:59:17,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,adjust,unfair
+1143385499,2/1/2017 08:00:22,false,2364577605,,2/1/2017 07:59:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,adjust,unfair
+1143385500,2/1/2017 08:04:20,false,2364580620,,2/1/2017 08:03:47,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,shitty,beneficial
+1143385500,2/1/2017 08:08:27,false,2364583671,,2/1/2017 08:07:48,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,,shitty,beneficial
+1143385500,2/1/2017 08:09:05,false,2364584048,,2/1/2017 08:07:52,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,shitty,beneficial
+1143385501,2/1/2017 08:06:08,false,2364581827,,2/1/2017 08:05:26,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,FALSE,castigate
+1143385501,2/1/2017 08:09:34,false,2364584434,,2/1/2017 08:08:36,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,FALSE,castigate
+1143385501,2/1/2017 08:11:48,false,2364586060,,2/1/2017 08:09:07,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,FALSE,castigate
+1143385502,2/1/2017 08:05:16,false,2364581268,,2/1/2017 08:04:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,clique,unpack
+1143385502,2/1/2017 08:08:34,false,2364583777,,2/1/2017 08:07:55,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,clique,unpack
+1143385502,2/1/2017 09:14:02,false,2364617484,,2/1/2017 09:10:34,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,clique,unpack
+1143385503,2/1/2017 08:05:16,false,2364581271,,2/1/2017 08:04:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,salutary,cold
+1143385503,2/1/2017 08:08:34,false,2364583782,,2/1/2017 08:07:55,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,salutary,cold
+1143385503,2/1/2017 09:14:02,false,2364617480,,2/1/2017 09:10:34,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,salutary,cold
+1143385504,2/1/2017 07:55:57,false,2364574043,,2/1/2017 07:55:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,furthermore,merely
+1143385504,2/1/2017 07:57:38,false,2364575390,,2/1/2017 07:56:18,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,furthermore,merely
+1143385504,2/1/2017 08:16:41,false,2364589725,,2/1/2017 08:14:55,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,other,,furthermore,merely
+1143385505,2/1/2017 08:01:51,false,2364578651,,2/1/2017 08:01:19,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,sign,industrial design
+1143385505,2/1/2017 08:05:36,false,2364581516,,2/1/2017 08:04:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,sign,industrial design
+1143385505,2/1/2017 08:14:54,false,2364588305,,2/1/2017 08:12:43,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,other,,sign,industrial design
+1143385506,2/1/2017 08:01:16,false,2364578257,,2/1/2017 08:00:27,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,right,outlandish
+1143385506,2/1/2017 08:04:50,false,2364580990,,2/1/2017 08:03:27,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,right,outlandish
+1143385506,2/1/2017 08:18:47,false,2364591234,,2/1/2017 08:17:41,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,right,outlandish
+1143385507,2/1/2017 07:52:12,false,2364571045,,2/1/2017 07:51:31,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,available,unreachable
+1143385507,2/1/2017 07:55:23,false,2364573560,,2/1/2017 07:53:54,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,available,unreachable
+1143385507,2/1/2017 08:25:20,false,2364594758,,2/1/2017 08:24:38,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,available,unreachable
+1143385508,2/1/2017 07:56:49,false,2364574719,,2/1/2017 07:55:59,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,estimable,painful
+1143385508,2/1/2017 07:57:06,false,2364574873,,2/1/2017 07:56:24,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,estimable,painful
+1143385508,2/1/2017 07:58:23,false,2364576052,,2/1/2017 07:56:39,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,estimable,painful
+1143385509,2/1/2017 07:10:55,false,2364543062,,2/1/2017 07:09:41,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,entailment,,equality,equal access
+1143385509,2/1/2017 07:55:13,false,2364573435,,2/1/2017 07:52:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,category,,equality,equal access
+1143385509,2/1/2017 08:19:01,false,2364591331,,2/1/2017 08:16:42,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,paraphrase,,equality,equal access
+1143385510,2/1/2017 07:59:59,false,2364577325,,2/1/2017 07:59:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,unusual,green
+1143385510,2/1/2017 08:02:09,false,2364578936,,2/1/2017 08:01:10,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,unusual,green
+1143385510,2/1/2017 08:02:29,false,2364579092,,2/1/2017 08:01:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,unusual,green
+1143385511,2/1/2017 07:51:30,false,2364570529,,2/1/2017 07:50:57,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,consider,appropriate
+1143385511,2/1/2017 07:53:53,false,2364572435,,2/1/2017 07:53:04,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,consider,appropriate
+1143385511,2/1/2017 07:59:20,false,2364576865,,2/1/2017 07:58:24,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,consider,appropriate
+1143385512,2/1/2017 07:53:02,false,2364571655,,2/1/2017 07:51:56,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,unfit,decent
+1143385512,2/1/2017 07:53:44,false,2364572397,,2/1/2017 07:52:54,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,unfit,decent
+1143385512,2/1/2017 08:24:37,false,2364594403,,2/1/2017 08:23:32,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,unfit,decent
+1143385513,2/1/2017 08:02:20,false,2364578995,,2/1/2017 08:01:53,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,insignificant,bombastic
+1143385513,2/1/2017 08:06:17,false,2364581984,,2/1/2017 08:05:37,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,insignificant,bombastic
+1143385513,2/1/2017 08:07:51,false,2364583144,,2/1/2017 08:06:03,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,insignificant,bombastic
+1143385514,2/1/2017 08:01:51,false,2364578653,,2/1/2017 08:01:19,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,superfluous,appropriate
+1143385514,2/1/2017 08:05:36,false,2364581518,,2/1/2017 08:04:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,superfluous,appropriate
+1143385514,2/1/2017 08:14:54,false,2364588302,,2/1/2017 08:12:43,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,antonym,,superfluous,appropriate
+1143385515,2/1/2017 08:01:51,false,2364578647,,2/1/2017 08:01:19,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,respectable,inappropriate
+1143385515,2/1/2017 08:05:36,false,2364581519,,2/1/2017 08:04:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,respectable,inappropriate
+1143385515,2/1/2017 08:14:54,false,2364588306,,2/1/2017 08:12:43,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,antonym,,respectable,inappropriate
+1143385516,2/1/2017 07:50:54,false,2364570186,,2/1/2017 07:50:23,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,nutcase,possible
+1143385516,2/1/2017 07:51:54,false,2364570791,,2/1/2017 07:50:30,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,nutcase,possible
+1143385516,2/1/2017 08:39:45,false,2364602979,,2/1/2017 08:28:36,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,nutcase,possible
+1143385517,2/1/2017 07:52:51,false,2364571540,,2/1/2017 07:52:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,maybe,equitable
+1143385517,2/1/2017 07:56:22,false,2364574327,,2/1/2017 07:55:16,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,entailment,,maybe,equitable
+1143385517,2/1/2017 07:58:27,false,2364576132,,2/1/2017 07:57:40,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,maybe,equitable
+1143385518,2/1/2017 07:50:21,false,2364569780,,2/1/2017 07:49:17,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,necessary,unavailing
+1143385518,2/1/2017 07:50:28,false,2364569826,,2/1/2017 07:48:34,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,necessary,unavailing
+1143385518,2/1/2017 08:15:37,false,2364588877,,2/1/2017 08:11:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,necessary,unavailing
+1143385519,2/1/2017 07:54:18,false,2364572626,,2/1/2017 07:53:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,fair,wrong
+1143385519,2/1/2017 07:56:17,false,2364574256,,2/1/2017 07:55:24,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,fair,wrong
+1143385519,2/1/2017 07:56:38,false,2364574531,,2/1/2017 07:55:20,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,paraphrase,,fair,wrong
+1143385520,2/1/2017 07:10:55,false,2364543059,,2/1/2017 07:09:41,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,,flush,ani
+1143385520,2/1/2017 07:55:13,false,2364573440,,2/1/2017 07:52:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,flush,ani
+1143385520,2/1/2017 08:19:01,false,2364591345,,2/1/2017 08:16:42,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,,flush,ani
+1143385521,2/1/2017 07:55:57,false,2364574046,,2/1/2017 07:55:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,heterologous,analogous
+1143385521,2/1/2017 07:57:38,false,2364575391,,2/1/2017 07:56:18,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,heterologous,analogous
+1143385521,2/1/2017 08:16:41,false,2364589722,,2/1/2017 08:14:55,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,,heterologous,analogous
+1143385522,2/1/2017 07:50:21,false,2364569782,,2/1/2017 07:49:17,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,frightening,feasible
+1143385522,2/1/2017 07:50:28,false,2364569828,,2/1/2017 07:48:34,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,frightening,feasible
+1143385522,2/1/2017 08:15:37,false,2364588876,,2/1/2017 08:11:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,frightening,feasible
+1143385523,2/1/2017 07:57:37,false,2364575382,,2/1/2017 07:56:51,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,deficient,perfect
+1143385523,2/1/2017 07:59:15,false,2364576771,,2/1/2017 07:58:29,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,deficient,perfect
+1143385523,2/1/2017 07:59:59,false,2364577322,,2/1/2017 07:58:48,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,other,,deficient,perfect
+1143385524,2/1/2017 07:52:12,false,2364571047,,2/1/2017 07:51:31,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,ambiguous,decipherable
+1143385524,2/1/2017 07:55:23,false,2364573557,,2/1/2017 07:53:54,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,ambiguous,decipherable
+1143385524,2/1/2017 08:25:20,false,2364594755,,2/1/2017 08:24:38,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,ambiguous,decipherable
+1143385525,2/1/2017 07:57:37,false,2364575384,,2/1/2017 07:56:51,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,hard-pressed,rectify
+1143385525,2/1/2017 07:59:15,false,2364576779,,2/1/2017 07:58:29,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,hard-pressed,rectify
+1143385525,2/1/2017 07:59:59,false,2364577321,,2/1/2017 07:58:48,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,other,,hard-pressed,rectify
+1143385526,2/1/2017 07:10:55,false,2364543061,,2/1/2017 07:09:41,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,,inadequacy,plenty
+1143385526,2/1/2017 07:55:13,false,2364573434,,2/1/2017 07:52:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,inadequacy,plenty
+1143385526,2/1/2017 08:19:01,false,2364591333,,2/1/2017 08:16:42,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,antonym,,inadequacy,plenty
+1143385527,2/1/2017 07:55:05,false,2364573309,,2/1/2017 07:54:35,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,intention,apply
+1143385527,2/1/2017 07:57:57,false,2364575651,,2/1/2017 07:57:07,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,intention,apply
+1143385527,2/1/2017 08:28:25,false,2364596561,,2/1/2017 08:26:23,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,intention,apply
+1143385528,2/1/2017 08:02:42,false,2364579255,,2/1/2017 08:02:22,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,fail,simply
+1143385528,2/1/2017 08:07:03,false,2364582495,,2/1/2017 08:06:18,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,fail,simply
+1143385528,2/1/2017 08:07:47,false,2364583105,,2/1/2017 08:06:29,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,,fail,simply
+1143385529,2/1/2017 08:02:42,false,2364579258,,2/1/2017 08:02:22,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,mirthful,straight
+1143385529,2/1/2017 08:07:03,false,2364582497,,2/1/2017 08:06:18,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,mirthful,straight
+1143385529,2/1/2017 08:07:47,false,2364583101,,2/1/2017 08:06:29,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,,mirthful,straight
+1143385530,2/1/2017 08:03:08,false,2364579613,,2/1/2017 08:02:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,alright,good
+1143385530,2/1/2017 08:07:54,false,2364583244,,2/1/2017 08:07:04,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,paraphrase,,alright,good
+1143385530,2/1/2017 08:10:52,false,2364585265,,2/1/2017 08:08:44,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.102,paraphrase,,alright,good
+1143385531,2/1/2017 07:51:30,false,2364570528,,2/1/2017 07:50:57,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,TRUE,discipline
+1143385531,2/1/2017 07:53:53,false,2364572434,,2/1/2017 07:53:04,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,TRUE,discipline
+1143385531,2/1/2017 07:57:57,false,2364575655,,2/1/2017 07:57:07,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,entailment,,TRUE,discipline
+1143385532,2/1/2017 08:06:08,false,2364581821,,2/1/2017 08:05:26,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,inadequately,selfsame
+1143385532,2/1/2017 08:09:34,false,2364584430,,2/1/2017 08:08:36,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,inadequately,selfsame
+1143385532,2/1/2017 08:11:48,false,2364586063,,2/1/2017 08:09:07,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,inadequately,selfsame
+1143385533,2/1/2017 07:58:10,false,2364575820,,2/1/2017 07:57:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,well,brusque
+1143385533,2/1/2017 08:00:22,false,2364577599,,2/1/2017 07:59:17,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,well,brusque
+1143385533,2/1/2017 08:00:22,false,2364577607,,2/1/2017 07:59:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,well,brusque
+1143385534,2/1/2017 07:54:18,false,2364572624,,2/1/2017 07:53:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,postwar,prewar
+1143385534,2/1/2017 07:56:17,false,2364574272,,2/1/2017 07:55:24,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,postwar,prewar
+1143385534,2/1/2017 07:56:38,false,2364574540,,2/1/2017 07:55:20,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,postwar,prewar
+1143385535,2/1/2017 07:54:18,false,2364572623,,2/1/2017 07:53:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,aim,no
+1143385535,2/1/2017 07:56:17,false,2364574273,,2/1/2017 07:55:24,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,aim,no
+1143385535,2/1/2017 07:56:38,false,2364574529,,2/1/2017 07:55:20,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,aim,no
+1143385536,2/1/2017 08:02:20,false,2364578999,,2/1/2017 08:01:53,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,firstly,lonesome
+1143385536,2/1/2017 08:06:17,false,2364581982,,2/1/2017 08:05:37,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,firstly,lonesome
+1143385536,2/1/2017 08:07:51,false,2364583146,,2/1/2017 08:06:03,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,firstly,lonesome
+1143385537,2/1/2017 07:59:27,false,2364576942,,2/1/2017 07:59:00,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,adjust,invalid
+1143385537,2/1/2017 08:00:58,false,2364578042,,2/1/2017 08:00:31,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,adjust,invalid
+1143385537,2/1/2017 08:02:18,false,2364578957,,2/1/2017 08:00:56,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,antonym,,adjust,invalid
+1143385538,2/1/2017 07:10:55,false,2364543060,,2/1/2017 07:09:41,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,,sore,rightfield
+1143385538,2/1/2017 07:55:13,false,2364573436,,2/1/2017 07:52:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,sore,rightfield
+1143385538,2/1/2017 08:19:01,false,2364591342,,2/1/2017 08:16:42,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,,sore,rightfield
+1143385539,2/1/2017 07:58:58,false,2364576599,,2/1/2017 07:58:20,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,inappropriate,expert
+1143385539,2/1/2017 08:01:26,false,2364578396,,2/1/2017 08:00:23,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,inappropriate,expert
+1143385539,2/1/2017 08:03:28,false,2364579857,,2/1/2017 08:00:00,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,,inappropriate,expert
+1143385540,2/1/2017 07:58:10,false,2364575824,,2/1/2017 07:57:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,mightily,bullshit
+1143385540,2/1/2017 08:00:22,false,2364577601,,2/1/2017 07:59:17,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,mightily,bullshit
+1143385540,2/1/2017 08:00:22,false,2364577609,,2/1/2017 07:59:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,mightily,bullshit
+1143385541,2/1/2017 07:57:37,false,2364575383,,2/1/2017 07:56:51,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,long,notwithstanding
+1143385541,2/1/2017 07:59:15,false,2364576769,,2/1/2017 07:58:29,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,long,notwithstanding
+1143385541,2/1/2017 07:59:59,false,2364577319,,2/1/2017 07:58:48,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,other,,long,notwithstanding
+1143385542,2/1/2017 08:03:08,false,2364579609,,2/1/2017 08:02:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,outnumber,right
+1143385542,2/1/2017 08:07:54,false,2364583251,,2/1/2017 08:07:04,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,outnumber,right
+1143385542,2/1/2017 08:10:52,false,2364585263,,2/1/2017 08:08:44,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.102,unrelated,,outnumber,right
+1143385543,2/1/2017 07:52:12,false,2364571048,,2/1/2017 07:51:31,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,negatively,intimately
+1143385543,2/1/2017 07:55:23,false,2364573558,,2/1/2017 07:53:54,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,negatively,intimately
+1143385543,2/1/2017 08:25:20,false,2364594756,,2/1/2017 08:24:38,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,negatively,intimately
+1143385544,2/1/2017 08:01:51,false,2364578648,,2/1/2017 08:01:19,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,coruscate,still
+1143385544,2/1/2017 08:05:36,false,2364581515,,2/1/2017 08:04:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,coruscate,still
+1143385544,2/1/2017 08:14:54,false,2364588303,,2/1/2017 08:12:43,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,,coruscate,still
+1143385545,2/1/2017 08:04:20,false,2364580621,,2/1/2017 08:03:47,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,adhere,unbind
+1143385545,2/1/2017 08:08:27,false,2364583672,,2/1/2017 08:07:48,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,antonym,,adhere,unbind
+1143385545,2/1/2017 08:09:05,false,2364584047,,2/1/2017 08:07:52,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,adhere,unbind
+1143385546,2/1/2017 08:00:25,false,2364577627,,2/1/2017 08:00:01,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,important,debatable
+1143385546,2/1/2017 08:03:21,false,2364579780,,2/1/2017 08:02:31,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,important,debatable
+1143385546,2/1/2017 09:06:22,false,2364613771,,2/1/2017 09:05:11,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,antonym,,important,debatable
+1143385547,2/1/2017 07:52:51,false,2364571541,,2/1/2017 07:52:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,cumbersome,slow
+1143385547,2/1/2017 07:56:22,false,2364574323,,2/1/2017 07:55:16,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,cumbersome,slow
+1143385547,2/1/2017 07:58:27,false,2364576135,,2/1/2017 07:57:40,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,paraphrase,,cumbersome,slow
+1143385548,2/1/2017 08:05:16,false,2364581270,,2/1/2017 08:04:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,infrequently,foresighted
+1143385548,2/1/2017 08:08:34,false,2364583781,,2/1/2017 08:07:55,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,infrequently,foresighted
+1143385548,2/1/2017 09:14:02,false,2364617482,,2/1/2017 09:10:34,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,,infrequently,foresighted
+1143385549,2/1/2017 07:56:49,false,2364574715,,2/1/2017 07:55:59,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,well,limit
+1143385549,2/1/2017 07:57:06,false,2364574874,,2/1/2017 07:56:24,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,well,limit
+1143385549,2/1/2017 07:58:23,false,2364576051,,2/1/2017 07:56:39,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,well,limit
+1143385550,2/1/2017 07:53:02,false,2364571657,,2/1/2017 07:51:56,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,nope,directly
+1143385550,2/1/2017 07:53:44,false,2364572383,,2/1/2017 07:52:54,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,nope,directly
+1143385550,2/1/2017 08:24:37,false,2364594408,,2/1/2017 08:23:32,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,nope,directly
+1143385551,2/1/2017 07:51:30,false,2364570532,,2/1/2017 07:50:57,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,yearn,small
+1143385551,2/1/2017 07:53:53,false,2364572436,,2/1/2017 07:53:04,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,yearn,small
+1143385551,2/1/2017 07:59:20,false,2364576866,,2/1/2017 07:58:24,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,yearn,small
+1143385552,2/1/2017 08:02:42,false,2364579261,,2/1/2017 08:02:22,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,undesirable,secure
+1143385552,2/1/2017 08:07:03,false,2364582496,,2/1/2017 08:06:18,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,undesirable,secure
+1143385552,2/1/2017 08:07:47,false,2364583103,,2/1/2017 08:06:29,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,other,,undesirable,secure
+1143385553,2/1/2017 07:59:59,false,2364577324,,2/1/2017 07:59:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,illegally,easily
+1143385553,2/1/2017 08:02:09,false,2364578934,,2/1/2017 08:01:10,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,illegally,easily
+1143385553,2/1/2017 08:02:29,false,2364579093,,2/1/2017 08:01:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,illegally,easily
+1143385554,2/1/2017 07:59:27,false,2364576945,,2/1/2017 07:59:00,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,set,anymore
+1143385554,2/1/2017 08:00:58,false,2364578038,,2/1/2017 08:00:31,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,set,anymore
+1143385554,2/1/2017 08:02:18,false,2364578961,,2/1/2017 08:00:56,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,unrelated,,set,anymore
+1143385555,2/1/2017 07:58:10,false,2364575822,,2/1/2017 07:57:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,unwell,proper
+1143385555,2/1/2017 08:00:22,false,2364577598,,2/1/2017 07:59:17,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,,unwell,proper
+1143385555,2/1/2017 08:00:22,false,2364577618,,2/1/2017 07:59:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,unwell,proper
+1143385556,2/1/2017 08:05:16,false,2364581276,,2/1/2017 08:04:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,properly,erroneous
+1143385556,2/1/2017 08:08:34,false,2364583774,,2/1/2017 08:07:55,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,properly,erroneous
+1143385556,2/1/2017 09:14:02,false,2364617483,,2/1/2017 09:10:34,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,antonym,,properly,erroneous
+1143385557,2/1/2017 07:56:49,false,2364574714,,2/1/2017 07:55:59,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,indebtedness,asset
+1143385557,2/1/2017 07:57:06,false,2364574875,,2/1/2017 07:56:24,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,indebtedness,asset
+1143385557,2/1/2017 07:58:23,false,2364576050,,2/1/2017 07:56:39,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,indebtedness,asset
+1143385558,2/1/2017 07:52:51,false,2364571542,,2/1/2017 07:52:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,,merely,maybe
+1143385558,2/1/2017 07:56:22,false,2364574328,,2/1/2017 07:55:16,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,,merely,maybe
+1143385558,2/1/2017 07:58:27,false,2364576128,,2/1/2017 07:57:40,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,merely,maybe
+1143385559,2/1/2017 07:58:58,false,2364576603,,2/1/2017 07:58:20,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,unrealistic,tangible
+1143385559,2/1/2017 08:01:26,false,2364578393,,2/1/2017 08:00:23,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,unrealistic,tangible
+1143385559,2/1/2017 08:03:28,false,2364579856,,2/1/2017 08:00:00,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,other,,unrealistic,tangible
+1143385560,2/1/2017 08:02:20,false,2364578996,,2/1/2017 08:01:53,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,,uncertain,surely
+1143385560,2/1/2017 08:06:17,false,2364581983,,2/1/2017 08:05:37,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,uncertain,surely
+1143385560,2/1/2017 08:07:51,false,2364583143,,2/1/2017 08:06:03,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,antonym,,uncertain,surely
+1143385561,2/1/2017 07:59:59,false,2364577326,,2/1/2017 07:59:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,indefinite,find
+1143385561,2/1/2017 08:02:09,false,2364578944,,2/1/2017 08:01:10,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,,indefinite,find
+1143385561,2/1/2017 08:02:29,false,2364579095,,2/1/2017 08:01:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,indefinite,find
+1143385562,2/1/2017 07:56:49,false,2364574736,,2/1/2017 07:55:59,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,category,,extensor,flexor
+1143385562,2/1/2017 07:57:06,false,2364574871,,2/1/2017 07:56:24,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,paraphrase,,extensor,flexor
+1143385562,2/1/2017 07:58:23,false,2364576054,,2/1/2017 07:56:39,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,,extensor,flexor
+1143385563,2/1/2017 07:53:02,false,2364571658,,2/1/2017 07:51:56,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,,put-upon,unencumbered
+1143385563,2/1/2017 07:53:44,false,2364572373,,2/1/2017 07:52:54,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,put-upon,unencumbered
+1143385563,2/1/2017 08:24:37,false,2364594407,,2/1/2017 08:23:32,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,put-upon,unencumbered
+1143385564,2/1/2017 08:02:42,false,2364579256,,2/1/2017 08:02:22,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,less,cause
+1143385564,2/1/2017 08:07:03,false,2364582498,,2/1/2017 08:06:18,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,less,cause
+1143385564,2/1/2017 08:07:47,false,2364583102,,2/1/2017 08:06:29,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,,less,cause
+1143385565,2/1/2017 07:58:58,false,2364576596,,2/1/2017 07:58:20,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,,refrain,unity
+1143385565,2/1/2017 08:01:26,false,2364578394,,2/1/2017 08:00:23,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,,refrain,unity
+1143385565,2/1/2017 08:03:28,false,2364579858,,2/1/2017 08:00:00,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,other,,refrain,unity
+1143390341,1/29/2017 05:12:02,true,2361592403,,1/29/2017 05:09:42,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 05:17:12,true,2361593091,,1/29/2017 05:15:04,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 05:26:30,true,2361594373,,1/29/2017 05:25:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 05:33:03,true,2361595419,true,1/29/2017 05:31:23,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,antonym,unclear,indisputable
+1143390341,1/29/2017 05:33:39,true,2361595527,,1/29/2017 05:30:51,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 05:36:48,true,2361596167,true,1/29/2017 05:34:07,false,clixsense,0.8,21781365,PAK,03,Abbottabad,39.54.69.153,other,antonym,unclear,indisputable
+1143390341,1/29/2017 05:39:02,true,2361596671,,1/29/2017 05:29:08,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 05:42:15,true,2361597454,true,1/29/2017 05:32:55,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,other,antonym,unclear,indisputable
+1143390341,1/29/2017 05:44:50,true,2361598126,,1/29/2017 05:40:38,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 05:46:20,true,2361598462,true,1/29/2017 05:42:14,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,antonym,unclear,indisputable
+1143390341,1/29/2017 05:49:04,true,2361599244,,1/29/2017 05:42:50,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,antonym,antonym,unclear,indisputable
+1143390341,1/29/2017 06:05:58,true,2361602870,,1/29/2017 06:00:44,false,clixsense,0.8,28863630,IND,"","",115.98.84.78,antonym,antonym,unclear,indisputable
+1143390370,1/29/2017 05:18:18,true,2361593175,,1/29/2017 05:17:21,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:19:05,true,2361593218,,1/29/2017 05:13:28,false,clixsense,0.8,38996754,USA,OK,Wellston,174.77.135.146,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:19:12,true,2361593230,,1/29/2017 05:17:02,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:24:59,true,2361594035,,1/29/2017 05:24:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:31:56,true,2361595211,,1/29/2017 05:29:52,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:33:39,true,2361595529,,1/29/2017 05:30:51,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:37:46,true,2361596342,,1/29/2017 05:29:40,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:43:46,true,2361597872,,1/29/2017 05:36:29,false,clixsense,1.0,39207095,RUS,48,Moscow,46.39.53.149,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:44:50,true,2361598129,,1/29/2017 05:40:38,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:47:14,true,2361598803,,1/29/2017 05:44:06,false,clixsense,0.8,9832767,IND,25,Ramanathapuram,117.206.125.1,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:48:50,true,2361599183,,1/29/2017 05:40:35,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:53:22,true,2361600375,,1/29/2017 05:52:59,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,antonym,disproportionately,proportionately
+1143390370,1/29/2017 05:54:59,true,2361600878,,1/29/2017 05:53:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,antonym,disproportionately,proportionately
+1143390370,2/1/2017 08:14:44,true,2364588206,,2/1/2017 08:07:02,false,clixsense,0.8,37318531,VEN,13,Barquisimeto,190.142.68.11,antonym,antonym,disproportionately,proportionately
+1143390416,1/29/2017 05:12:02,true,2361592402,,1/29/2017 05:09:42,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:19:05,true,2361593221,,1/29/2017 05:13:28,false,clixsense,0.8,38996754,USA,OK,Wellston,174.77.135.146,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:23:04,true,2361593748,,1/29/2017 05:17:32,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:24:59,true,2361594036,,1/29/2017 05:24:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:39:02,true,2361596677,,1/29/2017 05:29:08,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:42:15,true,2361597453,,1/29/2017 05:32:55,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:43:46,true,2361597876,,1/29/2017 05:36:29,false,clixsense,1.0,39207095,RUS,48,Moscow,46.39.53.149,unrelated,unrelated,intention,apply
+1143390416,1/29/2017 05:54:55,true,2361600862,true,1/29/2017 05:54:34,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,other,unrelated,intention,apply
+1143390416,1/29/2017 06:02:36,true,2361602294,,1/29/2017 06:01:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,unrelated,intention,apply
+1143390438,1/29/2017 05:12:02,true,2361592399,,1/29/2017 05:09:42,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:17:12,true,2361593092,,1/29/2017 05:15:04,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:19:05,true,2361593220,,1/29/2017 05:13:28,false,clixsense,0.8,38996754,USA,OK,Wellston,174.77.135.146,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:19:12,true,2361593232,,1/29/2017 05:17:02,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:23:04,true,2361593755,,1/29/2017 05:17:32,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:23:47,true,2361593875,,1/29/2017 05:16:31,false,clixsense,0.8,34940153,IND,19,Bangalore,117.192.48.3,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:31:22,true,2361595119,,1/29/2017 05:30:27,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:31:54,true,2361595198,,1/29/2017 05:29:38,false,instagc,1.0,34990333,VEN,25,Caracas,190.153.7.160,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:37:46,true,2361596347,,1/29/2017 05:36:53,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:43:43,true,2361597869,,1/29/2017 05:41:39,false,neodev,0.8,34790451,VEN,"","",190.201.180.170,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:44:50,true,2361598128,,1/29/2017 05:40:38,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:46:30,true,2361598526,,1/29/2017 05:44:52,false,clixsense,1.0,14783334,IDN,04,Jakarta,139.193.153.41,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:50:19,true,2361599560,,1/29/2017 05:46:12,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:52:09,true,2361600027,,1/29/2017 05:49:35,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:57:31,true,2361601357,,1/29/2017 05:52:09,false,neodev,1.0,41042531,BGD,"","",123.108.244.21,unrelated,unrelated,long,import
+1143390438,1/29/2017 05:59:38,true,2361601709,,1/29/2017 05:55:50,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,unrelated,long,import
+1143390438,2/1/2017 08:28:42,true,2364596686,,2/1/2017 08:07:44,false,clixsense,0.8,40289526,TUR,"","",46.154.10.113,unrelated,unrelated,long,import
+1143390476,1/29/2017 05:12:02,true,2361592401,,1/29/2017 05:09:42,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:17:12,true,2361593089,,1/29/2017 05:15:04,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:19:12,true,2361593233,,1/29/2017 05:17:02,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:23:04,true,2361593752,,1/29/2017 05:17:32,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:24:59,true,2361594039,,1/29/2017 05:24:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:39:02,true,2361596678,,1/29/2017 05:29:08,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:43:25,true,2361597738,,1/29/2017 05:42:34,false,prodege,0.8,33565158,USA,OK,Edmond,107.142.162.102,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:43:43,true,2361597871,,1/29/2017 05:41:39,false,neodev,0.8,34790451,VEN,"","",190.201.180.170,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:45:23,true,2361598292,,1/29/2017 05:33:32,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 05:46:30,true,2361598522,,1/29/2017 05:44:52,false,clixsense,1.0,14783334,IDN,04,Jakarta,139.193.153.41,antonym,antonym,adulthood,immaturity
+1143390476,1/29/2017 06:38:19,true,2361611385,,1/29/2017 06:33:04,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,antonym,antonym,adulthood,immaturity
+1143390476,2/1/2017 08:24:37,true,2364594406,,2/1/2017 08:23:32,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,antonym,adulthood,immaturity
+1143390686,1/29/2017 05:14:10,true,2361592616,true,1/29/2017 05:12:03,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,other,readily,easy
+1143390686,1/29/2017 05:19:05,true,2361593222,true,1/29/2017 05:13:28,false,clixsense,0.8,38996754,USA,OK,Wellston,174.77.135.146,unrelated,other,readily,easy
+1143390686,1/29/2017 05:20:23,true,2361593400,,1/29/2017 05:19:43,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,other,readily,easy
+1143390686,1/29/2017 05:23:47,true,2361593873,true,1/29/2017 05:16:31,false,clixsense,0.8,34940153,IND,19,Bangalore,117.192.48.3,unrelated,other,readily,easy
+1143390686,1/29/2017 05:28:37,true,2361594618,true,1/29/2017 05:27:27,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,entailment,other,readily,easy
+1143390686,1/29/2017 05:33:39,true,2361595525,,1/29/2017 05:30:51,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,other,other,readily,easy
+1143390686,1/29/2017 05:44:50,true,2361598130,,1/29/2017 05:40:38,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,other,other,readily,easy
+1143390686,1/29/2017 05:45:47,true,2361598382,,1/29/2017 05:44:08,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,other,readily,easy
+1143390686,1/29/2017 05:48:50,true,2361599187,,1/29/2017 05:40:35,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,other,readily,easy
+1143390686,1/29/2017 05:54:10,true,2361600618,true,1/29/2017 05:51:01,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,entailment,other,readily,easy
+1143390686,1/29/2017 06:00:26,true,2361601849,,1/29/2017 05:42:39,false,neodev,1.0,40282907,EGY,11,Cairo,41.47.4.149,other,other,readily,easy
+1143390819,1/29/2017 05:12:02,true,2361592400,,1/29/2017 05:09:42,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:17:12,true,2361593090,,1/29/2017 05:15:04,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:27:26,true,2361594501,,1/29/2017 05:26:31,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:31:54,true,2361595197,,1/29/2017 05:29:38,false,instagc,1.0,34990333,VEN,25,Caracas,190.153.7.160,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:37:46,true,2361596339,,1/29/2017 05:29:40,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:42:15,true,2361597455,,1/29/2017 05:32:55,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:48:50,true,2361599186,,1/29/2017 05:40:35,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:49:04,true,2361599241,,1/29/2017 05:42:50,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:54:08,true,2361600590,,1/29/2017 05:53:27,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,unrelated,even,head
+1143390819,1/29/2017 05:56:32,true,2361601110,,1/29/2017 05:54:21,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,unrelated,even,head
+1143390819,2/1/2017 08:25:20,true,2364594754,,2/1/2017 08:24:38,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,even,head
+1143390951,1/29/2017 05:16:09,true,2361592921,false,1/29/2017 05:14:25,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,antonym,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:17:12,true,2361593088,false,1/29/2017 05:15:04,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:19:05,true,2361593219,false,1/29/2017 05:13:28,false,clixsense,0.8,38996754,USA,OK,Wellston,174.77.135.146,unrelated,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:23:04,true,2361593754,false,1/29/2017 05:17:32,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:23:47,true,2361593874,false,1/29/2017 05:16:31,false,clixsense,0.8,34940153,IND,19,Bangalore,117.192.48.3,unrelated,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:31:54,true,2361595196,false,1/29/2017 05:29:38,false,instagc,1.0,34990333,VEN,25,Caracas,190.153.7.160,antonym,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:33:21,true,2361595475,true,1/29/2017 05:30:13,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,category,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:36:48,true,2361596171,false,1/29/2017 05:34:07,false,clixsense,0.8,21781365,PAK,03,Abbottabad,39.54.69.153,unrelated,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:44:50,true,2361598127,false,1/29/2017 05:40:38,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,antonym,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:46:30,true,2361598525,false,1/29/2017 05:44:52,false,clixsense,1.0,14783334,IDN,04,Jakarta,139.193.153.41,unrelated,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:54:04,true,2361600580,false,1/29/2017 05:53:23,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:55:28,true,2361600982,true,1/29/2017 05:39:44,false,neodev,0.8,39061991,VEN,25,Caracas,190.198.56.153,category,"antonym
+unrelated
+other",center,left
+1143390951,1/29/2017 05:59:38,true,2361601707,,1/29/2017 05:55:50,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,"antonym
+unrelated
+other",center,left
+1143390951,2/1/2017 08:14:44,true,2364588203,,2/1/2017 08:07:02,false,clixsense,0.8,37318531,VEN,13,Barquisimeto,190.142.68.11,other,"antonym
+unrelated
+other",center,left
+1143392383,1/29/2017 05:19:12,true,2361593231,,1/29/2017 05:17:02,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,antonym,antonym,onerous,light
+1143392383,1/29/2017 05:21:09,true,2361593440,true,1/29/2017 05:16:20,false,gifthunterclub,0.75,21110164,CHL,12,Santiago,200.86.118.120,unrelated,antonym,onerous,light
+1143392383,1/29/2017 05:23:04,true,2361593756,,1/29/2017 05:17:32,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,antonym,antonym,onerous,light
+1143392383,1/29/2017 05:23:47,true,2361593872,,1/29/2017 05:16:31,false,clixsense,0.8,34940153,IND,19,Bangalore,117.192.48.3,antonym,antonym,onerous,light
+1143392383,1/29/2017 05:25:24,true,2361594127,true,1/29/2017 05:24:12,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,antonym,onerous,light
+1143392383,1/29/2017 05:42:15,true,2361597452,,1/29/2017 05:32:55,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,antonym,antonym,onerous,light
+1143392383,1/29/2017 05:43:25,true,2361597739,true,1/29/2017 05:42:34,false,prodege,0.8,33565158,USA,OK,Edmond,107.142.162.102,unrelated,antonym,onerous,light
+1143392383,1/29/2017 05:43:43,true,2361597870,,1/29/2017 05:41:39,false,neodev,0.8,34790451,VEN,"","",190.201.180.170,antonym,antonym,onerous,light
+1143392383,1/29/2017 05:43:57,true,2361597886,true,1/29/2017 05:42:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,antonym,onerous,light
+1143392383,1/29/2017 05:46:20,true,2361598469,,1/29/2017 05:42:14,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,antonym,antonym,onerous,light
+1143392383,1/29/2017 05:47:52,true,2361598936,true,1/29/2017 05:45:05,false,clixsense,0.8333,33919870,RUS,53,Novosibirsk,109.174.113.182,unrelated,antonym,onerous,light
+1143392383,1/29/2017 05:48:30,true,2361598997,,1/29/2017 05:46:19,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,antonym,onerous,light
+1143392383,1/29/2017 06:09:51,true,2361603563,,1/29/2017 06:04:01,false,clixsense,1.0,24373944,PHL,"","",121.54.90.140,antonym,antonym,onerous,light
+1143392464,1/29/2017 05:19:30,true,2361593258,true,1/29/2017 05:18:20,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,antonym,usurious,reasonable
+1143392464,1/29/2017 05:23:47,true,2361593876,,1/29/2017 05:16:31,false,clixsense,0.8,34940153,IND,19,Bangalore,117.192.48.3,antonym,antonym,usurious,reasonable
+1143392464,1/29/2017 05:24:59,true,2361594038,,1/29/2017 05:24:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,antonym,usurious,reasonable
+1143392464,1/29/2017 05:31:54,true,2361595199,,1/29/2017 05:29:38,false,instagc,1.0,34990333,VEN,25,Caracas,190.153.7.160,antonym,antonym,usurious,reasonable
+1143392464,1/29/2017 05:33:21,true,2361595478,,1/29/2017 05:30:13,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,antonym,usurious,reasonable
+1143392464,1/29/2017 05:36:48,true,2361596169,,1/29/2017 05:34:07,false,clixsense,0.8,21781365,PAK,03,Abbottabad,39.54.69.153,antonym,antonym,usurious,reasonable
+1143392464,1/29/2017 05:46:30,true,2361598528,,1/29/2017 05:44:52,false,clixsense,1.0,14783334,IDN,04,Jakarta,139.193.153.41,antonym,antonym,usurious,reasonable
+1143392515,1/29/2017 05:19:12,true,2361593229,false,1/29/2017 05:17:02,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:32:15,true,2361595265,false,1/29/2017 05:31:19,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:34:52,true,2361595729,false,1/29/2017 05:33:52,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,antonym,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:37:16,true,2361596278,,1/29/2017 05:36:23,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:37:46,true,2361596341,false,1/29/2017 05:29:40,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:39:02,true,2361596676,false,1/29/2017 05:29:08,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,antonym,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:43:46,true,2361597873,false,1/29/2017 05:36:29,false,clixsense,1.0,39207095,RUS,48,Moscow,46.39.53.149,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:45:23,true,2361598274,false,1/29/2017 05:33:32,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:46:30,true,2361598520,false,1/29/2017 05:44:52,false,clixsense,1.0,14783334,IDN,04,Jakarta,139.193.153.41,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:47:14,true,2361598804,false,1/29/2017 05:44:06,false,clixsense,0.8,9832767,IND,25,Ramanathapuram,117.206.125.1,unrelated,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 05:52:34,true,2361600131,false,1/29/2017 05:50:29,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,antonym,"antonym
+unrelated
+other",upright,lousy
+1143392515,1/29/2017 06:05:48,true,2361602841,,1/29/2017 06:05:18,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,antonym,"antonym
+unrelated
+other",upright,lousy
+1143392561,1/29/2017 05:22:04,true,2361593593,,1/29/2017 05:20:25,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:25:47,true,2361594226,,1/29/2017 05:25:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:30:25,true,2361594979,,1/29/2017 05:25:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:33:21,true,2361595476,,1/29/2017 05:30:13,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:33:39,true,2361595526,true,1/29/2017 05:30:51,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,other,unrelated,bod,ground
+1143392561,1/29/2017 05:37:46,true,2361596343,,1/29/2017 05:29:40,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:39:02,true,2361596672,,1/29/2017 05:29:08,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:41:15,true,2361597212,,1/29/2017 05:33:09,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:43:46,true,2361597874,,1/29/2017 05:36:29,false,clixsense,1.0,39207095,RUS,48,Moscow,46.39.53.149,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:48:50,true,2361599182,,1/29/2017 05:40:35,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,unrelated,unrelated,bod,ground
+1143392561,1/29/2017 05:56:53,true,2361601184,,1/29/2017 05:56:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,unrelated,bod,ground
+1143392561,2/1/2017 07:55:23,true,2364573556,,2/1/2017 07:53:54,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,unrelated,bod,ground
+1143392561,2/1/2017 08:15:13,true,2364588482,,2/1/2017 08:05:58,false,neodev,0.8,11010358,ITA,14,Bolotana,2.39.225.253,unrelated,unrelated,bod,ground
+1143392570,1/29/2017 05:23:21,true,2361593803,,1/29/2017 05:22:06,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,other,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:31:54,true,2361595200,false,1/29/2017 05:29:38,false,instagc,1.0,34990333,VEN,25,Caracas,190.153.7.160,antonym,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:33:15,true,2361595450,false,1/29/2017 05:32:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:43:46,true,2361597875,false,1/29/2017 05:36:29,false,clixsense,1.0,39207095,RUS,48,Moscow,46.39.53.149,unrelated,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:48:34,true,2361599092,false,1/29/2017 05:41:58,false,neodev,1.0,40629093,PHL,"","",180.191.118.20,antonym,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:50:19,true,2361599563,false,1/29/2017 05:46:12,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:53:26,true,2361600377,false,1/29/2017 05:52:09,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 05:55:28,true,2361600984,false,1/29/2017 05:39:44,false,neodev,0.8,39061991,VEN,25,Caracas,190.198.56.153,antonym,"antonym
+unrelated
+other",incorrect,decently
+1143392570,1/29/2017 06:00:26,true,2361601850,false,1/29/2017 05:42:39,false,neodev,1.0,40282907,EGY,11,Cairo,41.47.4.149,unrelated,"antonym
+unrelated
+other",incorrect,decently
+1143392570,2/1/2017 07:58:40,true,2364576307,,2/1/2017 07:55:50,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,"antonym
+unrelated
+other",incorrect,decently
+1143392570,2/1/2017 08:01:16,true,2364578254,,2/1/2017 08:00:27,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,"antonym
+unrelated
+other",incorrect,decently
+1143392575,1/29/2017 05:23:58,true,2361593911,true,1/29/2017 05:23:22,false,clixsense,0.75,40945060,IND,07,Delhi,45.118.158.5,antonym,unrelated,even,low
+1143392575,1/29/2017 05:24:59,true,2361594037,,1/29/2017 05:24:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,even,low
+1143392575,1/29/2017 05:26:20,true,2361594363,,1/29/2017 05:23:17,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,unrelated,even,low
+1143392575,1/29/2017 05:30:25,true,2361594980,,1/29/2017 05:25:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,even,low
+1143392575,1/29/2017 05:33:21,true,2361595474,,1/29/2017 05:30:13,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,unrelated,even,low
+1143392575,1/29/2017 05:45:23,true,2361598296,,1/29/2017 05:33:32,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,unrelated,unrelated,even,low
+1143392575,1/29/2017 05:57:31,true,2361601366,,1/29/2017 05:52:09,false,neodev,1.0,41042531,BGD,"","",123.108.244.21,unrelated,unrelated,even,low
+1143392575,1/29/2017 06:09:16,true,2361603475,,1/29/2017 05:51:48,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,unrelated,even,low
+1143392575,2/1/2017 07:10:55,true,2364543063,,2/1/2017 07:09:41,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,unrelated,even,low
+1143392575,2/1/2017 08:04:20,true,2364580618,true,2/1/2017 08:03:47,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,unrelated,even,low
+1143392575,2/1/2017 08:12:33,true,2364586483,,2/1/2017 07:51:53,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,unrelated,even,low
+1143392577,1/29/2017 05:30:25,true,2361594978,,1/29/2017 05:25:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,antonym,badly,fair
+1143392577,1/29/2017 05:37:46,true,2361596340,true,1/29/2017 05:29:40,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,unrelated,antonym,badly,fair
+1143392577,1/29/2017 05:45:23,true,2361598276,,1/29/2017 05:33:32,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,antonym,badly,fair
+1143392577,1/29/2017 05:50:27,true,2361599638,,1/29/2017 05:48:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,antonym,antonym,badly,fair
+1143392577,1/29/2017 05:55:28,true,2361600981,,1/29/2017 05:39:44,false,neodev,0.8,39061991,VEN,25,Caracas,190.198.56.153,antonym,antonym,badly,fair
+1143392577,1/29/2017 06:06:37,true,2361603006,,1/29/2017 06:04:10,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,antonym,badly,fair
+1143392594,1/29/2017 05:21:08,true,2361593435,true,1/29/2017 05:19:21,false,clixsense,0.7778,34807809,ISR,05,Tel Aviv,46.116.79.74,other,antonym,fear,fearlessness
+1143392594,1/29/2017 05:29:40,true,2361594844,true,1/29/2017 05:26:21,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,other,antonym,fear,fearlessness
+1143392594,1/29/2017 05:31:18,true,2361595111,,1/29/2017 05:30:26,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:33:21,true,2361595477,,1/29/2017 05:30:13,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:38:07,true,2361596506,true,1/29/2017 05:37:17,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,antonym,fear,fearlessness
+1143392594,1/29/2017 05:41:15,true,2361597213,,1/29/2017 05:33:09,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:42:15,true,2361597451,,1/29/2017 05:32:55,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:46:20,true,2361598461,,1/29/2017 05:42:14,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:48:50,true,2361599189,,1/29/2017 05:40:35,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:52:05,true,2361600012,,1/29/2017 05:49:11,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,antonym,fear,fearlessness
+1143392594,1/29/2017 05:53:26,true,2361600386,,1/29/2017 05:52:19,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,antonym,fear,fearlessness
+1143392855,1/29/2017 05:30:25,true,2361594977,,1/29/2017 05:25:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,"unrelated
+entailment
+other",tensely,extremely hard
+1143392855,1/29/2017 05:36:14,true,2361595941,false,1/29/2017 05:31:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,entailment,"unrelated
+entailment
+other",tensely,extremely hard
+1143392855,1/29/2017 05:36:48,true,2361596170,true,1/29/2017 05:34:07,false,clixsense,0.8,21781365,PAK,03,Abbottabad,39.54.69.153,antonym,"unrelated
+entailment
+other",tensely,extremely hard
+1143392855,1/29/2017 05:41:15,true,2361597211,false,1/29/2017 05:33:09,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,"unrelated
+entailment
+other",tensely,extremely hard
+1143392855,1/29/2017 05:42:45,true,2361597592,true,1/29/2017 05:39:18,false,clixsense,0.75,39134099,IND,28,Kolkata,103.240.96.196,antonym,"unrelated
+entailment
+other",tensely,extremely hard
+1143392855,1/29/2017 05:47:14,true,2361598805,false,1/29/2017 05:44:06,false,clixsense,0.8,9832767,IND,25,Ramanathapuram,117.206.125.1,unrelated,"unrelated
+entailment
+other",tensely,extremely hard
+1143392855,1/29/2017 05:58:16,true,2361601487,false,1/29/2017 05:57:46,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,"unrelated
+entailment
+other",tensely,extremely hard
+1143392935,1/29/2017 05:34:20,true,2361595645,,1/29/2017 05:33:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,"antonym
+other",plenty,poorly
+1143392935,1/29/2017 05:41:15,true,2361597209,,1/29/2017 05:33:09,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,antonym,"antonym
+other",plenty,poorly
+1143392935,1/29/2017 05:45:23,true,2361598278,,1/29/2017 05:33:32,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,"antonym
+other",plenty,poorly
+1143392935,1/29/2017 05:47:59,true,2361598969,,1/29/2017 05:47:33,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,"antonym
+other",plenty,poorly
+1143392935,2/1/2017 08:28:25,true,2364596557,true,2/1/2017 08:26:23,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,"antonym
+other",plenty,poorly
+1143392957,1/29/2017 05:30:25,true,2361594952,,1/29/2017 05:29:40,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,even,glib
+1143392957,1/29/2017 05:30:25,true,2361594981,,1/29/2017 05:25:53,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,even,glib
+1143392957,1/29/2017 05:46:20,true,2361598460,,1/29/2017 05:42:14,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,unrelated,even,glib
+1143392957,1/29/2017 05:48:34,true,2361599093,,1/29/2017 05:41:58,false,neodev,1.0,40629093,PHL,"","",180.191.118.20,unrelated,unrelated,even,glib
+1143392957,1/29/2017 05:49:04,true,2361599242,,1/29/2017 05:42:50,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,unrelated,even,glib
+1143392957,1/29/2017 05:50:19,true,2361599565,,1/29/2017 05:46:12,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,unrelated,even,glib
+1143392957,1/29/2017 06:09:16,true,2361603476,,1/29/2017 05:51:48,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,unrelated,even,glib
+1143392957,2/1/2017 07:56:17,true,2364574260,,2/1/2017 07:55:24,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,unrelated,even,glib
+1143392957,2/1/2017 07:56:22,true,2364574324,,2/1/2017 07:55:16,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,unrelated,even,glib
+1143393033,1/29/2017 05:33:39,true,2361595528,,1/29/2017 05:30:51,false,neodev,0.8333,24577513,PHL,"","",112.198.99.65,other,other,easy,leisurely
+1143393033,1/29/2017 05:36:52,true,2361596184,,1/29/2017 05:35:59,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,other,easy,leisurely
+1143393033,1/29/2017 05:47:14,true,2361598806,true,1/29/2017 05:44:06,false,clixsense,0.8,9832767,IND,25,Ramanathapuram,117.206.125.1,unrelated,other,easy,leisurely
+1143393033,1/29/2017 05:55:14,true,2361600921,true,1/29/2017 05:54:09,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,category,other,easy,leisurely
+1143393033,1/29/2017 06:05:58,true,2361602872,true,1/29/2017 06:00:44,false,clixsense,0.8,28863630,IND,"","",115.98.84.78,category,other,easy,leisurely
+1143393033,1/29/2017 06:14:06,true,2361604238,,1/29/2017 06:11:24,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,other,other,easy,leisurely
+1143393106,1/29/2017 05:35:16,true,2361595790,,1/29/2017 05:33:30,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,unrelated,"unrelated
+other",compatible,patronise
+1143393106,1/29/2017 05:35:58,true,2361595879,,1/29/2017 05:35:05,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,"unrelated
+other",compatible,patronise
+1143393106,1/29/2017 05:41:15,true,2361597208,,1/29/2017 05:33:09,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,"unrelated
+other",compatible,patronise
+1143393106,1/29/2017 05:52:05,true,2361600010,,1/29/2017 05:49:11,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,"unrelated
+other",compatible,patronise
+1143393106,1/29/2017 06:09:51,true,2361603562,,1/29/2017 06:04:01,false,clixsense,1.0,24373944,PHL,"","",121.54.90.140,unrelated,"unrelated
+other",compatible,patronise
+1143393106,2/1/2017 08:04:47,true,2364580962,,2/1/2017 07:59:58,false,clixsense,0.8,36744460,ITA,12,Tortona,2.230.120.157,unrelated,"unrelated
+other",compatible,patronise
+1143393106,2/1/2017 08:28:42,true,2364596687,,2/1/2017 08:07:44,false,clixsense,0.8,40289526,TUR,"","",46.154.10.113,unrelated,"unrelated
+other",compatible,patronise
+1143393167,1/29/2017 05:35:03,true,2361595753,,1/29/2017 05:34:22,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,"unrelated
+other",long,hatful
+1143393167,1/29/2017 05:36:10,true,2361595921,,1/29/2017 05:33:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,"unrelated
+other",long,hatful
+1143393167,1/29/2017 05:36:48,true,2361596172,,1/29/2017 05:34:07,false,clixsense,0.8,21781365,PAK,03,Abbottabad,39.54.69.153,unrelated,"unrelated
+other",long,hatful
+1143393167,1/29/2017 05:46:18,true,2361598455,,1/29/2017 05:44:12,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,other,"unrelated
+other",long,hatful
+1143393167,1/29/2017 06:00:20,true,2361601845,,1/29/2017 05:59:13,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,"unrelated
+other",long,hatful
+1143393167,1/29/2017 06:00:26,true,2361601848,,1/29/2017 05:42:39,false,neodev,1.0,40282907,EGY,11,Cairo,41.47.4.149,unrelated,"unrelated
+other",long,hatful
+1143393167,2/1/2017 08:14:44,true,2364588207,,2/1/2017 08:07:02,false,clixsense,0.8,37318531,VEN,13,Barquisimeto,190.142.68.11,unrelated,"unrelated
+other",long,hatful
+1143393283,1/29/2017 05:38:58,true,2361596655,true,1/29/2017 05:37:48,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,"antonym
+other",appropriate,flaw
+1143393283,1/29/2017 05:40:24,true,2361597008,,1/29/2017 05:39:38,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,"antonym
+other",appropriate,flaw
+1143393283,1/29/2017 05:48:27,true,2361598992,,1/29/2017 05:45:54,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,antonym,"antonym
+other",appropriate,flaw
+1143393283,1/29/2017 05:50:19,true,2361599561,,1/29/2017 05:46:12,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,"antonym
+other",appropriate,flaw
+1143393283,2/1/2017 07:52:48,true,2364571512,,2/1/2017 07:47:13,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,"antonym
+other",appropriate,flaw
+1143393334,1/29/2017 05:36:15,true,2361595966,true,1/29/2017 05:35:18,false,elite,0.75,30128662,BGR,50,Pleven,212.233.177.95,antonym,unrelated,right,ill-timed
+1143393334,1/29/2017 05:37:15,true,2361596273,,1/29/2017 05:36:11,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,right,ill-timed
+1143393334,1/29/2017 05:48:34,true,2361599094,,1/29/2017 05:41:58,false,neodev,1.0,40629093,PHL,"","",180.191.118.20,unrelated,unrelated,right,ill-timed
+1143393334,1/29/2017 06:01:38,true,2361602098,,1/29/2017 05:59:58,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,unrelated,right,ill-timed
+1143393378,1/29/2017 05:41:15,true,2361597207,,1/29/2017 05:40:21,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,slowly,terrible
+1143393378,1/29/2017 05:46:20,true,2361598470,,1/29/2017 05:42:14,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,unrelated,slowly,terrible
+1143393378,1/29/2017 06:41:50,true,2361612138,,1/29/2017 06:32:39,false,neodev,0.8333,41426443,VEN,13,Barquisimeto,190.207.131.213,unrelated,unrelated,slowly,terrible
+1143393378,2/1/2017 08:05:52,true,2364581614,,2/1/2017 08:01:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,slowly,terrible
+1143393540,1/29/2017 05:43:25,true,2361597740,false,1/29/2017 05:42:34,false,prodege,0.8,33565158,USA,OK,Edmond,107.142.162.102,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 05:43:43,true,2361597867,false,1/29/2017 05:41:39,false,neodev,0.8,34790451,VEN,"","",190.201.180.170,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 05:49:04,true,2361599243,true,1/29/2017 05:42:50,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,entailment,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 05:54:26,true,2361600720,false,1/29/2017 05:50:40,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,other,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 05:55:06,true,2361600889,false,1/29/2017 05:54:06,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 05:57:31,true,2361601356,true,1/29/2017 05:52:09,false,neodev,1.0,41042531,BGD,"","",123.108.244.21,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 05:58:19,true,2361601502,false,1/29/2017 05:56:43,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 06:03:55,true,2361602554,false,1/29/2017 06:03:30,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393540,1/29/2017 06:04:20,true,2361602579,false,1/29/2017 05:59:17,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393540,2/1/2017 07:09:32,true,2364542065,,2/1/2017 07:08:59,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,"antonym
+unrelated
+other",weak,sound
+1143393564,1/29/2017 05:39:29,true,2361596750,true,1/29/2017 05:38:18,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,antonym,sufficiency,limited
+1143393564,2/1/2017 07:59:20,true,2364576857,true,2/1/2017 07:58:24,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,paraphrase,antonym,sufficiency,limited
+1143393592,1/29/2017 05:41:59,true,2361597368,,1/29/2017 05:41:16,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,no,neutralize
+1143393592,1/29/2017 05:48:34,true,2361599090,,1/29/2017 05:41:58,false,neodev,1.0,40629093,PHL,"","",180.191.118.20,unrelated,unrelated,no,neutralize
+1143393592,1/29/2017 05:49:04,true,2361599245,,1/29/2017 05:42:50,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,unrelated,no,neutralize
+1143393592,1/29/2017 05:54:32,true,2361600772,,1/29/2017 05:54:12,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,unrelated,no,neutralize
+1143393592,1/29/2017 05:57:31,true,2361601358,,1/29/2017 05:52:09,false,neodev,1.0,41042531,BGD,"","",123.108.244.21,unrelated,unrelated,no,neutralize
+1143393592,2/1/2017 08:05:36,true,2364581517,,2/1/2017 08:04:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,no,neutralize
+1143393592,2/1/2017 08:14:44,true,2364588209,,2/1/2017 08:07:02,false,clixsense,0.8,37318531,VEN,13,Barquisimeto,190.142.68.11,unrelated,unrelated,no,neutralize
+1143393592,2/1/2017 08:15:37,true,2364588874,,2/1/2017 08:11:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,no,neutralize
+1143393618,1/29/2017 05:40:19,true,2361596979,,1/29/2017 05:39:51,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,other,other,difficult,harsh
+1143393618,1/29/2017 05:42:24,true,2361597487,,1/29/2017 05:40:25,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,other,other,difficult,harsh
+1143393618,1/29/2017 05:43:43,true,2361597868,true,1/29/2017 05:41:39,false,neodev,0.8,34790451,VEN,"","",190.201.180.170,entailment,other,difficult,harsh
+1143393618,1/29/2017 05:47:14,true,2361598802,,1/29/2017 05:44:06,false,clixsense,0.8,9832767,IND,25,Ramanathapuram,117.206.125.1,other,other,difficult,harsh
+1143393618,1/29/2017 05:52:05,true,2361600011,,1/29/2017 05:49:11,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,other,other,difficult,harsh
+1143393618,1/29/2017 06:00:26,true,2361601847,,1/29/2017 05:42:39,false,neodev,1.0,40282907,EGY,11,Cairo,41.47.4.149,other,other,difficult,harsh
+1143393618,1/29/2017 06:05:16,true,2361602776,,1/29/2017 06:04:26,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,other,difficult,harsh
+1143393618,1/29/2017 06:09:16,true,2361603474,,1/29/2017 05:51:48,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,other,other,difficult,harsh
+1143393618,2/1/2017 08:03:08,true,2364579610,true,2/1/2017 08:02:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,other,difficult,harsh
+1143393636,1/29/2017 05:44:28,true,2361597996,,1/29/2017 05:43:44,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,antonym,antonym,irrelevant,substantial
+1143393636,1/29/2017 05:55:28,true,2361600980,,1/29/2017 05:39:44,false,neodev,0.8,39061991,VEN,25,Caracas,190.198.56.153,antonym,antonym,irrelevant,substantial
+1143393636,1/29/2017 06:05:02,true,2361602678,,1/29/2017 06:01:34,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,antonym,antonym,irrelevant,substantial
+1143393689,1/29/2017 05:43:42,true,2361597862,,1/29/2017 05:43:14,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,unrelated,scarce,huh
+1143393689,1/29/2017 05:52:05,true,2361600008,,1/29/2017 05:49:11,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,unrelated,scarce,huh
+1143393689,1/29/2017 05:52:13,true,2361600049,,1/29/2017 05:48:59,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,scarce,huh
+1143393689,1/29/2017 05:55:28,true,2361600983,,1/29/2017 05:39:44,false,neodev,0.8,39061991,VEN,25,Caracas,190.198.56.153,unrelated,unrelated,scarce,huh
+1143393689,1/29/2017 05:59:38,true,2361601708,,1/29/2017 05:55:50,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,unrelated,unrelated,scarce,huh
+1143393689,1/29/2017 06:00:26,true,2361601851,,1/29/2017 05:42:39,false,neodev,1.0,40282907,EGY,11,Cairo,41.47.4.149,unrelated,unrelated,scarce,huh
+1143393689,1/29/2017 06:05:02,true,2361602680,true,1/29/2017 06:01:34,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,other,unrelated,scarce,huh
+1143393689,2/1/2017 08:12:33,true,2364586484,,2/1/2017 07:51:53,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,unrelated,scarce,huh
+1143393726,1/29/2017 05:43:25,true,2361597737,,1/29/2017 05:42:34,false,prodege,0.8,33565158,USA,OK,Edmond,107.142.162.102,unrelated,"unrelated
+other",properly,handsome
+1143393726,1/29/2017 05:48:34,true,2361599091,false,1/29/2017 05:41:58,false,neodev,1.0,40629093,PHL,"","",180.191.118.20,other,"unrelated
+other",properly,handsome
+1143393726,1/29/2017 05:50:37,true,2361599666,false,1/29/2017 05:48:49,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,other,"unrelated
+other",properly,handsome
+1143393726,1/29/2017 05:53:40,true,2361600447,true,1/29/2017 05:52:10,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,other,"unrelated
+other",properly,handsome
+1143393726,1/29/2017 05:59:38,true,2361601710,false,1/29/2017 05:55:50,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,"unrelated
+other",properly,handsome
+1143393726,1/29/2017 06:34:57,true,2361610829,,1/29/2017 06:27:57,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,"unrelated
+other",properly,handsome
+1143393800,1/29/2017 05:42:41,true,2361597588,true,1/29/2017 05:42:00,false,clixsense,0.88,28351359,GBR,M5,Leigh-on-sea,86.160.241.121,unrelated,other,bad,cunning
+1143393800,1/29/2017 05:44:11,true,2361597950,,1/29/2017 05:41:34,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,other,other,bad,cunning
+1143393800,1/29/2017 05:48:50,true,2361599190,true,1/29/2017 05:48:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,other,bad,cunning
+1143393800,1/29/2017 05:53:36,true,2361600425,,1/29/2017 05:44:17,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,other,other,bad,cunning
+1143393800,1/29/2017 06:09:16,true,2361603478,,1/29/2017 05:51:48,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,other,other,bad,cunning
+1143393800,2/1/2017 07:09:32,true,2364542067,true,2/1/2017 07:08:59,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,other,bad,cunning
+1143393840,1/29/2017 06:03:12,true,2361602447,true,1/29/2017 06:01:40,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,antonym,unusual,pattern
+1143393840,1/29/2017 06:09:16,true,2361603477,true,1/29/2017 05:51:48,false,elite,0.8571,40910570,IDN,04,Jakarta,202.62.18.123,unrelated,antonym,unusual,pattern
+1143393867,1/29/2017 05:43:25,true,2361597736,,1/29/2017 05:42:34,false,prodege,0.8,33565158,USA,OK,Edmond,107.142.162.102,antonym,antonym,innocuous,noxious
+1143393867,1/29/2017 05:53:52,true,2361600539,,1/29/2017 05:52:49,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,antonym,antonym,innocuous,noxious
+1143393867,1/29/2017 06:03:30,true,2361602504,true,1/29/2017 06:02:38,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,antonym,innocuous,noxious
+1143393867,1/29/2017 06:05:02,true,2361602679,,1/29/2017 06:01:34,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,antonym,antonym,innocuous,noxious
+1143393867,2/1/2017 08:10:52,true,2364585262,true,2/1/2017 08:08:44,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.102,paraphrase,antonym,innocuous,noxious
+1143393867,2/1/2017 08:15:13,true,2364588481,,2/1/2017 08:05:58,false,neodev,0.8,11010358,ITA,14,Bolotana,2.39.225.253,antonym,antonym,innocuous,noxious
+1143393902,1/29/2017 05:48:48,true,2361599158,,1/29/2017 05:46:50,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,other,other,turnabout,obverse
+1143393902,1/29/2017 05:59:38,true,2361601711,,1/29/2017 05:55:50,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,other,other,turnabout,obverse
+1143393902,1/29/2017 06:05:02,true,2361602681,,1/29/2017 06:01:34,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,other,other,turnabout,obverse
+1143393902,1/29/2017 06:08:06,true,2361603265,true,1/29/2017 05:53:41,false,clixsense,0.7143,31231966,IDN,08,Surabaya,114.121.237.204,unrelated,other,turnabout,obverse
+1143393949,1/29/2017 05:56:33,true,2361601114,true,1/29/2017 05:56:09,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,antonym,immorality,good
+1143393949,1/29/2017 06:09:51,true,2361603564,,1/29/2017 06:04:01,false,clixsense,1.0,24373944,PHL,"","",121.54.90.140,antonym,antonym,immorality,good
+1143393970,1/29/2017 05:47:32,true,2361598865,,1/29/2017 05:45:48,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,unrelated,well,gloomy
+1143393970,1/29/2017 05:50:19,true,2361599564,,1/29/2017 05:46:12,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,unrelated,well,gloomy
+1143393970,1/29/2017 05:51:00,true,2361599750,,1/29/2017 05:48:31,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,unrelated,well,gloomy
+1143393970,1/29/2017 05:52:49,true,2361600197,true,1/29/2017 05:52:06,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,antonym,unrelated,well,gloomy
+1143393970,1/29/2017 05:53:53,true,2361600545,true,1/29/2017 05:52:52,false,neodev,0.8889,34779866,LKA,36,Colombo,123.231.125.184,other,unrelated,well,gloomy
+1143393970,2/1/2017 07:52:48,true,2364571508,,2/1/2017 07:47:13,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,well,gloomy
+1143393970,2/1/2017 07:55:05,true,2364573301,true,2/1/2017 07:54:35,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,unrelated,well,gloomy
+1143394012,1/29/2017 05:52:18,true,2361600053,,1/29/2017 05:50:44,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,antonym,"antonym
+unrelated
+other",undefined,determine
+1143394012,1/29/2017 05:56:52,true,2361601180,true,1/29/2017 05:55:41,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,"antonym
+unrelated
+other",undefined,determine
+1143394085,1/29/2017 05:50:24,true,2361599598,true,1/29/2017 05:48:28,false,neodev,0.875,39641439,VEN,23,Ambrosio,200.82.248.186,unrelated,other,compatible,sustain
+1143394128,1/29/2017 05:52:05,true,2361600009,,1/29/2017 05:49:11,false,clixsense,0.8182,7168803,RUS,65,Samara,88.200.214.177,unrelated,"unrelated
+other",mediocre,wrong
+1143394128,1/29/2017 06:51:27,true,2361614332,,1/29/2017 06:48:23,false,neodev,0.9091,41457763,VEN,04,Maracay,201.242.53.20,unrelated,"unrelated
+other",mediocre,wrong
+1143394128,2/1/2017 08:05:16,true,2364581274,true,2/1/2017 08:04:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,"unrelated
+other",mediocre,wrong
+1143394128,2/1/2017 08:16:41,true,2364589726,,2/1/2017 08:14:55,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,"unrelated
+other",mediocre,wrong
+1143394128,2/1/2017 08:28:42,true,2364596688,,2/1/2017 08:07:44,false,clixsense,0.8,40289526,TUR,"","",46.154.10.113,unrelated,"unrelated
+other",mediocre,wrong
+1143394221,1/29/2017 05:56:07,true,2361601074,,1/29/2017 05:55:01,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,"unrelated
+other",impractical,tardily
+1143394221,1/29/2017 06:01:37,true,2361602091,,1/29/2017 06:00:21,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,"unrelated
+other",impractical,tardily
+1143394225,1/29/2017 05:57:31,true,2361601359,,1/29/2017 05:52:09,false,neodev,1.0,41042531,BGD,"","",123.108.244.21,antonym,antonym,unserviceable,serviceable
+1143394225,1/29/2017 06:04:24,true,2361602590,,1/29/2017 06:03:33,false,neodev,0.9,11003784,ZAF,"","",105.185.4.128,antonym,antonym,unserviceable,serviceable
+1143394225,2/1/2017 07:50:54,true,2364570188,,2/1/2017 07:50:23,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,unserviceable,serviceable
+1143394225,2/1/2017 08:04:47,true,2364580961,,2/1/2017 07:59:58,false,clixsense,0.8,36744460,ITA,12,Tortona,2.230.120.157,antonym,antonym,unserviceable,serviceable
+1143394225,2/1/2017 09:14:02,true,2364617481,,2/1/2017 09:10:34,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,antonym,antonym,unserviceable,serviceable
+1143394241,1/29/2017 06:05:58,true,2361602869,,1/29/2017 06:00:44,false,clixsense,0.8,28863630,IND,"","",115.98.84.78,unrelated,"unrelated
+other",pretend,good
+1143394241,2/1/2017 07:09:32,true,2364542069,,2/1/2017 07:08:59,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,"unrelated
+other",pretend,good
+1143394241,2/1/2017 07:49:05,true,2364568971,,2/1/2017 07:46:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,"unrelated
+other",pretend,good
+1143394298,1/29/2017 05:52:07,true,2361600020,,1/29/2017 05:50:47,false,elite,0.8889,36575101,IND,07,New Delhi,112.196.144.19,unrelated,unrelated,level,anymore
+1143394340,1/29/2017 05:52:41,true,2361600181,true,1/29/2017 05:52:15,false,clixsense,0.72,37302437,VEN,13,Barquisimeto,190.39.81.6,unrelated,other,sufficiency,satisfactory
+1143394340,1/29/2017 06:05:02,true,2361602677,,1/29/2017 06:01:34,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,other,other,sufficiency,satisfactory
+1143394359,1/29/2017 05:57:45,true,2361601413,,1/29/2017 05:56:54,false,neodev,0.8824,40808897,VEN,25,Caracas,186.94.218.233,unrelated,"unrelated
+other",effective,hard
+1143394359,1/29/2017 06:09:51,true,2361603565,,1/29/2017 06:04:01,false,clixsense,1.0,24373944,PHL,"","",121.54.90.140,unrelated,"unrelated
+other",effective,hard
+1143394359,2/1/2017 07:59:15,true,2364576763,,2/1/2017 07:58:29,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,"unrelated
+other",effective,hard
+1143394370,2/1/2017 08:15:13,true,2364588486,,2/1/2017 08:05:58,false,neodev,0.8,11010358,ITA,14,Bolotana,2.39.225.253,antonym,antonym,tie,untie
+1143394578,1/29/2017 05:55:40,true,2361601000,,1/29/2017 05:54:05,false,neodev,0.8889,21711933,JAM,08,Kingston,72.27.46.190,unrelated,"unrelated
+other",lightly,yearn
+1143394578,2/1/2017 07:52:48,true,2364571511,,2/1/2017 07:47:13,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,"unrelated
+other",lightly,yearn
+1143394607,2/1/2017 07:58:40,true,2364576309,true,2/1/2017 07:55:50,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,other,horrible,correct
+1143394607,2/1/2017 08:04:47,true,2364580963,true,2/1/2017 07:59:58,false,clixsense,0.8,36744460,ITA,12,Tortona,2.230.120.157,unrelated,other,horrible,correct
+1143394626,2/1/2017 08:11:13,true,2364585559,,2/1/2017 08:07:19,false,clixsense,0.8,38635928,PHL,"","",119.92.114.202,unrelated,unrelated,generally,long
+1143394676,1/29/2017 05:59:01,true,2361601600,true,1/29/2017 05:56:33,false,clixsense,0.8462,18744137,MEX,"","",187.228.59.38,unrelated,antonym,coruscate,still
+1143394676,2/1/2017 09:06:22,true,2364613775,true,2/1/2017 09:05:11,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,unrelated,antonym,coruscate,still
+1143394689,1/29/2017 06:05:58,true,2361602871,,1/29/2017 06:00:44,false,clixsense,0.8,28863630,IND,"","",115.98.84.78,unrelated,unrelated,dirty,ripe
+1143394689,1/29/2017 06:07:17,true,2361603134,,1/29/2017 06:05:10,false,neodev,0.8333,16437473,SVK,03,Kosice,88.212.37.183,unrelated,unrelated,dirty,ripe
+1143394689,2/1/2017 07:09:32,true,2364542068,,2/1/2017 07:08:59,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,unrelated,dirty,ripe
+1143394689,2/1/2017 07:53:53,true,2364572437,,2/1/2017 07:53:04,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,unrelated,dirty,ripe
+1143394698,1/29/2017 06:09:51,true,2361603561,,1/29/2017 06:04:01,false,clixsense,1.0,24373944,PHL,"","",121.54.90.140,unrelated,unrelated,d,personify
+1143394698,2/1/2017 07:52:12,true,2364571049,,2/1/2017 07:51:31,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,d,personify
+1143394698,2/1/2017 08:06:27,true,2364582121,,2/1/2017 08:03:39,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,unrelated,d,personify
+1143394725,1/29/2017 06:05:58,true,2361602873,,1/29/2017 06:00:44,false,clixsense,0.8,28863630,IND,"","",115.98.84.78,unrelated,unrelated,easily,wrongly
+1143394725,2/1/2017 07:53:02,true,2364571656,,2/1/2017 07:51:56,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,unrelated,easily,wrongly
+1143394725,2/1/2017 08:28:42,true,2364596685,true,2/1/2017 08:07:44,false,clixsense,0.8,40289526,TUR,"","",46.154.10.113,other,unrelated,easily,wrongly
+1143394725,2/1/2017 08:42:09,true,2364604193,,2/1/2017 08:39:10,false,clixsense,1.0,39517779,GRC,13,Thessaloníki,79.103.153.15,unrelated,unrelated,easily,wrongly
+1143607475,2/1/2017 08:00:58,true,2364578041,true,2/1/2017 08:00:31,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,unrelated,powerful,somewhat
+1143607486,2/1/2017 07:09:32,true,2364542066,,2/1/2017 07:08:59,false,clixsense,0.8333,31738779,CAN,ON,Guelph,45.72.159.205,unrelated,unrelated,there,back
+1143607486,2/1/2017 08:09:05,true,2364584058,,2/1/2017 08:07:52,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,there,back
+1143607495,2/1/2017 08:18:47,true,2364591232,,2/1/2017 08:17:41,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,unvoiced,tough
+1146590713,2/1/2017 08:01:51,true,2364578652,,2/1/2017 08:01:19,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,powerful,somewhat
+1146590815,2/1/2017 08:05:52,true,2364581616,true,2/1/2017 08:01:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,antonym,unrelated,powerful,somewhat
+1146590835,2/1/2017 08:12:33,true,2364586480,,2/1/2017 07:51:53,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,unrelated,compatible,patronize
+1146590838,2/1/2017 08:09:45,true,2364584618,,2/1/2017 08:01:29,false,clixsense,0.8,34242458,ITA,13,Bari,2.226.168.210,unrelated,unrelated,there,back
+1146590973,2/1/2017 07:54:18,true,2364572625,true,2/1/2017 07:53:46,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,"antonym
+other",unvoiced,tough
+1146591039,2/1/2017 08:00:22,true,2364577619,,2/1/2017 07:59:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,one-time,later
+1146591039,2/1/2017 08:03:28,true,2364579860,true,2/1/2017 08:00:00,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,other,unrelated,one-time,later
+1146591039,2/1/2017 08:06:27,true,2364582119,,2/1/2017 08:03:39,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,unrelated,one-time,later
+1146591115,2/1/2017 08:14:54,true,2364588304,,2/1/2017 08:12:43,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,unrelated,cold,easily
+1146591485,2/1/2017 07:59:59,true,2364577323,,2/1/2017 07:58:48,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,unrelated,powerful,somewhat
+1146591485,2/1/2017 08:06:27,true,2364582117,,2/1/2017 08:03:39,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,unrelated,powerful,somewhat
+1146591572,2/1/2017 07:58:40,true,2364576308,,2/1/2017 07:55:50,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,unrelated,one-time,later
+1146591581,2/1/2017 07:50:21,true,2364569781,,2/1/2017 07:49:17,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,disingenuous,TRUE
+1146591597,2/1/2017 07:59:27,true,2364576941,,2/1/2017 07:59:00,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,harmful,healthy
+1146591639,2/1/2017 07:55:00,true,2364573228,,2/1/2017 07:52:22,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,unrelated,designate,even
+1146591643,2/1/2017 08:04:47,true,2364580964,,2/1/2017 07:59:58,false,clixsense,0.8,36744460,ITA,12,Tortona,2.230.120.157,unrelated,unrelated,allow,rude
+1146591649,2/1/2017 07:52:48,true,2364571509,,2/1/2017 07:47:13,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,merely,want
+1146591677,2/1/2017 07:55:13,true,2364573432,,2/1/2017 07:52:51,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,discourtesy,defence
+1146591692,2/1/2017 08:02:09,true,2364578933,true,2/1/2017 08:01:10,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,unrelated,sole,certainly
+1146591692,2/1/2017 08:02:18,true,2364578958,true,2/1/2017 08:00:56,false,clixsense,0.75,39134099,IND,28,Kolkata,116.193.129.166,antonym,unrelated,sole,certainly
+1146591697,2/1/2017 08:07:47,true,2364583104,,2/1/2017 08:06:29,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,unrelated,relevant,debate
+1146591727,2/1/2017 08:15:37,true,2364588881,,2/1/2017 08:04:29,false,clixsense,0.8,35753782,ITA,13,Bari,2.226.168.210,antonym,antonym,irreplaceable,replaceable
+1146591729,2/1/2017 07:53:44,true,2364572377,,2/1/2017 07:52:54,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,total,go
+1146591729,2/1/2017 07:57:06,true,2364574872,,2/1/2017 07:56:24,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,unrelated,total,go
+1146591729,2/1/2017 08:06:17,true,2364581985,,2/1/2017 08:05:37,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,total,go
+1146591737,2/1/2017 07:52:51,true,2364571543,,2/1/2017 07:52:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,safe,item
+1146591737,2/1/2017 08:07:03,true,2364582494,,2/1/2017 08:06:18,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,safe,item
+1146591772,2/1/2017 08:11:13,true,2364585555,,2/1/2017 08:07:19,false,clixsense,0.8,38635928,PHL,"","",119.92.114.202,unrelated,unrelated,refrain,matchless
+1146591787,2/1/2017 07:55:00,true,2364573227,,2/1/2017 07:52:22,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,unrelated,bad,occupy
+1146591787,2/1/2017 07:58:23,true,2364576059,,2/1/2017 07:56:39,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,bad,occupy
+1146591787,2/1/2017 07:58:58,true,2364576598,,2/1/2017 07:58:20,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,bad,occupy
+1146591789,2/1/2017 07:58:10,true,2364575821,true,2/1/2017 07:57:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,paraphrase,unrelated,adequately,strong
+1146591792,2/1/2017 08:03:21,true,2364579783,true,2/1/2017 08:02:31,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,unrelated,straightaway,over
+1146591794,2/1/2017 08:09:45,true,2364584622,,2/1/2017 08:01:29,false,clixsense,0.8,34242458,ITA,13,Bari,2.226.168.210,unrelated,unrelated,lonesome,fail
+1146591798,2/1/2017 07:56:38,true,2364574533,,2/1/2017 07:55:20,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,sparse,foresighted
+1146591798,2/1/2017 08:15:37,true,2364588879,,2/1/2017 08:04:29,false,clixsense,0.8,35753782,ITA,13,Bari,2.226.168.210,unrelated,unrelated,sparse,foresighted
+1146591806,2/1/2017 07:55:57,true,2364574045,,2/1/2017 07:55:13,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,sick,compensate
+1146591812,2/1/2017 08:07:51,true,2364583147,,2/1/2017 08:06:03,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,considerably,gonna
+1146591816,2/1/2017 08:12:33,true,2364586482,,2/1/2017 07:51:53,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,antonym,antonym,correctly,mistaken
+1146591821,2/1/2017 07:51:30,true,2364570531,,2/1/2017 07:50:57,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,no,decease
+1146591848,2/1/2017 07:55:00,true,2364573225,,2/1/2017 07:52:22,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,unrelated,manage,today
+1146591848,2/1/2017 08:01:26,true,2364578397,,2/1/2017 08:00:23,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,manage,today
+1146591893,2/1/2017 08:28:42,true,2364596684,,2/1/2017 08:07:44,false,clixsense,0.8,40289526,TUR,"","",46.154.10.113,unrelated,"antonym
+unrelated",estimable,hurt
+1146591964,2/1/2017 08:04:47,true,2364580965,,2/1/2017 07:59:58,false,clixsense,0.8,36744460,ITA,12,Tortona,2.230.120.157,unrelated,unrelated,overpriced,brassy
+1146591971,2/1/2017 08:04:50,true,2364580994,,2/1/2017 08:03:27,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,solely,best
+1146591973,2/1/2017 08:42:09,true,2364604196,,2/1/2017 08:39:10,false,clixsense,1.0,39517779,GRC,13,Thessaloníki,79.103.153.15,unrelated,unrelated,nonetheless,yes
+1146592022,2/1/2017 08:42:09,true,2364604194,,2/1/2017 08:39:10,false,clixsense,1.0,39517779,GRC,13,Thessaloníki,79.103.153.15,unrelated,"unrelated
+other",hunt,hither
+1146592026,2/1/2017 08:02:42,true,2364579260,,2/1/2017 08:02:22,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,l,equal
+1146592034,2/1/2017 07:57:38,true,2364575389,,2/1/2017 07:56:18,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,unrelated,unrelated,rude,loose
+1146592041,2/1/2017 08:00:22,true,2364577597,true,2/1/2017 07:59:17,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,unrelated,ulterior,ago
+1146592041,2/1/2017 08:05:52,true,2364581613,,2/1/2017 08:01:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,ulterior,ago
+1146592050,2/1/2017 08:02:20,true,2364578993,,2/1/2017 08:01:53,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,"antonym
+unrelated",ulterior,ago
+1146592050,2/1/2017 08:09:45,true,2364584617,,2/1/2017 08:01:29,false,clixsense,0.8,34242458,ITA,13,Bari,2.226.168.210,unrelated,"antonym
+unrelated",ulterior,ago
+1146592054,2/1/2017 08:08:34,true,2364583776,,2/1/2017 08:07:55,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,l,ingest
+1146592060,2/1/2017 07:49:05,true,2364568970,,2/1/2017 07:46:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,unsuitable,ideal
+1146592060,2/1/2017 08:15:13,true,2364588484,,2/1/2017 08:05:58,false,neodev,0.8,11010358,ITA,14,Bolotana,2.39.225.253,antonym,antonym,unsuitable,ideal
+1146592070,2/1/2017 08:00:25,true,2364577628,,2/1/2017 08:00:01,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,finale,start
+1146592079,2/1/2017 08:08:27,true,2364583668,true,2/1/2017 08:07:48,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,antonym,excessively,thinly
+1146592125,2/1/2017 07:52:48,true,2364571510,,2/1/2017 07:47:13,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,unrelated,unrelated,keister,allow
+1146592125,2/1/2017 08:19:01,true,2364591339,,2/1/2017 08:16:42,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,unrelated,unrelated,keister,allow
+1146592132,2/1/2017 07:58:40,true,2364576310,,2/1/2017 07:55:50,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,unrelated,big,correct
+1146592132,2/1/2017 08:09:45,true,2364584623,true,2/1/2017 08:01:29,false,clixsense,0.8,34242458,ITA,13,Bari,2.226.168.210,paraphrase,unrelated,big,correct
+1146592140,2/1/2017 08:11:13,true,2364585557,,2/1/2017 08:07:19,false,clixsense,0.8,38635928,PHL,"","",119.92.114.202,antonym,antonym,counterfeit,honest
+1146592146,2/1/2017 07:57:57,true,2364575653,true,2/1/2017 07:57:07,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,antonym,useful,fruitless
+1146592146,2/1/2017 08:02:29,true,2364579094,,2/1/2017 08:01:28,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,antonym,useful,fruitless
+1146592172,2/1/2017 07:56:49,true,2364574710,,2/1/2017 07:55:59,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,less,static
+1146592195,2/1/2017 08:12:33,true,2364586481,true,2/1/2017 07:51:53,false,instagc,0.875,38787074,DNK,21,Billund,171.20.68.68,antonym,unrelated,spiteful,skilful
+1146592195,2/1/2017 08:15:13,true,2364588480,true,2/1/2017 08:05:58,false,neodev,0.8,11010358,ITA,14,Bolotana,2.39.225.253,other,unrelated,spiteful,skilful
+1146592208,2/1/2017 08:07:54,true,2364583260,,2/1/2017 08:07:04,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,antonym,antonym,wildness,tameness
+1146594356,2/1/2017 07:59:59,true,2364577328,,2/1/2017 07:59:29,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,"antonym
+category",monoecious,dioecious
+1146594370,2/1/2017 08:14:44,true,2364588208,true,2/1/2017 08:07:02,false,clixsense,0.8,37318531,VEN,13,Barquisimeto,190.142.68.11,unrelated,antonym,pervert,conform
+1146594400,2/1/2017 08:11:48,true,2364586059,,2/1/2017 08:09:07,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,well,thin
+1146594400,2/1/2017 08:42:09,true,2364604195,,2/1/2017 08:39:10,false,clixsense,1.0,39517779,GRC,13,Thessaloníki,79.103.153.15,unrelated,unrelated,well,thin
+1146594414,2/1/2017 07:49:05,true,2364568969,,2/1/2017 07:46:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,unrelated,scarce,fountainhead
+1146594478,2/1/2017 08:06:27,true,2364582120,,2/1/2017 08:03:39,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,unrelated,"antonym
+unrelated",skilful,unfortunate
+1146594556,2/1/2017 08:05:52,true,2364581615,,2/1/2017 08:01:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,paraphrase,paraphrase,symbolise,representation
+1146594603,2/1/2017 07:57:37,true,2364575385,,2/1/2017 07:56:51,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,efficient,unable
+1146594686,2/1/2017 07:51:54,true,2364570793,,2/1/2017 07:50:30,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,other,"entailment
+other",everybody,totally
+1146594701,2/1/2017 07:55:00,true,2364573229,true,2/1/2017 07:52:22,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,antonym,unrelated,decent,indefensible
+1146594710,2/1/2017 08:15:37,true,2364588880,true,2/1/2017 08:04:29,false,clixsense,0.8,35753782,ITA,13,Bari,2.226.168.210,paraphrase,unrelated,loose,inconvenient
+1146594743,2/1/2017 08:09:45,true,2364584619,,2/1/2017 08:01:29,false,clixsense,0.8,34242458,ITA,13,Bari,2.226.168.210,antonym,antonym,extricate,entangle
+1146594772,2/1/2017 08:11:13,true,2364585558,,2/1/2017 08:07:19,false,clixsense,0.8,38635928,PHL,"","",119.92.114.202,unrelated,unrelated,generally,long
+1146594772,2/1/2017 08:39:45,true,2364602976,,2/1/2017 08:28:36,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,unrelated,unrelated,generally,long
+1146594837,2/1/2017 07:49:05,true,2364568966,true,2/1/2017 07:46:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,antonym,nonpartisanship,partiality
+1146594845,2/1/2017 08:05:52,true,2364581612,,2/1/2017 08:01:49,false,clixsense,0.8462,40246355,MYS,05,Seremban,124.82.108.39,category,category,flora,fauna
+1146594845,2/1/2017 08:11:13,true,2364585553,true,2/1/2017 08:07:19,false,clixsense,0.8,38635928,PHL,"","",119.92.114.202,unrelated,category,flora,fauna
+1146594845,2/1/2017 08:15:37,true,2364588878,,2/1/2017 08:04:29,false,clixsense,0.8,35753782,ITA,13,Bari,2.226.168.210,category,category,flora,fauna
+1146594933,2/1/2017 08:06:27,true,2364582118,,2/1/2017 08:03:39,false,bitcoinget,0.75,40929721,NGA,"","",197.210.24.86,paraphrase,"paraphrase
+other",unmanageable,hard
+1146594946,2/1/2017 07:49:05,true,2364568965,,2/1/2017 07:46:39,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,antonym,antonym,permissible,intolerable
+1146594946,2/1/2017 07:50:28,true,2364569829,,2/1/2017 07:48:34,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,antonym,antonym,permissible,intolerable
+1146594946,2/1/2017 08:42:09,true,2364604192,,2/1/2017 08:39:10,false,clixsense,1.0,39517779,GRC,13,Thessaloníki,79.103.153.15,antonym,antonym,permissible,intolerable
+1146595083,2/1/2017 07:55:00,true,2364573226,,2/1/2017 07:52:22,false,neodev,0.75,19746351,ROU,10,Bucharest,109.166.132.104,unrelated,"unrelated
+other",applicable,vacancy
+1146595095,2/1/2017 07:58:40,true,2364576311,,2/1/2017 07:55:50,false,clixsense,0.7143,36594106,BIH,01,Gracanica,185.69.28.51,unrelated,"antonym
+unrelated",rarely,readily
+1146595180,2/1/2017 08:06:08,true,2364581830,true,2/1/2017 08:05:26,false,clixsense,0.7241,39495365,PHL,D9,Makati,202.124.142.132,unrelated,antonym,sufficiency,underemployment
+1146595285,2/1/2017 08:09:34,true,2364584456,,2/1/2017 08:08:36,false,neodev,0.9091,40809698,VEN,25,Caracas,200.84.62.237,paraphrase,"entailment
+paraphrase
+other",easygoing,easily
+1146595285,2/1/2017 08:15:37,true,2364588882,,2/1/2017 08:04:29,false,clixsense,0.8,35753782,ITA,13,Bari,2.226.168.210,paraphrase,"entailment
+paraphrase
+other",easygoing,easily
+1146597510,2/1/2017 07:58:27,true,2364576134,,2/1/2017 07:57:40,false,clixsense,0.7778,34807809,ISR,06,Jerusalem,93.172.115.79,paraphrase,"entailment
+paraphrase
+other",unspoiled,nice
